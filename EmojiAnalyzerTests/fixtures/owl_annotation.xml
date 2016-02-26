@@ -1,0 +1,7 @@
+    <Declaration>
+        <Class IRI="#ThenameAnnotation"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#ThenameAnnotation"/>
+        <Class IRI="#Annotations"/>
+    </SubClassOf>

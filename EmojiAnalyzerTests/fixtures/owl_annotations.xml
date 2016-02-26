@@ -1,0 +1,14 @@
+    <Declaration>
+        <Class IRI="#SmileAnnotation"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#SmileAnnotation"/>
+        <Class IRI="#Annotations"/>
+    </SubClassOf>
+    <Declaration>
+        <Class IRI="#FaceAnnotation"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#FaceAnnotation"/>
+        <Class IRI="#Annotations"/>
+    </SubClassOf>

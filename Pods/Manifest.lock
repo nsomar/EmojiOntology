@@ -1,0 +1,26 @@
+PODS:
+  - Colours (5.13.0):
+    - Colours/ObjC (= 5.13.0)
+  - Colours/ObjC (5.13.0)
+  - Nimble (4.0.0)
+  - Quick (0.9.2)
+  - SwiftCSV (0.2.2)
+  - Swiftline (0.4.0)
+
+DEPENDENCIES:
+  - Colours
+  - Nimble
+  - Quick
+  - SwiftCSV
+  - Swiftline
+
+SPEC CHECKSUMS:
+  Colours: f24220c38f13deac88612667e9b4a7fb96b871d4
+  Nimble: 72bcc3e2f02242e6bfaaf8d9412ca7bfe3d8b417
+  Quick: 18d057bc66451eedd5d1c8dc99ba2a5db6e60226
+  SwiftCSV: 29106dc25a7eca542a80486ae7f0ee19ccd37b9f
+  Swiftline: 001fae5ccb4000ad45b73c1e90969b50008ee2dd
+
+PODFILE CHECKSUM: 57552d34e1898b18cdd187edd2cbecd9a8f41fe3
+
+COCOAPODS: 1.0.0.beta.8

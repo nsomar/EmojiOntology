@@ -1,0 +1,5468 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+  xml:base="http://www.semanticweb.org/oabdelhafith/ontologies/2016/1/untitled-ontology-10"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:xml="http://www.w3.org/XML/1998/namespace"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  ontologyIRI="http://www.semanticweb.org/oabdelhafith/ontologies/2016/1/untitled-ontology-10">
+  <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+  <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+  <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+  <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+  <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+  <Declaration>
+    <Class IRI="#Emoji"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Annotations"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Math"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Jewlery"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#ReligionCreature"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Farm"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Religion"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Emotion"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Tool"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#BuildingPart"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#PartyObject"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Plant"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Land"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Transportation"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Event"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#FacialExpression"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Place"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#State"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Nature"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Horoscope"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Family"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Action"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Card"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Creature"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Sound"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Knowledge"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Computer"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Attribute"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#ReligionAction"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#DayEvent"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Human"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#HumanState"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Product"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Flower"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Office"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Profession"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Fruit"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Writing"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#EmotionAction"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Sign"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Time"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Wearable"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Pet"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Property"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Drink"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Animal"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Feeling"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#FoodState"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Money"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Sport"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#HumanGrowth"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#BuildingType"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Movement"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Light"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Country"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#PlantGrowing"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Uncategorized"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Part"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Communication"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Number"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Weather"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Weapon"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Building"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#ReligionEvent"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Shape"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Sweets"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Sight"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Continent"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Vehicle"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Vegetable"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Direction"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Video"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Medical"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Activity"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Container"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Sensation"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Sea"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Insect"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Sky"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Game"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Object"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#FoodType"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Wild"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Color"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#ReligionBuilding"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Food"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Additional"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#HumanBodyPart"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#HumanProduct"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Letter"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#Utensil"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#MoonStage"/>
+  </Declaration>
+  <SubClassOf>
+    <Class IRI="#Action"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Activity"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Animal"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Attribute"/>
+    <Class IRI="#Human"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Building"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BuildingPart"/>
+    <Class IRI="#Building"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BuildingType"/>
+    <Class IRI="#Building"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Card"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Color"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Communication"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Computer"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Container"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Continent"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Country"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Creature"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DayEvent"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Direction"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Drink"/>
+    <Class IRI="#Food"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Emotion"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EmotionAction"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Event"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FacialExpression"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Family"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Farm"/>
+    <Class IRI="#Animal"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Feeling"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Flower"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Food"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FoodState"/>
+    <Class IRI="#Food"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FoodType"/>
+    <Class IRI="#Food"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Fruit"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Game"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Horoscope"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Human"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HumanBodyPart"/>
+    <Class IRI="#Human"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HumanGrowth"/>
+    <Class IRI="#Human"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HumanProduct"/>
+    <Class IRI="#Human"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HumanState"/>
+    <Class IRI="#Human"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Insect"/>
+    <Class IRI="#Animal"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Jewlery"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Knowledge"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Land"/>
+    <Class IRI="#Transportation"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Letter"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Light"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Math"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Medical"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Money"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MoonStage"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Movement"/>
+    <Class IRI="#Action"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Nature"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Number"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Object"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Office"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Part"/>
+    <Class IRI="#Animal"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PartyObject"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Pet"/>
+    <Class IRI="#Animal"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Place"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Plant"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PlantGrowing"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Product"/>
+    <Class IRI="#Animal"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Profession"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Property"/>
+    <Class IRI="#Food"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Religion"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ReligionAction"/>
+    <Class IRI="#Religion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ReligionBuilding"/>
+    <Class IRI="#Religion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ReligionCreature"/>
+    <Class IRI="#Religion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ReligionEvent"/>
+    <Class IRI="#Religion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Sea"/>
+    <Class IRI="#Transportation"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Sensation"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Shape"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Sight"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Sign"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Sky"/>
+    <Class IRI="#Transportation"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Sound"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Sport"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#State"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Sweets"/>
+    <Class IRI="#Food"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Time"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Tool"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Transportation"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Uncategorized"/>
+    <Class IRI="#Action"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Utensil"/>
+    <Class IRI="#Food"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Vegetable"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Vehicle"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Video"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Weapon"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Wearable"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Weather"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Wild"/>
+    <Class IRI="#Animal"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Writing"/>
+    <Class IRI="#Additional"/>
+  </SubClassOf>
+  <Declaration>
+    <Class IRI="#Colors"/>
+  </Declaration>
+  <Declaration>
+    <ObjectProperty IRI="#hasColor"/>
+  </Declaration>
+  <SubClassOf>
+    <Class IRI="#BlueColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PurpleColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GreenColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OrangeColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrayColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#YellowColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CyanColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BrownColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BlackColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WhiteColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RedColor"/>
+    <Class IRI="#Colors"/>
+  </SubClassOf>
+  <Declaration>
+    <DataProperty IRI="#hasUnicode"/>
+  </Declaration>
+  <Declaration>
+    <DataProperty IRI="#hasEmojiGlyph"/>
+  </Declaration>
+  <Declaration>
+    <DataProperty IRI="#hasDescription"/>
+  </Declaration>
+  <Declaration>
+    <DataProperty IRI="#hasYear"/>
+  </Declaration>
+  <Declaration>
+    <DataProperty IRI="#hasNature"/>
+  </Declaration>
+  <Declaration>
+    <DataProperty IRI="#hasUsageNumber"/>
+  </Declaration>
+  <Declaration>
+    <DataProperty IRI="#hasUsagePercentage"/>
+  </Declaration>
+  <Declaration>
+    <DataProperty IRI="#hasSentiment"/>
+  </Declaration>
+  <Declaration>
+    <DataProperty IRI="#hasAverageSentiment"/>
+  </Declaration>
+  <Declaration>
+    <Class IRI="#FaceAnnotation"/>
+  </Declaration>
+  <SubClassOf>
+    <Class IRI="#FaceAnnotation"/>
+    <Class IRI="#Annotations"/>
+  </SubClassOf>
+  <Declaration>
+    <Class IRI="#SmileAnnotation"/>
+  </Declaration>
+  <SubClassOf>
+    <Class IRI="#SmileAnnotation"/>
+    <Class IRI="#Annotations"/>
+  </SubClassOf>
+  <Declaration>
+    <Class IRI="#SadAnnotation"/>
+  </Declaration>
+  <SubClassOf>
+    <Class IRI="#SadAnnotation"/>
+    <Class IRI="#Annotations"/>
+  </SubClassOf>
+  <Declaration>
+    <Class IRI="#GrinningFaceEmoji"/>
+  </Declaration>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <Class IRI="#Emoji"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <ObjectIntersectionOf>
+      <Class IRI="#FaceAnnotation"/>
+      <Class IRI="#SmileAnnotation"/>
+    </ObjectIntersectionOf>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasUnicode"/>
+      <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">X</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasEmojiGlyph"/>
+      <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">X</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasDescription"/>
+      <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">grinning face</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasYear"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2010</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasNature"/>
+      <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">emoji</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasUsageNumber"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasUsagePercentage"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasSentiment"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasAverageSentiment"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceEmoji"/>
+    <ObjectSomeValuesFrom>
+      <ObjectProperty IRI="#hasColor"/>
+      <Class IRI="#OrangeColor"/>
+    </ObjectSomeValuesFrom>
+  </SubClassOf>
+  <Declaration>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+  </Declaration>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <Class IRI="#Emoji"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <ObjectIntersectionOf>
+      <Class IRI="#FaceAnnotation"/>
+      <Class IRI="#SadAnnotation"/>
+    </ObjectIntersectionOf>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasUnicode"/>
+      <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">X</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasEmojiGlyph"/>
+      <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">X</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasDescription"/>
+      <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">grinning face with smiling eyes</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasYear"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2010</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasNature"/>
+      <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">emoji</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasUsageNumber"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasUsagePercentage"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasSentiment"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <DataHasValue>
+      <DataProperty IRI="#hasAverageSentiment"/>
+      <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+    </DataHasValue>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    <ObjectSomeValuesFrom>
+      <ObjectProperty IRI="#hasColor"/>
+      <Class IRI="#OrangeColor"/>
+    </ObjectSomeValuesFrom>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HikeAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WalkAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WalkingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RunningAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WaveAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WavingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClapAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BeatingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PulsatingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BreakAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HeartpulseAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RevolvingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CollisionAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SplashingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DashAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RacingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpoutingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpiralAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlutterAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BlowAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SwirlAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClinkAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EruptionAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PerformingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TravelAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PatrolAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RevolvingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FallingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShootingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DropAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WaveAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WaveAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlyAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShotAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CrossingAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlexAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PunchAnnotation"/>
+    <Class IRI="#Movement"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MunchAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GestureAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CelebrationAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MassageAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HaircutAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ApologyAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BowAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HoorayAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AskAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SowAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HatchingAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DrinkAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EntryAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ReloadAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RecycleAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CancelAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpeechAnnotation"/>
+    <Class IRI="#Uncategorized"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CheeringAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CampingAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CarouselAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RecreationalAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SportAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PlayingAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CookingAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SmokingAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TentAnnotation"/>
+    <Class IRI="#Activity"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HorseAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CowAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BullAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OxAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PigAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RamAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SheepAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GoatAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CamelAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DromedaryAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChickenAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChickAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PoultryAnnotation"/>
+    <Class IRI="#Farm"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BugAnnotation"/>
+    <Class IRI="#Insect"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#InsectAnnotation"/>
+    <Class IRI="#Insect"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SnailAnnotation"/>
+    <Class IRI="#Insect"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AntAnnotation"/>
+    <Class IRI="#Insect"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BeeAnnotation"/>
+    <Class IRI="#Insect"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HoneybeeAnnotation"/>
+    <Class IRI="#Insect"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BeetleAnnotation"/>
+    <Class IRI="#Insect"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HornsAnnotation"/>
+    <Class IRI="#Part"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PawAnnotation"/>
+    <Class IRI="#Part"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlipperAnnotation"/>
+    <Class IRI="#Part"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShellAnnotation"/>
+    <Class IRI="#Part"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WingsAnnotation"/>
+    <Class IRI="#Part"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CatAnnotation"/>
+    <Class IRI="#Pet"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BunnyAnnotation"/>
+    <Class IRI="#Pet"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DogAnnotation"/>
+    <Class IRI="#Pet"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PoodleAnnotation"/>
+    <Class IRI="#Pet"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HamsterAnnotation"/>
+    <Class IRI="#Pet"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BunnyAnnotation"/>
+    <Class IRI="#Pet"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DungAnnotation"/>
+    <Class IRI="#Product"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FishAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CrabAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WhaleAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DolphinAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BlowfishAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OctopusAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PrawnAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShrimpAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CarpAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LionAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ScorpionAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MonkeyAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WolfAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TigerAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LeopardAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RacehorseAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BuffaloAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BoarAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EweAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ElephantAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MouseAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RatAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RabbitAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BearAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KoalaAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PandaAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BirdAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PenguinAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FrogAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CrocodileAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TurtleAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SerpentAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SnakeAnnotation"/>
+    <Class IRI="#Wild"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShavedAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BeautyAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SassyAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RaisedAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AthleticAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SoftAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TimeAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpeedAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DecoratedAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NameAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WavyAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#IdAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BuildingAnnotation"/>
+    <Class IRI="#Building"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DoorAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ToiletAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShowerAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BathtubAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BathAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WcAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RestroomAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChangingAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClosetAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LockerAnnotation"/>
+    <Class IRI="#BuildingPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HouseAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HomeAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GardenAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OfficeAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HospitalAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BankAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HotelAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SchoolAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StoreAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FactoryAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CastleAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChapelAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TowerAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StatueAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BridgeAnnotation"/>
+    <Class IRI="#BuildingType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpadeAnnotation"/>
+    <Class IRI="#Card"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SuitAnnotation"/>
+    <Class IRI="#Card"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HeartAnnotation"/>
+    <Class IRI="#Card"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DiamondsAnnotation"/>
+    <Class IRI="#Card"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DiamondAnnotation"/>
+    <Class IRI="#Card"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClubsAnnotation"/>
+    <Class IRI="#Card"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClubAnnotation"/>
+    <Class IRI="#Card"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JokerAnnotation"/>
+    <Class IRI="#Card"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BlueAnnotation"/>
+    <Class IRI="#Color"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RedAnnotation"/>
+    <Class IRI="#Color"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GreenAnnotation"/>
+    <Class IRI="#Color"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#YellowAnnotation"/>
+    <Class IRI="#Color"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PurpleAnnotation"/>
+    <Class IRI="#Color"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DarkAnnotation"/>
+    <Class IRI="#Color"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OrangeAnnotation"/>
+    <Class IRI="#Color"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BlondAnnotation"/>
+    <Class IRI="#Color"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DialogAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PostalAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PhoneAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TelephoneAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CallAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CellAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MobileAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PhoneAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PagerAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FaxAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AntennaAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SatelliteAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DishAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EnvelopeAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LetterAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ReceiveAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SentAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OutboxAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#InboxAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ParcelAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PostboxAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MailboxAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RolodexAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CardAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#IndexAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CommunicationAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ReceiveAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#E-MailAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EmailAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LetterAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PostAnnotation"/>
+    <Class IRI="#Communication"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PcAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ComputerAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MinidiskAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DiskAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OpticalAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FloppyAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#Blu-RayAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DvdAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CdAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PasswordAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#E-MailAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EmailAnnotation"/>
+    <Class IRI="#Computer"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PotAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BottleAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CupAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TeacupAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GlassAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MugAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BoxAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LedgerAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BagAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrayAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PackageAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BriefcaseAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LitterboxAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BaggageAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LuggageAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PotAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BoxAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BowlAnnotation"/>
+    <Class IRI="#Container"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AfricaAnnotation"/>
+    <Class IRI="#Continent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EuropeAnnotation"/>
+    <Class IRI="#Continent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AmericasAnnotation"/>
+    <Class IRI="#Continent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AustraliaAnnotation"/>
+    <Class IRI="#Continent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AsiaAnnotation"/>
+    <Class IRI="#Continent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MeridiansAnnotation"/>
+    <Class IRI="#Continent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EuropeanAnnotation"/>
+    <Class IRI="#Continent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JapaneseAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FrenchAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JapaneseAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JapanAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AmericanAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChineseAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChinaAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GermanyAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpainAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FranceAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BritainAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BritishAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EnglandAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GreatBritainAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#IrelandAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NorthernIrelandAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ScotlandAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UkAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UnionJackAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UnitedKingdomAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CornwallAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WalesAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ItalyAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JapanAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KoreaAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SouthKoreaAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RussiaAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AmericaAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UnitedStatesAnnotation"/>
+    <Class IRI="#Country"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MonsterAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OgreAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GoblinAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GhostAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AlienAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UfoAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CupidAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DragonAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SnowmanAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JackAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DevilAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ImpAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SantaAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NightAnnotation"/>
+    <Class IRI="#DayEvent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MorningAnnotation"/>
+    <Class IRI="#DayEvent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SunriseAnnotation"/>
+    <Class IRI="#DayEvent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SunsetAnnotation"/>
+    <Class IRI="#DayEvent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EveningAnnotation"/>
+    <Class IRI="#DayEvent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DuskAnnotation"/>
+    <Class IRI="#DayEvent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NightAnnotation"/>
+    <Class IRI="#DayEvent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UpAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DownAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrowthAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RiseAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UpwardAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#IncomingAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OutgoingAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LoweredAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DownAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NorthAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NortheastAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EastAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SoutheastAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DownAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SouthAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SouthwestAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WestAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NorthwestAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClockwiseAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WithershinsAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CounterclockwiseAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AnticlockwiseAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BackAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EndAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RightAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ForwardAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ReverseAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LeftAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TopAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OncomingAnnotation"/>
+    <Class IRI="#Direction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LoveAnnotation"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RelaxedAnnotation"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NeutralAnnotation"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JokeAnnotation"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HorribleAnnotation"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RomanceAnnotation"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ExcitedAnnotation"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ExcitedAnnotation"/>
+    <Class IRI="#Emotion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KissAnnotation"/>
+    <Class IRI="#EmotionAction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SatisfiedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NervousAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrinAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SmileAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SweatAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LaughAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BlushAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DeadpanAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ExpressionlessAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#InexpressiveAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UnexpressiveAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SmirkAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PersevereAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DisappointedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RelievedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SympathyAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StunnedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SurprisedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UnamusedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UnhappyAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DejectedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PensiveAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ConfusedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ConfoundedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AstonishedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WorriedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TriumphAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CryAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SadAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TearAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SobAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FrownAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AnguishedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FearAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FearfulAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ScaredAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WearyAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrimaceAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RushedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ScreamAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlushedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PoutingAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WryAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FrownAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WhewAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HushedAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OhAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TearAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WinkAnnotation"/>
+    <Class IRI="#FacialExpression"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WeddingAnnotation"/>
+    <Class IRI="#Event"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MarathonAnnotation"/>
+    <Class IRI="#Event"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ValentineAnnotation"/>
+    <Class IRI="#Event"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HalloweenAnnotation"/>
+    <Class IRI="#Event"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PartyAnnotation"/>
+    <Class IRI="#Event"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FestivalAnnotation"/>
+    <Class IRI="#Event"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CeremonyAnnotation"/>
+    <Class IRI="#Event"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpringsAnnotation"/>
+    <Class IRI="#Event"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FatherAnnotation"/>
+    <Class IRI="#Family"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChildAnnotation"/>
+    <Class IRI="#Family"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MotherAnnotation"/>
+    <Class IRI="#Family"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TwinsAnnotation"/>
+    <Class IRI="#Family"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JoyAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DeliciousAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SavouringAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UmAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#YumAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TasteAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DazedAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DizzyAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AngryAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MadAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RageAnnotation"/>
+    <Class IRI="#Feeling"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RoseAnnotation"/>
+    <Class IRI="#Flower"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HibiscusAnnotation"/>
+    <Class IRI="#Flower"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SunflowerAnnotation"/>
+    <Class IRI="#Flower"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TulipAnnotation"/>
+    <Class IRI="#Flower"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlowerAnnotation"/>
+    <Class IRI="#Flower"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FoodAnnotation"/>
+    <Class IRI="#Food"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MilkAnnotation"/>
+    <Class IRI="#Drink"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CoffeeAnnotation"/>
+    <Class IRI="#Drink"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TeaAnnotation"/>
+    <Class IRI="#Drink"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SakeAnnotation"/>
+    <Class IRI="#Drink"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WineAnnotation"/>
+    <Class IRI="#Drink"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CocktailAnnotation"/>
+    <Class IRI="#Drink"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TropicalAnnotation"/>
+    <Class IRI="#Drink"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BeerAnnotation"/>
+    <Class IRI="#Drink"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SweetAnnotation"/>
+    <Class IRI="#Property"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FriedAnnotation"/>
+    <Class IRI="#Property"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CookedAnnotation"/>
+    <Class IRI="#FoodState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SteamingAnnotation"/>
+    <Class IRI="#FoodState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RoastedAnnotation"/>
+    <Class IRI="#FoodState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CookingAnnotation"/>
+    <Class IRI="#FoodState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FryingAnnotation"/>
+    <Class IRI="#FoodState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SteamAnnotation"/>
+    <Class IRI="#FoodState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PastryAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CakeAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DangoAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DessertAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CreamAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#IcecreamAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DonutAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DoughnutctAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CookieAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShortcakeAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChocolateAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CandyAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LollipopAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CustardAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PuddingAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HoneyAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HoneypotAnnotation"/>
+    <Class IRI="#Sweets"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BreadAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LoafAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BoneAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MeatAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HamburgerAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BurgerAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FriesAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CheeseAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PizzaAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StewAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BentoAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CrackerAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CurryAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NoodleAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RamenAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PastaAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpaghettiAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SkewerAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SeafoodAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SushiAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TempuraAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PotableAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BeverageAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DrinkAnnotation"/>
+    <Class IRI="#FoodType"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ForkAnnotation"/>
+    <Class IRI="#Utensil"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KnifeAnnotation"/>
+    <Class IRI="#Utensil"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PanAnnotation"/>
+    <Class IRI="#Utensil"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CherryAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StrawberryAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrapeAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MelonAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WatermelonAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OrangeAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TangerineAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CitrusAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LemonAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BananaAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PineappleAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AppleAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BerryAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CherryAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PearAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PeachAnnotation"/>
+    <Class IRI="#Fruit"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ControllerAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VideoGameAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DiceAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DieAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CardAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MahjongAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FerrisAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CoasterAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RollerAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GameAnnotation"/>
+    <Class IRI="#Game"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GeminiAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TaurusAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AriesAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CapricornAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OphiuchusAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PiscesAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AriesAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RamAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OxAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CancrAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LeoAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LibraAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ScorpioAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ScorpiusAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SagittariusAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AquariusAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PiscesAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OphiuchusAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VirginAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VirgoAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ZodiacAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BalanceAnnotation"/>
+    <Class IRI="#Horoscope"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SilhouetteAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BrightAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CoolAnnotation"/>
+    <Class IRI="#Attribute"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FaceAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EyeAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MouthAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HeartAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MouthAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TongueAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BodyAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SkullAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EarAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HandAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BustAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BicepsAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MuscleAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BackhandAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FingerAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#IndexAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FistAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ThumbAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NailAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NoseAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LipsAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MouthAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HumpAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FeetAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LegAnnotation"/>
+    <Class IRI="#HumanBodyPart"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BoyAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GirlAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MaidenAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ManAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WomanAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OldAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BabyAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#YoungAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChildAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BeginnerAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AgeAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EighteenAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UnderageAnnotation"/>
+    <Class IRI="#HumanGrowth"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PooAnnotation"/>
+    <Class IRI="#HumanProduct"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PoopAnnotation"/>
+    <Class IRI="#HumanProduct"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FootprintAnnotation"/>
+    <Class IRI="#HumanProduct"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SleepAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TiredAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EvilAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DizzyAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DangerAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#InnocentAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SickAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WonAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DeathAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ComicAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#IronicAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SorryAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FoldedAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HoldAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SickAnnotation"/>
+    <Class IRI="#HumanState"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DiamondAnnotation"/>
+    <Class IRI="#Jewlery"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GemAnnotation"/>
+    <Class IRI="#Jewlery"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CrystalAnnotation"/>
+    <Class IRI="#Jewlery"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#InformationAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BookAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NotebookAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BooksAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CurlAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DocumentAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ScrollAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PaperAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NewsAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NewspaperAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BookmarkAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MarkAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MarkerAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TabsAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MailAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ThoughtAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EducationAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GraduationAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ArtAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MapAnnotation"/>
+    <Class IRI="#Knowledge"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VAnnotation"/>
+    <Class IRI="#Letter"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#XAnnotation"/>
+    <Class IRI="#Letter"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OAnnotation"/>
+    <Class IRI="#Letter"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#XAnnotation"/>
+    <Class IRI="#Letter"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AbcdAnnotation"/>
+    <Class IRI="#Letter"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#IAnnotation"/>
+    <Class IRI="#Letter"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MAnnotation"/>
+    <Class IRI="#Letter"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ZzzAnnotation"/>
+    <Class IRI="#Letter"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SparkleAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GlitteryAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GlowAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShiningAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SparkleAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ElectricAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ElectricityAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LanternAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BulbAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlashlightAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TorchAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DimAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BrightnessAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BeaconAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LightAnnotation"/>
+    <Class IRI="#Light"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MultiplyAnnotation"/>
+    <Class IRI="#Math"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MultiplicationAnnotation"/>
+    <Class IRI="#Math"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PlusAnnotation"/>
+    <Class IRI="#Math"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MinusAnnotation"/>
+    <Class IRI="#Math"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DivisionAnnotation"/>
+    <Class IRI="#Math"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AsteriskAnnotation"/>
+    <Class IRI="#Math"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NeedleAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SyringeAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PillAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BloodAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AbAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HelpAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SosAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MedicineAnnotation"/>
+    <Class IRI="#Medical"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BanknoteAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EuroAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PoundAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MoneyAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MoneybagAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DollarAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BillAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CurrencyAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#YenAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BankAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NoteAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CreditAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrendAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TellerAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AtmAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ExchangeAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CoinAnnotation"/>
+    <Class IRI="#Money"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CrescentAnnotation"/>
+    <Class IRI="#MoonStage"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#QuarterAnnotation"/>
+    <Class IRI="#MoonStage"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GibbousAnnotation"/>
+    <Class IRI="#MoonStage"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FullAnnotation"/>
+    <Class IRI="#MoonStage"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WaningAnnotation"/>
+    <Class IRI="#MoonStage"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WaxingAnnotation"/>
+    <Class IRI="#MoonStage"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WindAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WeatherAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FogAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LandscapeAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ElectricAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NatureAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WeatherAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StarAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WaterAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PlantAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TreeAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SunAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WorldAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MountainAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VolcanoAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SandAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MoonAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CloudAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FireAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlameAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ExtraterrestrialAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpaceAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#-1Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FourAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#4Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#0Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#12Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TwelveAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#30Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ThirtyAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#0Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#1Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OneAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#1Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#2Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TwoAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#3Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ThreeAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#4Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FourAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#5Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FiveAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#6Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SixAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#7Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SevenAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#8Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EightAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#9Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NineAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#10Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TenAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#11Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ElevenAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DoubleAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OnceAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DoubleAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HashAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#10Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TenAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#100Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HundredAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#18Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#1234Annotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NumbersAnnotation"/>
+    <Class IRI="#Number"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StickAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FountainAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PoleAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PaintingAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PaletteAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StopAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChairAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SeatAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FlagAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TicketAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PrizeAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrophyAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HitAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TargetAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BatteryAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PlugAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PassportAnnotation"/>
+    <Class IRI="#Object"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClipboardAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PushpinAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PinAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PushpinAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PaperclipAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StraightEdgeAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RulerAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ScissorsAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#InkAnnotation"/>
+    <Class IRI="#Office"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RibbonAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BalloonAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BubbleAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BouquetAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BallAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FireworksAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PopperAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BallAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ConfettiAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BannerAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DollAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StreamerAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BellAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RibbonAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GiftAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PresentAnnotation"/>
+    <Class IRI="#PartyObject"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BarAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SalonAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ParlorAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SchoolAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BactrianAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TropicalAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BarAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FujiAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TokyoAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LibertyAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CityAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HotspringsAnnotation"/>
+    <Class IRI="#Nature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpaceAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MilkyWayAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AmusementParkAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CircusAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TheaterAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TheatreAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MuseumAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SubwayAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StationAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BusstopAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StationAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ResortAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SeaAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OceanAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CinemaAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MarketAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MoyaiAnnotation"/>
+    <Class IRI="#Place"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CactusAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PalmAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RiceAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HerbAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CloverAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MapleAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FruitAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VegetableAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MaizeAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CornAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MazeAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MushroomAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChestnutAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BambooAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PineAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LeafAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EvergreenAnnotation"/>
+    <Class IRI="#Plant"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BlossomAnnotation"/>
+    <Class IRI="#PlantGrowing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SeedlingAnnotation"/>
+    <Class IRI="#PlantGrowing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DeciduousAnnotation"/>
+    <Class IRI="#PlantGrowing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SheddingAnnotation"/>
+    <Class IRI="#PlantGrowing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FallingAnnotation"/>
+    <Class IRI="#PlantGrowing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DoctorAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CopAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OfficerAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PoliceAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WorkerAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PrincessAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GuardAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GuardsmanAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BarberAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#QueenAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KingAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DancerAnnotation"/>
+    <Class IRI="#Profession"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChristianAnnotation"/>
+    <Class IRI="#Religion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CrossAnnotation"/>
+    <Class IRI="#Religion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HaloAnnotation"/>
+    <Class IRI="#Religion"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChurchAnnotation"/>
+    <Class IRI="#ReligionBuilding"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AngelAnnotation"/>
+    <Class IRI="#ReligionCreature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AngelAnnotation"/>
+    <Class IRI="#ReligionCreature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChristmasAnnotation"/>
+    <Class IRI="#ReligionEvent"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PrayAnnotation"/>
+    <Class IRI="#ReligionAction"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SeeAnnotation"/>
+    <Class IRI="#Sensation"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HearAnnotation"/>
+    <Class IRI="#Sensation"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpeakAnnotation"/>
+    <Class IRI="#Sensation"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GlobeAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChartAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GraphAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TriangleAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SignAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CircleAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SquareAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LoopAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CurlAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LoopAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StarAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TriangleAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SquareAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#StarsAndStripesAnnotation"/>
+    <Class IRI="#Shape"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MagnifyingAnnotation"/>
+    <Class IRI="#Sight"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MicroscopeAnnotation"/>
+    <Class IRI="#Sight"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TelescopeAnnotation"/>
+    <Class IRI="#Sight"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AccessAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LavatoryAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WarningAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrafficAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CheckAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CheckAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BangbangAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CopyrightAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RegisteredAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TmAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrademarkAnnotation"/>
+    <Class IRI="#Sign"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#InstrumentAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RadioAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#QuietAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SilentAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WhewAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HushedAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OhAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BoomAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ZapAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TadaAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ChimeAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MuteAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VolumeAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpeakerAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LowAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HighAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LoudAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LoudspeakerAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MegaphoneAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HornAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BellAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MusicAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NoteAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NotesAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KaraokeAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MicAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MicrophoneAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EarbudAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HeadphoneAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SaxAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SaxophoneAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GuitarAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KeyboardAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PianoAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrumpetAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ViolinAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SoundAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VibrationAnnotation"/>
+    <Class IRI="#Sound"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RunnerAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SwimAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RacingAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SoccerAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BaseballAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HoopAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FootballAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RugbyAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RacquetAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TennisAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#8BallAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BilliardAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BowlingAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GolfAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HoleAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SkiAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SnowboardAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SurferAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SurfingAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SwimAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RacehorseAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JockeyAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SwimmerAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BicyclistAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CyclistAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DartAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ArcherAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VsAnnotation"/>
+    <Class IRI="#Sport"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#OpenAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ColdAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClosedAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ForbiddenAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ProhibitedAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClenchedAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BrokenAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GrowingAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HotAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WrappedAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NewAnnotation"/>
+    <Class IRI="#State"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HourglassAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TimerAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClockAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WatchAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AlarmAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#O’clockAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#12-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#12-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#1-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#1-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#2-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#2-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#3-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#3-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#4-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#4-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#5-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#5-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#6-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#6-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#7-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#7-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#8-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#8-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#9-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#9-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#10-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#10-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#11-00Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#11-30Annotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DateAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CalendarAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SoonAnnotation"/>
+    <Class IRI="#Time"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HammerAnnotation"/>
+    <Class IRI="#Tool"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WrenchAnnotation"/>
+    <Class IRI="#Tool"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BoltAnnotation"/>
+    <Class IRI="#Tool"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NutAnnotation"/>
+    <Class IRI="#Tool"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LinkAnnotation"/>
+    <Class IRI="#Tool"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HochoAnnotation"/>
+    <Class IRI="#Tool"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VehicleAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TravelAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrainAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RailwayAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PlaceAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LocomotiveAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EngineAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CarAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TramAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrolleybusAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShinkansenAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MetroAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MonorailAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BusAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrolleybusAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MinibusAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AmbulanceAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TruckAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TaxiAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AutomobileAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RvAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DeliveryAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LorryAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SemiAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TractorAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BicycleAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BikeAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WheelchairAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ParkingAnnotation"/>
+    <Class IRI="#Land"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AnchorAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShipAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BoatAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SailboatAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#YachtAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RowboatAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SpeedboatAnnotation"/>
+    <Class IRI="#Sea"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AirplaneAnnotation"/>
+    <Class IRI="#Sky"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HelicopterAnnotation"/>
+    <Class IRI="#Sky"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RailwayAnnotation"/>
+    <Class IRI="#Sky"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GondolaAnnotation"/>
+    <Class IRI="#Sky"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GondolaAnnotation"/>
+    <Class IRI="#Sky"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RopewayAnnotation"/>
+    <Class IRI="#Sky"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TramwayAnnotation"/>
+    <Class IRI="#Sky"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RocketAnnotation"/>
+    <Class IRI="#Sky"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FairyAnnotation"/>
+    <Class IRI="#Creature"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TomatoAnnotation"/>
+    <Class IRI="#Vegetable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#AubergineAnnotation"/>
+    <Class IRI="#Vegetable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EggplantAnnotation"/>
+    <Class IRI="#Vegetable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PotatoAnnotation"/>
+    <Class IRI="#Vegetable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PumpAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WheelAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FuelAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FuelpumpAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GasAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SignalAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrafficAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BarrierAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CableAnnotation"/>
+    <Class IRI="#Vehicle"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VideoAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CameraAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MovieAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClapperAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TelevisionAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TvAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TapeAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VhsAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VideocassetteAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PlayAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RewindAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CinemaAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FilmAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MovieAnnotation"/>
+    <Class IRI="#Video"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BulletAnnotation"/>
+    <Class IRI="#Weapon"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ArrowAnnotation"/>
+    <Class IRI="#Weapon"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BombAnnotation"/>
+    <Class IRI="#Weapon"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KnifeAnnotation"/>
+    <Class IRI="#Weapon"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GunAnnotation"/>
+    <Class IRI="#Weapon"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PistolAnnotation"/>
+    <Class IRI="#Weapon"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RevolverAnnotation"/>
+    <Class IRI="#Weapon"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EyewearAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GlassesAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SunglassesAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MaskAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#GuaPiMaoAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HatAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TurbanAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ConstructionAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#VeilAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ClothingAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EyeglassesAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#EyewearAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShirtAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NecktieAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TshirtAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#JeansAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TrousersAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PantsAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DressAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#KimonoAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BikiniAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PurseAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HandbagAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BagAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PouchAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SatchelAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SneakerAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ShoeAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#HeelAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SandalAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#BootAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CrownAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TophatAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CapAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LipstickAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MakeupAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RingAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SashAnnotation"/>
+    <Class IRI="#Wearable"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CycloneAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TwisterAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#TyphoonAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RainAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UmbrellaAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LightningAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#RainbowAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SnowAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#SnowflakeAnnotation"/>
+    <Class IRI="#Weather"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PencilAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PenAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#NibAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#MemoAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FileAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FolderAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#ExclamationAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#PunctuationAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#InterrobangAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#QuestionAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#WordAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#DashAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LettersAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#UppercaseAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LatinAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#LowercaseAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#CoolAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+  <SubClassOf>
+    <Class IRI="#FreeAnnotation"/>
+    <Class IRI="#Writing"/>
+  </SubClassOf>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.1.3.20151118-2017) https://github.com/owlcs/owlapi -->

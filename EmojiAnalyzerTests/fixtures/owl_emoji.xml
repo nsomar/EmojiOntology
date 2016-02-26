@@ -1,0 +1,84 @@
+    <Declaration>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <Class IRI="#Emoji"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#FaceAnnotation"/>
+            <Class IRI="#SmileAnnotation"/>
+        </ObjectIntersectionOf>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasUnicode"/>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">X</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasEmojiGlyph"/>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">X</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasDescription"/>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">grinning face with smiling eyes</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasYear"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#integer">2010</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasNature"/>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">emoji</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasUsageNumber"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasUsagePercentage"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasSentiment"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <DataHasValue>
+            <DataProperty IRI="#hasAverageSentiment"/>
+            <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#double">0.0</Literal>
+        </DataHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#GrinningFaceWithSmilingEyesEmoji"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#hasColor"/>
+            <Class IRI="#OrangeColor"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>

@@ -1,0 +1,626 @@
+    <Declaration>
+        <Class IRI="#Math"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Jewlery"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ReligionCreature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Farm"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Religion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Emotion"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Tool"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BuildingPart"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PartyObject"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Plant"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Land"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Transportation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Event"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FacialExpression"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Place"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#State"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Nature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Horoscope"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Family"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Action"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Card"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Creature"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sound"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Knowledge"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Computer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Attribute"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ReligionAction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#DayEvent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Human"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanState"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Product"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Flower"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Office"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Profession"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Fruit"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Writing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#EmotionAction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sign"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Time"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wearable"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Pet"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Property"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Drink"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Animal"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Feeling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FoodState"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Money"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sport"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanGrowth"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BuildingType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Movement"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Light"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Country"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PlantGrowing"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Uncategorized"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Part"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Communication"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Number"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Weather"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Weapon"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Building"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ReligionEvent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Shape"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sweets"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sight"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Continent"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vehicle"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vegetable"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Direction"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Video"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Medical"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Activity"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Container"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sensation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sea"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Insect"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Sky"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Game"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Object"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#FoodType"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Wild"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Color"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ReligionBuilding"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Food"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Additional"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanBodyPart"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HumanProduct"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Letter"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Utensil"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MoonStage"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Action"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Activity"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Animal"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Attribute"/>
+        <Class IRI="#Human"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Building"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BuildingPart"/>
+        <Class IRI="#Building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BuildingType"/>
+        <Class IRI="#Building"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Card"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Color"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Communication"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Computer"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Container"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Continent"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Country"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Creature"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#DayEvent"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Direction"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Drink"/>
+        <Class IRI="#Food"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Emotion"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#EmotionAction"/>
+        <Class IRI="#Emotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Event"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FacialExpression"/>
+        <Class IRI="#Emotion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Family"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Farm"/>
+        <Class IRI="#Animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Feeling"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Flower"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Food"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FoodState"/>
+        <Class IRI="#Food"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#FoodType"/>
+        <Class IRI="#Food"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Fruit"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Game"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Horoscope"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Human"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanBodyPart"/>
+        <Class IRI="#Human"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanGrowth"/>
+        <Class IRI="#Human"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanProduct"/>
+        <Class IRI="#Human"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HumanState"/>
+        <Class IRI="#Human"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Insect"/>
+        <Class IRI="#Animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Jewlery"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Knowledge"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Land"/>
+        <Class IRI="#Transportation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Letter"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Light"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Math"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Medical"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Money"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MoonStage"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Movement"/>
+        <Class IRI="#Action"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Nature"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Number"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Object"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Office"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Part"/>
+        <Class IRI="#Animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PartyObject"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Pet"/>
+        <Class IRI="#Animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Place"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Plant"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PlantGrowing"/>
+        <Class IRI="#Plant"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Product"/>
+        <Class IRI="#Animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Profession"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Property"/>
+        <Class IRI="#Food"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Religion"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ReligionAction"/>
+        <Class IRI="#Religion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ReligionBuilding"/>
+        <Class IRI="#Religion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ReligionCreature"/>
+        <Class IRI="#Religion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ReligionEvent"/>
+        <Class IRI="#Religion"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sea"/>
+        <Class IRI="#Transportation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sensation"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Shape"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sight"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sign"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sky"/>
+        <Class IRI="#Transportation"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sound"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sport"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#State"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Sweets"/>
+        <Class IRI="#Food"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Time"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Tool"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Transportation"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Uncategorized"/>
+        <Class IRI="#Action"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Utensil"/>
+        <Class IRI="#Food"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vegetable"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vehicle"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Video"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Weapon"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wearable"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Weather"/>
+        <Class IRI="#Nature"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Wild"/>
+        <Class IRI="#Animal"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Writing"/>
+        <Class IRI="#Additional"/>
+    </SubClassOf>

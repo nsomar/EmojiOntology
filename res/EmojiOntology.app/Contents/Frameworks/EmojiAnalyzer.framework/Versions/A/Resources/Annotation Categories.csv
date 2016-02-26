@@ -1,0 +1,1193 @@
+Annotation,Category
+victory,-
+outlined,-
+tale,-
+totally,-
+no,-
+not,-
+ok,-
+help,-
+please,-
+thanks,-
+care,-
+cosmetics,-
+manicure,-
+polish,-
+print,-
+bearer,-
+convenience,-
+department,-
+slot,-
+suspension,-
+aerial,-
+rays,-
+sunny,-
+admission,-
+bullseye,-
+address,-
+score,-
+idea,-
+cover,-
+set,-
+lock,-
+unlock,-
+privacy,-
+secure,-
+key,-
+fortune,-
+litter,-
+customs,-
+claim,-
+on,-
+badge,-
+chevron,-
+ballot,-
+justice,-
+scales,-
+fast,-
+button,-
+keycap,-
+full,-
+ng,-
+couple,-
+person,-
+bride,-
+pedestrian,-
+hike,Action; Movement
+walk,Action; Movement
+walking,Action; Movement
+running,Action; Movement
+wave,Action; Movement
+waving,Action; Movement
+clap,Action; Movement
+beating,Action; Movement
+pulsating,Action; Movement
+break,Action; Movement
+heartpulse,Action; Movement
+revolving,Action; Movement
+collision,Action; Movement
+splashing,Action; Movement
+dash,Action; Movement
+racing,Action; Movement
+spouting,Action; Movement
+spiral,Action; Movement
+flutter,Action; Movement
+blow,Action; Movement
+swirl,Action; Movement
+clink,Action; Movement
+eruption,Action; Movement
+performing,Action; Movement
+travel,Action; Movement
+patrol,Action; Movement
+revolving,Action; Movement
+falling,Action; Movement
+shooting,Action; Movement
+drop,Action; Movement
+wave,Action; Movement
+wave,Action; Movement
+fly,Action; Movement
+shot,Action; Movement
+crossing,Action; Movement
+flex,Action; Movement
+punch,Action; Movement
+munch,Action; Uncategorized
+gesture,Action; Uncategorized
+celebration,Action; Uncategorized
+massage,Action; Uncategorized
+haircut,Action; Uncategorized
+apology,Action; Uncategorized
+bow,Action; Uncategorized
+hooray,Action; Uncategorized
+ask,Action; Uncategorized
+sow,Action; Uncategorized
+hatching,Action; Uncategorized
+drink,Action; Uncategorized
+entry,Action; Uncategorized
+reload,Action; Uncategorized
+recycle,Action; Uncategorized
+cancel,Action; Uncategorized
+speech,Action; Uncategorized
+cheering,Activity
+camping,Activity
+carousel,Activity
+recreational,Activity
+Sport,Activity
+playing,Activity
+cooking,Activity
+smoking,Activity
+tent,Activity
+horse,Animal; Farm
+cow,Animal; Farm
+bull,Animal; Farm
+ox,Animal; Farm
+pig,Animal; Farm
+ram,Animal; Farm
+sheep,Animal; Farm
+goat,Animal; Farm
+camel,Animal; Farm
+dromedary,Animal; Farm
+chicken,Animal; Farm
+chick,Animal; Farm
+poultry,Animal; Farm
+bug,Animal; Insect
+insect,Animal; Insect
+snail,Animal; Insect
+ant,Animal; Insect
+bee,Animal; Insect
+honeybee,Animal; Insect
+beetle,Animal; Insect
+horns,Animal; Part
+paw,Animal; Part
+flipper,Animal; Part
+shell,Animal; Part
+wings,Animal; Part
+cat,Animal; Pet
+bunny,Animal; Pet
+dog,Animal; Pet
+poodle,Animal; Pet
+hamster,Animal; Pet
+bunny,Animal; Pet
+dung,Animal; Product
+fish,Animal; Sea
+crab,Animal; Sea
+whale,Animal; Sea
+dolphin,Animal; Sea
+blowfish,Animal; Sea
+octopus,Animal; Sea
+prawn,Animal; Sea
+shrimp,Animal; Sea
+carp,Animal; Sea
+lion,Animal; Wild
+scorpion,Animal; Wild
+monkey,Animal; Wild
+wolf,Animal; Wild
+tiger,Animal; Wild
+leopard,Animal; Wild
+racehorse,Animal; Wild
+buffalo,Animal; Wild
+boar,Animal; Wild
+ewe,Animal; Wild
+elephant,Animal; Wild
+mouse,Animal; Wild
+rat,Animal; Wild
+rabbit,Animal; Wild
+bear,Animal; Wild
+koala,Animal; Wild
+panda,Animal; Wild
+bird,Animal; Wild
+penguin,Animal; Wild
+frog,Animal; Wild
+crocodile,Animal; Wild
+turtle,Animal; Wild
+serpent,Animal; Wild
+snake,Animal; Wild
+shaved,Attribute
+beauty,Attribute
+sassy,Attribute
+raised,Attribute
+athletic,Attribute
+soft,Attribute
+Time,Attribute
+speed,Attribute
+decorated,Attribute
+name,Attribute
+wavy,Attribute
+id,Attribute
+building,Building
+door,Building; BuildingPart
+toilet,Building; BuildingPart
+shower,Building; BuildingPart
+bathtub,Building; BuildingPart
+bath,Building; BuildingPart
+wc,Building; BuildingPart
+restroom,Building; BuildingPart
+changing,Building; BuildingPart
+closet,Building; BuildingPart
+locker,Building; BuildingPart
+house,Building; BuildingType
+home,Building; BuildingType
+garden,Building; BuildingType
+Office,Building; BuildingType
+hospital,Building; BuildingType
+bank,Building; BuildingType
+hotel,Building; BuildingType
+school,Building; BuildingType
+store,Building; BuildingType
+factory,Building; BuildingType
+castle,Building; BuildingType
+chapel,Building; BuildingType
+tower,Building; BuildingType
+statue,Building; BuildingType
+bridge,Building; BuildingType
+spade,Card
+suit,Card
+heart,Card
+diamonds,Card
+diamond,Card
+clubs,Card
+club,Card
+joker,Card
+blue,Color
+red,Color
+green,Color
+yellow,Color
+purple,Color
+dark,Color
+orange,Color
+blond,Color
+dialog,Communication
+postal,Communication
+phone,Communication
+telephone,Communication
+call,Communication
+cell,Communication
+mobile,Communication
+phone,Communication
+pager,Communication
+fax,Communication
+antenna,Communication
+satellite,Communication
+dish,Communication
+envelope,Communication
+letter,Communication
+receive,Communication
+sent,Communication
+outbox,Communication
+inbox,Communication
+parcel,Communication
+postbox,Communication
+mailbox,Communication
+rolodex,Communication
+card,Communication
+index,Communication
+communication,Communication
+receive,Communication
+e-mail,Communication
+email,Communication
+Letter,Communication
+post,Communication
+pc,Computer
+Computer,Computer
+minidisk,Computer
+disk,Computer
+optical,Computer
+floppy,Computer
+blu-ray,Computer
+dvd,Computer
+cd,Computer
+password,Computer
+e-mail,Computer
+email,Computer
+pot,Container
+bottle,Container
+cup,Container
+teacup,Container
+glass,Container
+mug,Container
+box,Container
+ledger,Container
+bag,Container
+tray,Container
+package,Container
+briefcase,Container
+litterbox,Container
+baggage,Container
+luggage,Container
+pot,Container
+box,Container
+bowl,Container
+africa,Continent
+europe,Continent
+americas,Continent
+australia,Continent
+asia,Continent
+meridians,Continent
+european,Continent
+japanese,Country
+french,Country
+japanese,Country
+japan,Country
+american,Country
+chinese,Country
+china,Country
+germany,Country
+spain,Country
+france,Country
+britain,Country
+british,Country
+england,Country
+great britain,Country
+ireland,Country
+northern ireland,Country
+scotland,Country
+uk,Country
+union jack,Country
+united kingdom,Country
+cornwall,Country
+wales,Country
+italy,Country
+japan,Country
+korea,Country
+south korea,Country
+russia,Country
+america,Country
+united States,Country
+monster,Creature
+ogre,Creature
+goblin,Creature
+ghost,Creature
+alien,Creature
+ufo,Creature
+cupid,Creature
+dragon,Creature
+snowman,Creature
+jack,Creature
+devil,Creature
+imp,Creature
+santa,Creature
+night,DayEvent
+morning,DayEvent
+sunrise,DayEvent
+sunset,DayEvent
+evening,DayEvent
+dusk,DayEvent
+night,DayEvent
+up,Direction
+down,Direction
+growth,Direction
+rise,Direction
+upward,Direction
+incoming,Direction
+outgoing,Direction
+lowered,Direction
+down,Direction
+north,Direction
+northeast,Direction
+east,Direction
+southeast,Direction
+down,Direction
+south,Direction
+southwest,Direction
+west,Direction
+northwest,Direction
+clockwise,Direction
+withershins,Direction
+counterclockwise,Direction
+anticlockwise,Direction
+back,Direction
+end,Direction
+right,Direction
+forward,Direction
+reverse,Direction
+left,Direction
+top,Direction
+oncoming,Direction
+love,Emotion
+relaxed,Emotion
+neutral,Emotion
+joke,Emotion
+horrible,Emotion
+romance,Emotion
+excited,Emotion
+excited,Emotion
+kiss,Emotion; EmotionAction
+satisfied,Emotion; FacialExpression
+nervous,Emotion; FacialExpression
+grin,Emotion; FacialExpression
+smile,Emotion; FacialExpression
+sweat,Emotion; FacialExpression
+laugh,Emotion; FacialExpression
+blush,Emotion; FacialExpression
+deadpan,Emotion; FacialExpression
+expressionless,Emotion; FacialExpression
+inexpressive,Emotion; FacialExpression
+unexpressive,Emotion; FacialExpression
+smirk,Emotion; FacialExpression
+persevere,Emotion; FacialExpression
+disappointed,Emotion; FacialExpression
+relieved,Emotion; FacialExpression
+sympathy,Emotion; FacialExpression
+stunned,Emotion; FacialExpression
+surprised,Emotion; FacialExpression
+unamused,Emotion; FacialExpression
+unhappy,Emotion; FacialExpression
+dejected,Emotion; FacialExpression
+pensive,Emotion; FacialExpression
+confused,Emotion; FacialExpression
+confounded,Emotion; FacialExpression
+astonished,Emotion; FacialExpression
+worried,Emotion; FacialExpression
+triumph,Emotion; FacialExpression
+cry,Emotion; FacialExpression
+sad,Emotion; FacialExpression
+tear,Emotion; FacialExpression
+sob,Emotion; FacialExpression
+frown,Emotion; FacialExpression
+anguished,Emotion; FacialExpression
+fear,Emotion; FacialExpression
+fearful,Emotion; FacialExpression
+scared,Emotion; FacialExpression
+weary,Emotion; FacialExpression
+grimace,Emotion; FacialExpression
+rushed,Emotion; FacialExpression
+scream,Emotion; FacialExpression
+flushed,Emotion; FacialExpression
+pouting,Emotion; FacialExpression
+wry,Emotion; FacialExpression
+frown,Emotion; FacialExpression
+whew,Emotion; FacialExpression
+hushed,Emotion; FacialExpression
+oh,Emotion; FacialExpression
+tear,Emotion; FacialExpression
+wink,Emotion; FacialExpression
+wedding,Event
+marathon,Event
+valentine,Event
+halloween,Event
+party,Event
+festival,Event
+ceremony,Event
+springs,Event
+father,Family
+child,Family
+mother,Family
+twins,Family
+joy,Feeling
+delicious,Feeling
+savouring,Feeling
+um,Feeling
+yum,Feeling
+taste,Feeling
+dazed,Feeling
+dizzy,Feeling
+angry,Feeling
+mad,Feeling
+rage,Feeling
+rose,Flower
+hibiscus,Flower
+sunFlower,Flower
+tulip,Flower
+Flower,Flower
+food,Food
+milk,Food; Drink
+coffee,Food; Drink
+tea,Food; Drink
+sake,Food; Drink
+wine,Food; Drink
+cocktail,Food; Drink
+tropical,Food; Drink
+beer,Food; Drink
+sweet,Food; Property
+fried,Food; Property
+cooked,Food; FoodState
+steaming,Food; FoodState
+roasted,Food; FoodState
+cooking,Food; FoodState
+frying,Food; FoodState
+steam,Food; FoodState
+pastry,Food; Sweets
+cake,Food; Sweets
+dango,Food; Sweets
+dessert,Food; Sweets
+cream,Food; Sweets
+icecream,Food; Sweets
+donut,Food; Sweets
+doughnutct,Food; Sweets
+cookie,Food; Sweets
+shortcake,Food; Sweets
+chocolate,Food; Sweets
+candy,Food; Sweets
+lollipop,Food; Sweets
+custard,Food; Sweets
+pudding,Food; Sweets
+honey,Food; Sweets
+honeypot,Food; Sweets
+bread,Food; FoodType
+loaf,Food; FoodType
+bone,Food; FoodType
+meat,Food; FoodType
+hamburger,Food; FoodType
+burger,Food; FoodType
+fries,Food; FoodType
+cheese,Food; FoodType
+pizza,Food; FoodType
+stew,Food; FoodType
+bento,Food; FoodType
+cracker,Food; FoodType
+curry,Food; FoodType
+noodle,Food; FoodType
+ramen,Food; FoodType
+pasta,Food; FoodType
+spaghetti,Food; FoodType
+skewer,Food; FoodType
+seafood,Food; FoodType
+sushi,Food; FoodType
+tempura,Food; FoodType
+potable,Food; FoodType
+beverage,Food; FoodType
+drink,Food; FoodType
+fork,Food; Utensil
+knife,Food; Utensil
+pan,Food; Utensil
+cherry,Fruit
+strawberry,Fruit
+grape,Fruit
+melon,Fruit
+watermelon,Fruit
+orange,Fruit
+tangerine,Fruit
+citrus,Fruit
+lemon,Fruit
+banana,Fruit
+pineapple,Fruit
+apple,Fruit
+berry,Fruit
+cherry,Fruit
+pear,Fruit
+peach,Fruit
+controller,Game
+Video Game,Game
+dice,Game
+die,Game
+Card,Game
+mahjong,Game
+ferris,Game
+coaster,Game
+roller,Game
+Game,Game
+gemini,Horoscope
+taurus,Horoscope
+aries,Horoscope
+capricorn,Horoscope
+ophiuchus,Horoscope
+pisces,Horoscope
+aries,Horoscope
+ram,Horoscope
+ox,Horoscope
+cancr,Horoscope
+leo,Horoscope
+libra,Horoscope
+scorpio,Horoscope
+scorpius,Horoscope
+sagittarius,Horoscope
+aquarius,Horoscope
+pisces,Horoscope
+ophiuchus,Horoscope
+virgin,Horoscope
+virgo,Horoscope
+zodiac,Horoscope
+balance,Horoscope
+silhouette,Human; Attribute
+bright,Human; Attribute
+cool,Human; Attribute
+face,Human; HumanBodyPart
+eye,Human; HumanBodyPart
+mouth,Human; HumanBodyPart
+heart,Human; HumanBodyPart
+mouth,Human; HumanBodyPart
+tongue,Human; HumanBodyPart
+body,Human; HumanBodyPart
+skull,Human; HumanBodyPart
+ear,Human; HumanBodyPart
+hand,Human; HumanBodyPart
+bust,Human; HumanBodyPart
+biceps,Human; HumanBodyPart
+muscle,Human; HumanBodyPart
+backhand,Human; HumanBodyPart
+finger,Human; HumanBodyPart
+index,Human; HumanBodyPart
+fist,Human; HumanBodyPart
+thumb,Human; HumanBodyPart
+nail,Human; HumanBodyPart
+nose,Human; HumanBodyPart
+lips,Human; HumanBodyPart
+mouth,Human; HumanBodyPart
+hump,Human; HumanBodyPart
+feet,Human; HumanBodyPart
+leg,Human; HumanBodyPart
+boy,Human; HumanGrowth
+girl,Human; HumanGrowth
+maiden,Human; HumanGrowth
+man,Human; HumanGrowth
+woman,Human; HumanGrowth
+old,Human; HumanGrowth
+baby,Human; HumanGrowth
+young,Human; HumanGrowth
+child,Human; HumanGrowth
+beginner,Human; HumanGrowth
+age,Human; HumanGrowth
+eighteen,Human; HumanGrowth
+underage,Human; HumanGrowth
+poo,Human; HumanProduct
+poop,Human; HumanProduct
+footprint,Human; HumanProduct
+sleep,Human; HumanState
+tired,Human; HumanState
+evil,Human; HumanState
+dizzy,Human; HumanState
+danger,Human; HumanState
+innocent,Human; HumanState
+sick,Human; HumanState
+won,Human; HumanState
+death,Human; HumanState
+comic,Human; HumanState
+ironic,Human; HumanState
+sorry,Human; HumanState
+folded,Human; HumanState
+hold,Human; HumanState
+sick,Human; HumanState
+diamond,Jewlery
+gem,Jewlery
+crystal,Jewlery
+information,Knowledge
+book,Knowledge
+notebook,Knowledge
+books,Knowledge
+curl,Knowledge
+document,Knowledge
+scroll,Knowledge
+paper,Knowledge
+news,Knowledge
+newspaper,Knowledge
+bookmark,Knowledge
+mark,Knowledge
+marker,Knowledge
+tabs,Knowledge
+mail,Knowledge
+thought,Knowledge
+education,Knowledge
+graduation,Knowledge
+art,Knowledge
+map,Knowledge
+v,Letter
+x,Letter
+o,Letter
+x,Letter
+abcd,Letter
+i,Letter
+m,Letter
+zzz,Letter
+sparkle,Light
+glittery,Light
+glow,Light
+shining,Light
+sparkle,Light
+electric,Light
+electricity,Light
+lantern,Light
+bulb,Light
+flashLight,Light
+torch,Light
+dim,Light
+brightness,Light
+beacon,Light
+light,Light
+multiply,Math
+multiplication,Math
+plus,Math
+minus,Math
+division,Math
+asterisk,Math
+needle,Medical
+syringe,Medical
+pill,Medical
+a,Medical
+blood,Medical
+ab,Medical
+b,Medical
+o,Medical
+help,Medical
+sos,Medical
+medicine,Medical
+banknote,Money
+euro,Money
+pound,Money
+Money,Money
+Moneybag,Money
+dollar,Money
+bill,Money
+currency,Money
+yen,Money
+bank,Money
+note,Money
+credit,Money
+trend,Money
+teller,Money
+atm,Money
+exchange,Money
+coin,Money
+crescent,MoonStage
+quarter,MoonStage
+gibbous,MoonStage
+full,MoonStage
+waning,MoonStage
+waxing,MoonStage
+wind,Nature
+weather,Nature
+fog,Nature
+landscape,Nature
+electric,Nature
+Nature,Nature
+weather,Nature
+star,Nature
+water,Nature
+Plant,Nature
+tree,Nature
+sun,Nature
+world,Nature
+mountain,Nature
+volcano,Nature
+sand,Nature
+moon,Nature
+cloud,Nature
+fire,Nature
+flame,Nature
+extraterrestrial,Nature
+space,Nature
+-1,Number
+four,Number
+4,Number
+0,Number
+12,Number
+twelve,Number
+30,Number
+thirty,Number
+0,Number
+1,Number
+one,Number
+1,Number
+2,Number
+two,Number
+3,Number
+three,Number
+4,Number
+four,Number
+5,Number
+five,Number
+6,Number
+six,Number
+7,Number
+seven,Number
+8,Number
+eight,Number
+9,Number
+nine,Number
+10,Number
+ten,Number
+11,Number
+eleven,Number
+double,Number
+once,Number
+double,Number
+hash,Number
+10,Number
+ten,Number
+100,Number
+hundred,Number
+18,Number
+1234,Number
+Numbers,Number
+stick,Object
+fountain,Object
+pole,Object
+painting,Object
+palette,Object
+stop,Object
+chair,Object
+seat,Object
+flag,Object
+ticket,Object
+prize,Object
+trophy,Object
+hit,Object
+target,Object
+battery,Object
+plug,Object
+pasSport,Object
+clipboard,Office
+pushpin,Office
+pin,Office
+pushpin,Office
+paperclip,Office
+straight edge,Office
+ruler,Office
+scissors,Office
+ink,Office
+ribbon,PartyObject
+balloon,PartyObject
+bubble,PartyObject
+bouquet,PartyObject
+ball,PartyObject
+fireworks,PartyObject
+popper,PartyObject
+ball,PartyObject
+confetti,PartyObject
+banner,PartyObject
+doll,PartyObject
+streamer,PartyObject
+bell,PartyObject
+ribbon,PartyObject
+gift,PartyObject
+present,PartyObject
+bar,Place
+salon,Place
+parlor,Place
+school,Place
+bactrian,Place
+tropical,Place
+bar,Place
+fuji,Place
+tokyo,Place
+liberty,Place
+city,Place
+hotsprings,Nature
+space,Place
+milky way,Place
+amusement park,Place
+circus,Place
+theater,Place
+theatre,Place
+museum,Place
+subway,Place
+station,Place
+busstop,Place
+station,Place
+resort,Place
+sea,Place
+ocean,Place
+cinema,Place
+market,Place
+moyai,Place
+cactus,Plant
+palm,Plant
+rice,Plant
+herb,Plant
+clover,Plant
+maple,Plant
+Fruit,Plant
+Vegetable,Plant
+maize,Plant
+corn,Plant
+maze,Plant
+mushroom,Plant
+chestnut,Plant
+bamboo,Plant
+pine,Plant
+leaf,Plant
+evergreen,Plant
+blossom,Plant; PlantGrowing
+seedling,Plant; PlantGrowing
+deciduous,Plant; PlantGrowing
+shedding,Plant; PlantGrowing
+falling,Plant; PlantGrowing
+doctor,Profession
+cop,Profession
+Officer,Profession
+police,Profession
+worker,Profession
+princess,Profession
+guard,Profession
+guardsman,Profession
+barber,Profession
+queen,Profession
+king,Profession
+dancer,Profession
+christian,Religion
+cross,Religion
+halo,Religion
+church,Religion; ReligionBuilding
+angel,Religion; ReligionCreature
+angel,Religion; ReligionCreature
+christmas,Religion; ReligionEvent
+pray,Religion; ReligionAction
+see,Sensation
+hear,Sensation
+speak,Sensation
+globe,Shape
+chart,Shape
+graph,Shape
+triangle,Shape
+Sign,Shape
+circle,Shape
+square,Shape
+loop,Shape
+curl,Shape
+loop,Shape
+star,Shape
+triangle,Shape
+square,Shape
+stars and stripes,Shape
+magnifying,Sight
+microscope,Sight
+telescope,Sight
+access,Sign
+lavatory,Sign
+warning,Sign
+traffic,Sign
+check,Sign
+check,Sign
+bangbang,Sign
+copyright,Sign
+registered,Sign
+tm,Sign
+trademark,Sign
+instrument,Sound
+radio,Sound
+quiet,Sound
+silent,Sound
+whew,Sound
+hushed,Sound
+oh,Sound
+boom,Sound
+zap,Sound
+tada,Sound
+chime,Sound
+mute,Sound
+volume,Sound
+speaker,Sound
+low,Sound
+high,Sound
+loud,Sound
+loudspeaker,Sound
+megaphone,Sound
+horn,Sound
+bell,Sound
+music,Sound
+note,Sound
+notes,Sound
+karaoke,Sound
+mic,Sound
+microphone,Sound
+earbud,Sound
+headphone,Sound
+sax,Sound
+saxophone,Sound
+guitar,Sound
+keyboard,Sound
+piano,Sound
+trumpet,Sound
+violin,Sound
+Sound,Sound
+vibration,Sound
+runner,Sport
+swim,Sport
+racing,Sport
+soccer,Sport
+baseball,Sport
+hoop,Sport
+football,Sport
+rugby,Sport
+racquet,Sport
+tennis,Sport
+8 ball,Sport
+billiard,Sport
+bowling,Sport
+golf,Sport
+hole,Sport
+ski,Sport
+snowboard,Sport
+surfer,Sport
+surfing,Sport
+swim,Sport
+racehorse,Sport
+jockey,Sport
+swimmer,Sport
+bicyclist,Sport
+cyclist,Sport
+dart,Sport
+archer,Sport
+vs,Sport
+open,State
+cold,State
+closed,State
+forbidden,State
+prohibited,State
+clenched,State
+broken,State
+growing,State
+hot,State
+wrapped,State
+new,State
+hourglass,Time
+Timer,Time
+clock,Time
+watch,Time
+alarm,Time
+o’clock,Time
+12:00,Time
+12:30,Time
+1:00,Time
+1:30,Time
+2:00,Time
+2:30,Time
+3:00,Time
+3:30,Time
+4:00,Time
+4:30,Time
+5:00,Time
+5:30,Time
+6:00,Time
+6:30,Time
+7:00,Time
+7:30,Time
+8:00,Time
+8:30,Time
+9:00,Time
+9:30,Time
+10:00,Time
+10:30,Time
+11:00,Time
+11:30,Time
+date,Time
+calendar,Time
+soon,Time
+hammer,Tool
+wrench,Tool
+bolt,Tool
+nut,Tool
+link,Tool
+hocho,Tool
+Vehicle,TranSportation; Land
+travel,TranSportation; Land
+train,TranSportation; Land
+railway,TranSportation; Land
+locomotive,TranSportation; Land
+engine,TranSportation; Land
+car,TranSportation; Land
+tram,TranSportation; Land
+trolleybus,TranSportation; Land
+shinkansen,TranSportation; Land
+metro,TranSportation; Land
+monorail,TranSportation; Land
+bus,TranSportation; Land
+trolleybus,TranSportation; Land
+minibus,TranSportation; Land
+ambulance,TranSportation; Land
+truck,TranSportation; Land
+taxi,TranSportation; Land
+automobile,TranSportation; Land
+rv,TranSportation; Land
+delivery,TranSportation; Land
+lorry,TranSportation; Land
+semi,TranSportation; Land
+tractor,TranSportation; Land
+bicycle,TranSportation; Land
+bike,TranSportation; Land
+wheelchair,TranSportation; Land
+parking,TranSportation; Land
+anchor,TranSportation; Sea
+ship,TranSportation; Sea
+boat,TranSportation; Sea
+sailboat,TranSportation; Sea
+yacht,TranSportation; Sea
+rowboat,TranSportation; Sea
+speedboat,TranSportation; Sea
+airplane,TranSportation; Sky
+helicopter,TranSportation; Sky
+railway,TranSportation; Sky
+gondola,TranSportation; Sky
+gondola,TranSportation; Sky
+ropeway,TranSportation; Sky
+tramway,TranSportation; Sky
+rocket,TranSportation; Sky
+fairy ,Creature
+fantasy,-
+tomato,Vegetable
+aubergine,Vegetable
+eggPlant,Vegetable
+potato,Vegetable
+pump,Vehicle
+wheel,Vehicle
+fuel,Vehicle
+fuelpump,Vehicle
+gas,Vehicle
+Signal,Vehicle
+traffic ,Vehicle
+barrier,Vehicle
+cable,Vehicle
+Video,Video
+camera,Video
+movie,Video
+clapper,Video
+television,Video
+tv,Video
+tape,Video
+vhs,Video
+Videocassette,Video
+play,Video
+rewind,Video
+cinema,Video
+film,Video
+movie,Video
+bullet,Weapon
+arrow,Weapon
+bomb,Weapon
+knife,Weapon
+gun,Weapon
+pistol,Weapon
+revolver,Weapon
+eyewear,Wearable
+glasses,Wearable
+sunglasses,Wearable
+ mask,Wearable
+gua pi mao,Wearable
+hat,Wearable
+turban,Wearable
+construction,Wearable
+veil,Wearable
+clothing,Wearable
+eyeglasses,Wearable
+eyewear,Wearable
+shirt,Wearable
+necktie,Wearable
+tshirt,Wearable
+jeans,Wearable
+trousers,Wearable
+pants,Wearable
+dress,Wearable
+kimono,Wearable
+bikini,Wearable
+purse,Wearable
+handbag,Wearable
+bag,Wearable
+pouch,Wearable
+satchel,Wearable
+sneaker,Wearable
+shoe,Wearable
+heel,Wearable
+sandal,Wearable
+boot,Wearable
+crown,Wearable
+tophat,Wearable
+cap,Wearable
+lipstick,Wearable
+makeup,Wearable
+ring,Wearable
+sash,Wearable
+cyclone,Weather
+twister,Weather
+typhoon,Weather
+rain,Weather
+umbrella,Weather
+Lightning,Weather
+rainbow,Weather
+snow,Weather
+snowflake,Weather
+pencil,Writing
+pen,Writing
+nib,Writing
+memo,Writing
+file,Writing
+folder,Writing
+exclamation,Writing
+punctuation,Writing
+interrobang,Writing
+question,Writing
+word,Writing
+dash,Writing
+Letters,Writing
+uppercase,Writing
+latin,Writing
+lowercase,Writing
+cool,Writing
+free,Writing

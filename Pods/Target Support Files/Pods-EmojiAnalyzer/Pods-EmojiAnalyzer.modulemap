@@ -1,0 +1,6 @@
+framework module Pods_EmojiAnalyzer {
+  umbrella header "Pods-EmojiAnalyzer-umbrella.h"
+
+  export *
+  module * { export * }
+}

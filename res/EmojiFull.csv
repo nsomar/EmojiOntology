@@ -1,0 +1,846 @@
+Unicode,EmojiGlyph,Description,Year,Nature,UsageNumber,UsagePercentage,Sentiment,AverageSentiment,Annotations,Color
+U+1F600,😀,grinning face,2012,emoji,36639787,0.267524400578419,0.571753986332574,0.152958142471944,face; grin; person,Orange
+U+1F601,😁,grinning face with smiling eyes,2010,emoji,207378263,1.51416670359107,0.449977158519872,0.681340430807309,eye; face; grin; person; smile,Orange
+U+1F602,😂,face with tears of joy,2010,emoji,1136425630,8.29758059094892,0.220968403775133,1.83350313837751,face; joy; person; tear,Orange
+U+1F603,😃,smiling face with open mouth,2010,emoji,52249460,0.381498000167034,0.55804311774461,0.212892333426546,face; mouth; open; person; smile,Orange
+U+1F604,😄,smiling face with open mouth and smiling eyes,2010,emoji,95795976,0.699451693243321,0.422031473533619,0.295190628765064,eye; face; mouth; open; person; smile,Orange
+U+1F605,😅,smiling face with open mouth and cold sweat,2010,emoji,96051799,0.701319577866373,0.17965367965368,0.125994642776859,cold; face; open; person; smile; sweat,Orange
+U+1F606,😆,smiling face with open mouth and tightly-closed eyes,2010,emoji,41862643,0.305658940517404,0.411764705882353,0.125859563742461,face; laugh; mouth; open; person; satisfied; smile,Orange
+U+1F609,😉,winking face,2010,emoji,136328833,0.995401237727731,0.464168310322156,0.462033710608664,face; person; wink,Orange
+U+1F60A,😊,smiling face with smiling eyes,2010,emoji,343867917,2.51074217144261,0.644695543000628,1.61866428755277,blush; eye; face; person; smile,Orange
+U+1F60B,😋,face savouring delicious food,2010,emoji,79510323,0.580542444211575,0.633514986376022,0.367782338635398,delicious; face; food; person; savouring; smile; um; yum,Orange
+U+1F60E,😎,smiling face with sunglasses,2010,emoji,109444124,0.799103271804778,0.493368700265252,0.394252542588034,bright; cool; eye; eyewear; face; glasses; person; smile; sun; sunglasses; weather,Orange
+U+1F60D,😍,smiling face with heart-shaped eyes,2010,emoji,460352089,3.36124816076982,0.677936782512974,2.27871376333995,eye; face; heart; love; person; smile,Orange
+U+1F618,😘,face throwing a kiss,2010,emoji,284151466,2.07472414114004,0.701754385964912,1.45594676571231,face; heart; kiss; person,Orange
+U+1F617,😗,kissing face,2012,emoji,4544228,0.0331795561964285,0.733333333333333,0.0243316745440475,face; kiss; person,Orange
+U+1F619,😙,kissing face with smiling eyes,2012,emoji,12278996,0.0896547527583828,0.790575916230366,0.0708788883063654,eye; face; kiss; person; smile,Orange
+U+1F61A,😚,kissing face with closed eyes,2010,emoji,33807784,0.246846608291819,0.714622641509434,0.176402175265144,closed; eye; face; kiss; person,Orange
+U+263A,☺️,white smiling face,1995,text,273909306,1.99994129061124,0.658098933074685,1.31615922956326,face; outlined; person; relaxed; smile,Orange
+U+1F607,😇,smiling face with halo,2010,emoji,28369105,0.207136242633486,0.6,0.124281745580091,angel; face; fairy tale; fantasy; halo; innocent; person; smile,Orange
+U+1F610,😐,neutral face,2010,emoji,77125430,0.563129213335843,-0.392592592592593,0.0,deadpan; face; neutral; person,Orange
+U+1F611,😑,expressionless face,2012,emoji,90972779,0.664235252539214,-0.31438127090301,0.0,expressionless; face; inexpressive; person; unexpressive,Orange
+U+1F636,😶,face without mouth,2010,emoji,25092469,0.183211974683629,-0.145299145299145,0.0,face; mouth; person; quiet; silent,Orange
+U+1F60F,😏,smirking face,2010,emoji,212570994,1.5520812866682,0.33245729303548,0.516000743136734,face; person; smirk,Orange
+U+1F623,😣,persevering face,2010,emoji,39212748,0.286310804801693,-0.214022140221402,0.0,face; persevere; person,Orange
+U+1F625,😥,disappointed but relieved face,2010,emoji,32801152,0.239496712333006,0.12316715542522,0.0294981287917486,disappointed; face; person; relieved; whew,Orange
+U+1F62E,😮,face with open mouth,2012,emoji,9144862,0.0667709592559139,0.277777777777778,0.0185474886821983,face; mouth; open; person; sympathy,Orange
+U+1F62F,😯,hushed face,2012,emoji,9330372,0.0681254554365632,0.129032258064516,0.00879038134665331,face; hushed; person; stunned; surprised,Orange
+U+1F62A,😪,sleepy face,2010,emoji,72443123,0.528941477105303,-0.0809128630705395,0.0,face; person; sleep,Orange
+U+1F62B,😫,tired face,2010,emoji,51507822,0.376082950636419,-0.145610278372591,0.0,face; person; tired,Orange
+U+1F634,😴,sleeping face,2012,emoji,95890432,0.700141361138526,-0.0807799442896936,0.0,face; person; sleep; zzz,Orange
+U+1F60C,😌,relieved face,2010,emoji,125703790,0.917822777468261,0.48421052631579,0.444419450142527,face; person; relieved,Orange
+U+1F61B,😛,face with stuck-out tongue,2012,emoji,31068452,0.226845450771845,0.609090909090909,0.13816950183376,face; person; tongue,Orange
+U+1F61C,😜,face with stuck-out tongue and winking eye,2010,emoji,82992122,0.605964704182943,0.456038647342995,0.276343324033188,eye; face; joke; person; tongue; wink,Orange
+U+1F61D,😝,face with stuck-out tongue and tightly-closed eyes,2010,emoji,48396473,0.353365521186972,0.425403225806452,0.150322832601716,eye; face; horrible; person; taste; tongue,Orange
+U+1F612,😒,unamused face,2010,emoji,359735069,2.62659574689289,-0.374729241877256,0.0,face; person; unamused; unhappy,Orange
+U+1F613,😓,face with cold sweat,2010,emoji,44125370,0.322180179692392,-0.0805860805860806,0.0,cold; face; person; sweat,Orange
+U+1F614,😔,pensive face,2010,emoji,224185792,1.63688641593354,-0.146058091286307,0.0,dejected; face; pensive; person,Orange
+U+1F615,😕,confused face,2012,emoji,85401602,0.623557456365309,-0.4,0.0,confused; face; person,Orange
+U+1F616,😖,confounded face,2010,emoji,31658344,0.231152531042427,-0.156716417910448,0.0,confounded; face; person,Orange
+U+1F637,😷,face with medical mask,2010,emoji,40080152,0.292644131334386,-0.170731707317073,0.0,cold; doctor; face; mask; medicine; person; sick,Orange
+U+1F632,😲,astonished face,2010,emoji,9026133,0.0659040627164696,-0.0697674418604651,0.0,astonished; face; person; shocked; totally,Orange
+U+1F61E,😞,disappointed face,2010,emoji,81760786,0.596974138126688,-0.118421052631579,0.0,disappointed; face; person,Orange
+U+1F61F,😟,worried face,2012,emoji,15348021,0.112063154681821,0.075,0.00840473660113661,face; person; worried,Orange
+U+1F624,😤,face with look of triumph,2010,emoji,45303194,0.330780029347273,-0.211009174311927,0.0,face; person; triumph; won,Orange
+U+1F622,😢,crying face,2010,emoji,104724602,0.764643811271706,0.006675567423231,0.0051044313169006,cry; face; person; sad; tear,Orange
+U+1F62D,😭,loudly crying face,2010,emoji,334057554,2.43911207487486,-0.0933767643865364,0.0,cry; face; person; sad; sob; tear,Orange
+U+1F626,😦,frowning face with open mouth,2012,emoji,6790398,0.0495799048897008,-0.388888888888889,0.0,face; frown; mouth; open; person,Orange
+U+1F627,😧,anguished face,2012,emoji,10691814,0.0780659868859486,-0.0652173913043478,0.0,anguished; face; person,Orange
+U+1F628,😨,fearful face,2010,emoji,15344421,0.112036869380488,-0.141263940520446,0.0,face; fear; fearful; person; scared,Orange
+U+1F629,😩,weary face,2010,emoji,258349145,1.88632920153363,-0.368362831858407,0.0,face; person; tired; weary,Orange
+U+1F62C,😬,grimacing face,2012,emoji,27826844,0.203176938803961,0.196261682242991,0.0398758478026466,face; grimace; person,Orange
+U+1F630,😰,face with open mouth and cold sweat,2010,emoji,19465960,0.142130173428232,-0.0198675496688742,0.0,blue; cold; face; mouth; open; person; rushed; sweat,Gray
+U+1F631,😱,face screaming in fear,2010,emoji,59518298,0.434571221603928,0.190265486725664,0.0826839049954377,face; fear; fearful; munch; person; scared; scream,Orange
+U+1F633,😳,flushed face,2010,emoji,122843158,0.896935951322808,0.0177304964539007,0.0159031197043051,dazed; face; flushed; person,Orange
+U+1F635,😵,dizzy face,2010,emoji,9940371,0.0725793464165636,0.087378640776699,0.0063418846383405,dizzy; face; person,Orange
+U+1F621,😡,pouting face,2010,emoji,55818864,0.407559905644875,-0.173280423280423,0.0,angry; face; mad; person; pouting; rage; red,Red
+U+1F620,😠,angry face,2010,emoji,29694620,0.216814454077038,-0.302083333333333,0.0,angry; face; mad; person,Orange
+U+1F608,😈,smiling face with horns,2010,emoji,56474172,0.412344619046572,0.267692307692308,0.110381482637082,face; fairy tale; fantasy; horns; person; smile,Purple
+U+1F47F,👿,imp,2010,emoji,6857549,0.0500702060757651,-0.557142857142857,0.0,devil; face; fairy tale; fantasy; imp; person,Purple
+U+1F479,👹,japanese ogre,2010,emoji,3491770,0.0254950629545883,0.0612244897959183,0.00156092222170949,creature; face; fairy tale; fantasy; japanese; monster; ogre; person,Brown
+U+1F47A,👺,japanese goblin,2010,emoji,1307082,0.00954362339925288,-0.210526315789474,0.0,creature; face; fairy tale; fantasy; goblin; japanese; monster; person,Brown
+U+1F480,💀,skull,2010,emoji,42936085,0.313496647860127,-0.208333333333333,0.0,body; death; face; fairy tale; monster; person; skull,Gray
+U+1F47B,👻,ghost,2010,emoji,13197139,0.0963585487089507,0.232142857142857,0.022368948807435,creature; face; fairy tale; fantasy; ghost; monster; person,Gray
+U+1F47D,👽,extraterrestrial alien,2010,emoji,14902126,0.108807464560154,0.321917808219178,0.0350270605090905,alien; creature; extraterrestrial; face; fairy tale; fantasy; monster; nature; person; space; ufo,Gray
+U+1F47E,👾,alien monster,2010,emoji,5267050,0.0384572212187413,0.371428571428571,0.0142841107383896,alien; creature; extraterrestrial; face; fairy tale; fantasy; monster; nature; person; space; ufo,Purple
+U+1F4A9,💩,pile of poo,2010,emoji,20743027,0.151454643127619,-0.117903930131004,0.0,comic; dung; face; monster; nature; object; poo; poop,Gray
+U+1F63A,😺,smiling cat face with open mouth,2010,emoji,4213458,0.0307644481069812,0.425,0.013074890445467,animal; cat; face; mouth; nature; open; smile,Orange
+U+1F638,😸,grinning cat face with smiling eyes,2010,emoji,5902933,0.043100103515328,0.422680412371134,0.0182175695270974,animal; cat; eye; face; grin; nature; smile,Orange
+U+1F639,😹,cat face with tears of joy,2010,emoji,17073978,0.124665182413291,0.142372881355932,0.0177489412249431,animal; cat; face; joy; nature; tear,Orange
+U+1F63B,😻,smiling cat face with heart-shaped eyes,2010,emoji,40661802,0.296891032867859,0.623501199040767,0.185111914977562,animal; cat; eye; face; heart; love; nature; smile,Orange
+U+1F63C,😼,cat face with wry smile,2010,emoji,5969640,0.0435871628475612,0.392857142857143,0.0171235282615419,animal; cat; face; ironic; nature; smile; wry,Orange
+U+1F63D,😽,kissing cat face with closed eyes,2010,emoji,6546207,0.0477969509958465,0.590909090909091,0.028243652861182,animal; cat; eye; face; kiss; nature,Orange
+U+1F640,🙀,weary cat face,2010,emoji,5247172,0.0383120825465461,0.340909090909091,0.0130609372317771,animal; cat; face; nature; oh; surprised; weary,Orange
+U+1F63F,😿,crying cat face,2010,emoji,8564054,0.0625302055623635,-0.380597014925373,0.0,animal; cat; cry; face; nature; sad; tear,Orange
+U+1F63E,😾,pouting cat face,2010,emoji,3141315,0.0229362253771562,-0.363636363636364,0.0,animal; cat; face; nature; pouting,Orange
+U+1F648,🙈,see-no-evil monkey,2010,emoji,114311686,0.834643642340456,0.432692307692308,0.361143883705005,animal; evil; face; forbidden; gesture; monkey; nature; no; not; prohibited; see,Gray
+U+1F649,🙉,hear-no-evil monkey,2010,emoji,9122806,0.066609917976412,0.34,0.0226473721119801,animal; evil; face; forbidden; gesture; hear; monkey; nature; no; not; prohibited,Gray
+U+1F64A,🙊,speak-no-evil monkey,2010,emoji,69210594,0.505339255207088,0.460689655172414,0.232804567226438,animal; evil; face; forbidden; gesture; monkey; nature; no; not; prohibited; speak,Gray
+U+1F466,👦,boy,2010,emoji,2768508,0.0202141852843347,0.148148148148148,0.00299469411619774,boy; person,Orange
+U+1F467,👧,girl,2010,emoji,3197412,0.0233458160851821,0.15,0.00350187241277731,girl; maiden; person; virgin; virgo; zodiac,Orange
+U+1F468,👨,man,2010,emoji,3572749,0.0260863289036627,0.571428571428572,0.0149064736592359,man; person,Orange
+U+1F469,👩,woman,2010,emoji,3162916,0.0230939444866285,0.0740740740740741,0.00171066255456507,person; woman,Orange
+U+1F474,👴,older man,2010,emoji,1821438,0.0132991796360813,0.260869565217391,0.0034693512094125,man; old; person,Orange
+U+1F475,👵,older woman,2010,emoji,2444788,0.0178505525766652,0.478260869565217,0.00853722079753551,old; person; woman,Orange
+U+1F476,👶,baby,2010,emoji,5359121,0.0391294751018126,0.447916666666667,0.0175267440560202,baby; person,Orange
+U+1F471,👱,person with blond hair,2010,emoji,1333289,0.00973497309148658,0.142857142857143,0.00139071044164094,blond; person,Orange
+U+1F46E,👮,police officer,2010,emoji,1442240,0.0105304758319206,-0.4,0.0,cop; officer; person; police,Gray
+U+1F472,👲,man with gua pi mao,2010,emoji,1324213,0.00966870492623634,0.5,0.00483435246311817,gua pi mao; hat; man; person,Orange
+U+1F473,👳,man with turban,2010,emoji,2183812,0.0159450434653443,0.722222222222222,0.0115158647249709,man; person; turban,Orange
+U+1F477,👷,construction worker,2010,emoji,766328,0.0055953228889256,0.333333333333333,0.00186510762964187,construction; hat; person; worker,Orange
+U+1F478,👸,princess,2010,emoji,8528866,0.0622732813447758,0.621621621621622,0.038710418133239,fairy tale; fantasy; person; princess,Orange
+U+1F482,💂,guardsman,2010,emoji,3656649,0.0266989224541801,-0.176470588235294,0.0,guard; guardsman; person,Black
+U+1F385,🎅,father christmas,2010,emoji,7168425,0.0523400586694555,0.321167883211679,0.0168099458500441,activity; celebration; christmas; fairy tale; fantasy; father; person; santa,Orange
+U+1F47C,👼,baby angel,2010,emoji,14639062,0.106886709974059,0.343434343434343,0.0367085670617982,angel; baby; face; fairy tale; fantasy; person,Orange
+U+1F46F,👯,woman with bunny ears,2010,emoji,13860462,0.101201783413478,0.445497630331754,0.0450851546960517,bunny; dancer; ear; girl; person; woman,Gray
+U+1F486,💆,face massage,2010,emoji,8485288,0.0619550977721364,0.228260869565217,0.0141419244914659,massage; person; salon,Orange
+U+1F487,💇,haircut,2010,emoji,2998428,0.0218929398628204,0.347826086956522,0.00761493560445927,barber; beauty; haircut; parlor; person,Orange
+U+1F470,👰,bride with veil,2010,emoji,1923970,0.0140478142239435,0.53125,0.00746290130647,bride; person; veil; wedding,Orange
+U+1F64D,🙍,person frowning,2010,emoji,8664724,0.0632652448082584,-0.346938775510204,0.0,frown; gesture; person,Orange
+U+1F64E,🙎,person with pouting face,2010,emoji,2823044,0.0206123783936436,-0.0588235294117647,0.0,gesture; person; pouting,Orange
+U+1F645,🙅,face with no good gesture,2010,emoji,24549804,0.179249721059177,-0.206060606060606,0.0,forbidden; gesture; hand; no; not; person; prohibited,Orange
+U+1F646,🙆,face with ok gesture,2010,emoji,19746842,0.144181025652981,0.508771929824561,0.0733552586655516,gesture; hand; ok; person,Red
+U+1F481,💁,information desk person,2010,emoji,91497632,0.668067452333846,0.327868852459016,0.219038508961917,hand; help; information; person; sassy,Orange
+U+1F64B,🙋,happy person raising one hand,2010,emoji,29186449,0.213104057448194,0.491525423728814,0.104746062135553,gesture; hand; happy; person; raised,Orange
+U+1F647,🙇,person bowing deeply,2010,emoji,14921296,0.108947433789753,0.144578313253012,0.0157514362105667,apology; bow; gesture; person; sorry,Gray
+U+1F64C,🙌,person raising both hands in celebration,2010,emoji,122435977,0.893962930411089,0.560424966799469,0.50099914559559,body; celebration; gesture; hand; hooray; person; raised,Orange
+U+1F64F,🙏,person with folded hands,2010,emoji,138323532,1.00996547780667,0.417803768680962,0.421967382865297,ask; body; bow; folded; gesture; hand; person; please; pray; thanks,Gray
+U+1F464,👤,bust in silhouette,2010,emoji,1302178,0.00950781697765887,0.8,0.0076062535821271,bust; person; silhouette,Gray
+U+1F465,👥,busts in silhouette,2010,emoji,1158034,0.00845535351227421,0.333333333333333,0.00281845117075807,bust; person; silhouette,Gray
+U+1F6B6,🚶,pedestrian,2010,emoji,18464488,0.134817953067997,-0.148648648648649,0.0,hike; pedestrian; person; walk; walking,Gray
+U+1F3C3,🏃,runner,2010,emoji,11242513,0.0820869005412091,0.414814814814815,0.0340508624467238,marathon; person; runner; running,Gray
+U+1F483,💃,dancer,2010,emoji,27041907,0.197445742811561,0.735863095238095,0.1452930354469,dancer; person,Brown
+U+1F48F,💏,kiss,2010,emoji,9408563,0.0686963648800495,0.394594594594595,0.0271072142499655,couple; kiss; person; romance,Orange
+U+1F491,💑,couple with heart,2010,emoji,6692285,0.0488635355092252,0.682926829268293,0.0333702193721538,couple; heart; love; person; romance,Orange
+U+1F46A,👪,family,2010,emoji,3122994,0.0228024550977875,-0.0175438596491228,0.0,child; family; father; mother; person,Orange
+U+1F46B,👫,man and woman holding hands,2010,emoji,10614916,0.0775045182465245,0.258883248730964,0.0200646214749886,couple; hand; hold; man; person; woman,Gray
+U+1F46C,👬,two men holding hands,2010,emoji,2319478,0.0169356050460891,-0.0609756097560976,0.0,couple; gemini; hand; hold; man; person; twins; zodiac,Gray
+U+1F46D,👭,two women holding hands,2010,emoji,9057629,0.0661340298972455,0.472222222222222,0.0312299585625882,couple; hand; hold; person; woman,Orange
+U+1F4AA,💪,flexed biceps,2010,emoji,46752155,0.341359578376489,0.555713271823989,0.189698048168056,biceps; body; comic; flex; muscle; person,Orange
+U+1F448,👈,white left pointing backhand index,2010,emoji,44700053,0.326376211866313,0.431034482758621,0.140679401666514,backhand; body; finger; hand; index; person; point,Orange
+U+1F449,👉,white right pointing backhand index,2010,emoji,63958189,0.466988964054465,0.393835616438356,0.183916886528299,backhand; body; finger; hand; index; person; point,Orange
+U+261D,☝️,white up pointing index,1995,text,13236513,0.0966460368908109,0.31413612565445,0.0303600115887364,body; finger; hand; index; person; point; up,Orange
+U+1F446,👆,white up pointing backhand index,2010,emoji,10085619,0.0736398707076904,0.333333333333333,0.0245466235692301,backhand; body; finger; hand; index; person; point; up,Orange
+U+1F447,👇,white down pointing backhand index,2010,emoji,20142807,0.147072153248101,0.25531914893617,0.0375503369995152,backhand; body; down; finger; hand; index; person; point,Orange
+U+270C,✌️,victory hand,1995,text,115131217,0.840627425475724,0.464146023468057,0.390173876752748,body; hand; person; v; victory,Orange
+U+270A,✊,raised fist,2010,emoji,25149079,0.183625311047095,0.433333333333333,0.0795709681204079,body; clenched; fist; hand; person; punch,Orange
+U+270B,✋,raised hand,2010,emoji,67771731,0.494833436448112,0.126984126984127,0.062835991929919,body; hand; person,Orange
+U+1F44A,👊,fisted hand sign,2010,emoji,52505513,0.383367564128782,0.229257641921397,0.0878899437413145,body; clenched; fist; hand; person; punch,Orange
+U+1F44C,👌,ok hand sign,2010,emoji,259491791,1.89467219998565,0.563760683760684,1.06814169496627,body; hand; ok; person,Orange
+U+1F44D,👍,thumbs up sign,2010,emoji,137212000,1.0018496573729,0.522114347357066,0.523080080009152,#ERROR!,Orange
+U+1F44E,👎,thumbs down sign,2010,emoji,27494472,0.200750133755421,-0.189922480620155,0.0,-1; body; down; hand; person; thumb; thumbs down,Orange
+U+1F44B,👋,waving hand sign,2010,emoji,41462057,0.302734072817433,0.416230366492147,0.12600711407846,body; hand; person; wave; waving,Orange
+U+1F44F,👏,clapping hands sign,2010,emoji,76522097,0.558723993972144,0.520547945205479,0.290842626999198,body; clap; hand; person,Orange
+U+1F450,👐,open hands sign,2010,emoji,15698633,0.114623138590451,-0.0240963855421687,0.0,body; hand; open; person,Orange
+U+1F485,💅,nail polish,2010,emoji,14753419,0.107721684475329,0.395973154362416,0.0426548951949289,body; care; cosmetics; manicure; nail; person; polish,Orange
+U+1F442,👂,ear,2010,emoji,2013305,0.0147000912780015,-0.157894736842105,0.0,body; ear; person,Orange
+U+1F443,👃,nose,2010,emoji,2125020,0.0155157752886815,0.0,0.0,body; nose; person,Orange
+U+1F463,👣,footprints,2010,emoji,5212952,0.038062226154428,0.362068965517241,0.013781150849017,body; clothing; footprint; person; print,Brown
+U+1F440,👀,eyes,2010,emoji,106035818,0.774217618958657,0.0634146341463414,0.0490967270559148,body; eye; face; person,Gray
+U+1F445,👅,tongue,2010,emoji,17397211,0.127025259303808,0.468421052631579,0.0595013056738889,body; person; tongue,Gray
+U+1F444,👄,mouth,2010,emoji,6341052,0.046299017386116,0.493333333333333,0.0228408485771506,body; lips; mouth; person,Brown
+U+1F48B,💋,kiss mark,2010,emoji,65561607,0.478696276635912,0.693460490463215,0.331956954778854,emotion; heart; kiss; lips; mark; person; romance,Brown
+U+1F498,💘,heart with arrow,2010,emoji,73084893,0.533627343171043,0.688607594936709,0.367459841373477,arrow; cupid; emotion; heart; person; romance,Gray
+U+2764,❤️,heavy black heart,1995,text,508447707,3.71241699741996,0.746086956521739,2.76978589894463,emotion; heart; person,Red
+U+1F493,💓,beating heart,2010,emoji,34967876,0.255316988234688,0.671814671814672,0.171525698659598,beating; emotion; heart; heartbeat; person; pulsating,Gray
+U+1F494,💔,broken heart,2010,emoji,85538653,0.624558130485595,-0.121951219512195,0.0,break; broken; emotion; heart; person,Brown
+U+1F495,💕,two hearts,2010,emoji,279852048,2.043332058449,0.632916666666667,1.29325891532668,emotion; heart; love; person,Gray
+U+1F496,💖,sparkling heart,2010,emoji,90588859,0.661432071181471,0.713380839271576,0.471852966060574,emotion; excited; heart; person; sparkle,Gray
+U+1F497,💗,growing heart,2010,emoji,69840900,0.509941417191026,0.659090909090909,0.33609775223954,emotion; excited; growing; heart; heartpulse; nervous; person,Gray
+U+1F499,💙,blue heart,2010,emoji,83731166,0.611360813693653,0.732456140350877,0.447794981959824,blue; emotion; heart; person,Gray
+U+1F49A,💚,green heart,2010,emoji,38917984,0.284158593534414,0.659217877094972,0.18732242478805,emotion; green; heart; person,Green
+U+1F49B,💛,yellow heart,2010,emoji,42846467,0.312842304489325,0.712624584717608,0.222939117318805,emotion; heart; person; yellow,Orange
+U+1F49C,💜,purple heart,2010,emoji,94059004,0.686769239791245,0.656017039403621,0.450532323441328,emotion; heart; person; purple,Gray
+U+1F49D,💝,heart with ribbon,2010,emoji,11750809,0.0857982098541264,0.660869565217391,0.056701425642727,emotion; heart; object; person; ribbon; valentine,Red
+U+1F49E,💞,revolving hearts,2010,emoji,70347885,0.513643154273374,0.74235807860262,0.381307145093771,emotion; heart; person; revolving,Gray
+U+1F49F,💟,heart decoration,2010,emoji,12215239,0.0891892327702977,0.714285714285714,0.0637065948359269,emotion; heart; person; symbol,Gray
+U+1F48C,💌,love letter,2010,emoji,7998583,0.0584014345539655,0.588235294117647,0.0343537850317444,emotion; heart; letter; love; mail; person; romance,White
+U+1F4A4,💤,sleeping symbol,2010,emoji,17206633,0.125633759260059,0.374531835205993,0.0470538424194978,comic; emotion; person; sleep; symbol; word; zzz,Blue
+U+1F4A2,💢,anger symbol,2010,emoji,6752084,0.0493001562687888,0.25,0.0123250390671972,angry; comic; emotion; mad; person; symbol,Brown
+U+1F4A3,💣,bomb,2010,emoji,7036762,0.0513787248834989,0.00763358778625955,0.000392204006744267,bomb; comic; object,Gray
+U+1F4A5,💥,collision symbol,2010,emoji,22929887,0.167421941481425,0.148936170212766,0.0249351827738293,boom; collision; comic; emotion; person,Red
+U+1F4A6,💦,splashing sweat symbol,2010,emoji,17510244,0.127850566655365,0.476190476190476,0.0608812222168403,comic; emotion; object; person; splashing; sweat,Cyan
+U+1F4A8,💨,dash symbol,2010,emoji,8732192,0.0637578605611345,0.391304347826087,0.0249487280456613,comic; dash; emotion; object; person; running,White
+U+1F4AB,💫,dizzy symbol,2010,emoji,24285679,0.177321219610663,0.512396694214876,0.0908588067426536,comic; dizzy; emotion; person; star,Orange
+U+1F4AC,💬,speech balloon,2010,emoji,6461369,0.0471775086640373,0.4,0.0188710034656149,balloon; bubble; comic; dialog; emotion; object; person; speech,White
+U+1F4AD,💭,thought balloon,2010,emoji,19677187,0.143672441579545,0.216666666666667,0.0311290290089014,balloon; bubble; comic; emotion; object; person; thought,White
+U+1F453,👓,eyeglasses,2010,emoji,2386272,0.0174232996064378,0.333333333333333,0.00580776653547927,clothing; eye; eyeglasses; eyewear; glasses; object; person,Gray
+U+1F454,👔,necktie,2010,emoji,973653,0.00710910069418197,0.416666666666667,0.00296212528924249,clothing; necktie; object; person,Gray
+U+1F455,👕,t-shirt,2010,emoji,859721,0.0062772293187643,0.5,0.00313861465938215,clothing; object; person; shirt; tshirt,Gray
+U+1F456,👖,jeans,2010,emoji,1055708,0.00770822302776601,0.4,0.00308328921110641,clothing; jeans; object; pants; person; trousers,Purple
+U+1F457,👗,dress,2010,emoji,1746657,0.0127531682141356,0.258064516129032,0.00329114018429307,clothing; dress; object; person,Gray
+U+1F458,👘,kimono,2010,emoji,473764,0.00345917486135043,1.0,0.00345917486135043,clothing; kimono; object; person,Orange
+U+1F459,👙,bikini,2010,emoji,2784179,0.020328606661333,0.540540540540541,0.010988436033153,bikini; clothing; object; person; swim,Purple
+U+1F45A,👚,womans clothes,2010,emoji,401771,0.00293351994499291,0.727272727272727,0.00213346905090394,clothing; object; person; woman,Gray
+U+1F45B,👛,purse,2010,emoji,635199,0.00463788808933336,0.4,0.00185515523573334,clothing; coin; object; person; purse,Gray
+U+1F45C,👜,handbag,2010,emoji,760789,0.00555488003223531,0.285714285714286,0.00158710858063866,bag; clothing; handbag; object; person,Gray
+U+1F45D,👝,pouch,2010,emoji,195197,0.00142522554565357,0.5,0.000712612772826787,bag; clothing; object; person; pouch,Orange
+U+1F392,🎒,school satchel,2010,emoji,526661,0.00384540085708006,0.6,0.00230724051424804,activity; bag; education; object; satchel; school,Brown
+U+1F45E,👞,mans shoe,2010,emoji,740429,0.00540622205025041,0.545454545454545,0.00294884839104568,clothing; man; object; person; shoe,Brown
+U+1F45F,👟,athletic shoe,2010,emoji,2270759,0.0165798846028513,0.444444444444444,0.00736883760126724,athletic; clothing; object; person; shoe; sneaker,White
+U+1F460,👠,high-heeled shoe,2010,emoji,3209205,0.0234319223514663,0.380952380952381,0.00892644661008242,clothing; heel; object; person; shoe; woman,Brown
+U+1F461,👡,womans sandal,2010,emoji,524910,0.00383261597857045,0.5,0.00191630798928523,clothing; object; person; sandal; shoe; woman,Orange
+U+1F462,👢,womans boots,2010,emoji,549380,0.00401128301291085,0.8,0.00320902641032868,boot; clothing; object; person; shoe; woman,Gray
+U+1F451,👑,crown,2010,emoji,33949890,0.24788419135606,0.701342281879195,0.173851664407438,clothing; crown; king; object; person; queen,Orange
+U+1F452,👒,womans hat,2010,emoji,744506,0.00543599015401035,0.285714285714286,0.00155314004400296,clothing; hat; object; person; woman,Gray
+U+1F3A9,🎩,top hat,2010,emoji,1864454,0.0136132597811236,0.4,0.00544530391244945,activity; clothing; entertainment; hat; object; person; top; tophat,Gray
+U+1F393,🎓,graduation cap,2010,emoji,2919572,0.02131717494006,0.584415584415584,0.0124580892506844,activity; cap; celebration; clothing; education; graduation; hat; object,Black
+U+1F484,💄,lipstick,2010,emoji,3392302,0.0247688000787497,0.454545454545454,0.0112585454903408,cosmetics; lipstick; makeup; object; person,Red
+U+1F48D,💍,ring,2010,emoji,9729849,0.0710422258034287,0.491071428571429,0.0348868073141837,diamond; emotion; object; person; ring; romance,Gray
+U+1F48E,💎,gem stone,2010,emoji,20545340,0.15001123691521,0.569377990430622,0.085413096616794,diamond; emotion; gem; jewel; object; person; romance,Cyan
+U+1F435,🐵,monkey face,2010,emoji,1884645,0.0137606838142404,0.55,0.0075683760978322,animal; face; monkey; nature,Gray
+U+1F412,🐒,monkey,2010,emoji,3478065,0.025394996272707,0.544117647058824,0.0138178656189729,animal; monkey; nature,Gray
+U+1F436,🐶,dog face,2010,emoji,10086652,0.0736474131288785,0.587837837837838,0.04329273609603,animal; dog; face; nature; pet,Gray
+U+1F415,🐕,dog,2010,emoji,983736,0.00718272144233294,0.3,0.00215481643269988,animal; dog; nature; pet,Orange
+U+1F429,🐩,poodle,2010,emoji,1066315,0.00778566974755549,0.411764705882353,0.00320586401369932,animal; dog; nature; poodle,Gray
+U+1F43A,🐺,wolf face,2010,emoji,1642503,0.0119926906377282,0.263157894736842,0.00315597122045479,animal; face; nature; wolf,Gray
+U+1F431,🐱,cat face,2010,emoji,10648932,0.0777528851382337,0.534246575342466,0.0415392126080974,animal; cat; face; nature; pet,Orange
+U+1F408,🐈,cat,2010,emoji,1044271,0.00762471608572469,0.357142857142857,0.00272311288775882,animal; cat; nature; pet,White
+U+1F42F,🐯,tiger face,2010,emoji,4717403,0.0344439887126483,0.49,0.0168775544691976,animal; face; nature; tiger,Orange
+U+1F405,🐅,tiger,2010,emoji,582283,0.00425152336562447,0.2,0.000850304673124894,animal; nature; tiger,Orange
+U+1F406,🐆,leopard,2010,emoji,402090,0.00293584911474995,0.428571428571429,0.00125822104917855,animal; leopard; nature,Orange
+U+1F434,🐴,horse face,2010,emoji,1848737,0.0134985025363861,0.075,0.00101238769022895,animal; face; horse; nature,Gray
+U+1F40E,🐎,horse,2010,emoji,1257943,0.00918483633752615,0.454545454545454,0.00417492560796643,animal; horse; nature; place; racehorse; racing,Green
+U+1F42E,🐮,cow face,2010,emoji,1791919,0.0130836474666209,0.627906976744186,0.00821531352555267,animal; cow; face; nature,Gray
+U+1F402,🐂,ox,2010,emoji,484320,0.00353624920603769,0.181818181818182,0.000642954401097761,animal; bull; nature; ox; taurus; zodiac,Orange
+U+1F403,🐃,water buffalo,2010,emoji,335847,0.00245217766579976,0.0,0.0,animal; buffalo; nature; water,Gray
+U+1F404,🐄,cow,2010,emoji,706155,0.00515597137861237,0.333333333333333,0.00171865712620412,animal; cow; nature,Gray
+U+1F437,🐷,pig face,2010,emoji,6477362,0.0472942811152104,0.375,0.0177353554182039,animal; face; nature; pig,Gray
+U+1F416,🐖,pig,2010,emoji,659008,0.00481172885029007,0.176470588235294,0.000849128620639423,animal; nature; pig; sow,Orange
+U+1F417,🐗,boar,2010,emoji,563437,0.00411391981314473,0.625,0.00257119988321546,animal; boar; nature; pig,Gray
+U+1F43D,🐽,pig nose,2010,emoji,1975091,0.0144210728043487,0.136363636363636,0.00196650992786574,animal; face; nature; nose; pig,Gray
+U+1F40F,🐏,ram,2010,emoji,642568,0.00469169264086807,0.6,0.00281501558452084,animal; aries; nature; ram; sheep; zodiac,White
+U+1F411,🐑,sheep,2010,emoji,1343661,0.00981070396521681,-0.19047619047619,0.0,animal; ewe; nature; sheep,White
+U+1F410,🐐,goat,2010,emoji,1595083,0.0116464548073881,0.555555555555556,0.00647025267077118,animal; capricorn; goat; nature; zodiac,White
+U+1F42A,🐪,dromedary camel,2010,emoji,775362,0.00566128439232696,0.692307692307692,0.00391935073314943,animal; camel; dromedary; hump; nature,Orange
+U+1F42B,🐫,bactrian camel,2010,emoji,938086,0.00684940921848173,0.416666666666667,0.00285392050770072,animal; bactrian; camel; hump; nature,Orange
+U+1F418,🐘,elephant,2010,emoji,2977510,0.0217402076591288,0.025,0.000543505191478221,animal; elephant; nature,Gray
+U+1F42D,🐭,mouse face,2010,emoji,1545983,0.0112879525030925,0.733333333333333,0.00827783183560117,animal; face; mouse; nature,Gray
+U+1F401,🐁,mouse,2010,emoji,293938,0.00214618025091738,-0.4,0.0,animal; mouse; nature,White
+U+1F400,🐀,rat,2010,emoji,625874,0.00456980185740757,0.181818181818182,0.000830873064983194,animal; nature; rat,Gray
+U+1F439,🐹,hamster face,2010,emoji,1149091,0.00839005644287878,0.357142857142857,0.00299644872959957,animal; face; hamster; nature; pet,Gray
+U+1F430,🐰,rabbit face,2010,emoji,4382232,0.0319967468423211,0.618181818181818,0.0197798071388894,animal; bunny; face; nature; pet; rabbit,Gray
+U+1F407,🐇,rabbit,2010,emoji,1177011,0.00859391355766358,0.260869565217391,0.00224189049330354,animal; bunny; nature; pet; rabbit,White
+U+1F43B,🐻,bear face,2010,emoji,4384325,0.0320120288244574,0.468085106382979,0.0149843539178311,animal; bear; face; nature,Orange
+U+1F428,🐨,koala,2010,emoji,1970909,0.0143905380459666,0.484848484848485,0.00697723056774137,animal; bear; koala; nature,Gray
+U+1F43C,🐼,panda face,2010,emoji,6023557,0.0439808363453352,0.272727272727273,0.0119947735487278,animal; face; nature; panda,Gray
+U+1F43E,🐾,paw prints,2010,emoji,5239973,0.0382595192453521,0.628205128205128,0.024034826192593,animal; feet; nature; paw; print,Brown
+U+1F414,🐔,chicken,2010,emoji,1714985,0.0125219159741835,0.352941176470588,0.00441949975559417,animal; chicken; nature,Gray
+U+1F413,🐓,rooster,2010,emoji,1164927,0.00850568256285486,0.0286458333333333,0.00024365236508178,animal; nature; rooster,White
+U+1F423,🐣,hatching chick,2010,emoji,4209144,0.0307329495542168,0.493827160493827,0.0151767652119589,animal; baby; chick; hatching; nature,Orange
+U+1F424,🐤,baby chick,2010,emoji,1326001,0.00968175995923187,0.590909090909091,0.00572103997590974,animal; baby; chick; nature,Orange
+U+1F425,🐥,front-facing baby chick,2010,emoji,3520585,0.0257054548873435,0.611940298507463,0.0157302037370311,animal; baby; chick; nature,Orange
+U+1F426,🐦,bird,2010,emoji,2316018,0.0169103419509188,0.5,0.0084551709754594,animal; bird; nature,Gray
+U+1F427,🐧,penguin,2010,emoji,20279287,0.148068658227536,0.461267605633803,0.0682992754500256,animal; nature; penguin,Gray
+U+1F438,🐸,frog face,2010,emoji,4582053,0.0334557343972427,-0.0833333333333333,0.0,animal; face; frog; nature,Green
+U+1F40A,🐊,crocodile,2010,emoji,1128476,0.00823953658538278,0.1,0.000823953658538277,animal; crocodile; nature,Green
+U+1F422,🐢,turtle,2010,emoji,4884565,0.0356645174741689,0.216216216216216,0.00771124702144192,animal; nature; turtle,Green
+U+1F40D,🐍,snake,2010,emoji,4651831,0.0339652165518077,0.382352941176471,0.0129867004462794,animal; bearer; nature; ophiuchus; serpent; snake; zodiac,Green
+U+1F432,🐲,dragon face,2010,emoji,865796,0.00632158576476422,-0.0625,0.0,animal; dragon; face; fairy tale; nature,Green
+U+1F409,🐉,dragon,2010,emoji,1099209,0.00802584438701578,0.2,0.00160516887740316,animal; dragon; fairy tale; nature,Green
+U+1F433,🐳,spouting whale,2010,emoji,3961755,0.0289266455510114,0.15,0.00433899683265171,animal; face; nature; spouting; whale,Gray
+U+1F40B,🐋,whale,2010,emoji,1685627,0.0123075593418106,0.25,0.00307688983545264,animal; nature; whale,Gray
+U+1F42C,🐬,dolphin,2010,emoji,3906479,0.028523049351984,0.457142857142857,0.0130391082751927,animal; dolphin; flipper; nature,Gray
+U+1F41F,🐟,fish,2010,emoji,1972164,0.0143997013940703,0.724137931034483,0.0104273699750164,animal; fish; nature; pisces; zodiac,Gray
+U+1F420,🐠,tropical fish,2010,emoji,2263932,0.0165300374494617,0.461538461538462,0.00762924805359773,animal; fish; nature; tropical,Green
+U+1F421,🐡,blowfish,2010,emoji,410575,0.00299780210969798,0.333333333333333,0.000999267369899325,animal; blowfish; fish; nature,Gray
+U+1F419,🐙,octopus,2010,emoji,4381021,0.0319879047590115,0.428571428571429,0.0137091020395763,animal; nature; octopus,Brown
+U+1F41A,🐚,spiral shell,2010,emoji,1055433,0.00770621512280305,0.263157894736842,0.00202795134810607,animal; nature; shell; spiral,White
+U+1F40C,🐌,snail,2010,emoji,919538,0.00671398150483458,0.785714285714286,0.00527527118237003,animal; nature; snail,Gray
+U+1F41B,🐛,bug,2010,emoji,1795081,0.0131067347229587,0.333333333333333,0.00436891157431955,animal; bug; insect; nature,Green
+U+1F41C,🐜,ant,2010,emoji,947160,0.00691566278078679,0.666666666666667,0.00461044185385786,animal; ant; insect; nature,Black
+U+1F41D,🐝,honeybee,2010,emoji,4679003,0.0341636121650932,0.228571428571429,0.0078088256377356,animal; bee; honeybee; insect; nature,Gray
+U+1F41E,🐞,lady beetle,2010,emoji,1219277,0.00890251759826151,0.333333333333333,0.00296750586608717,animal; beetle; insect; lady beetle; ladybird; ladybug; nature,Brown
+U+1F490,💐,bouquet,2010,emoji,10123401,0.0739157349451832,0.757894736842105,0.0560203464847704,bouquet; flower; nature; object; place; plant; romance,Gray
+U+1F338,🌸,cherry blossom,2010,emoji,61263516,0.447313882999003,0.652219873150106,0.291747004027891,blossom; cherry; flower; nature; plant,Gray
+U+1F4AE,💮,white flower,2010,emoji,973411,0.00710733373781457,0.0,0.0,flower; object; symbol,Brown
+U+1F339,🌹,rose,2010,emoji,48151754,0.351578712115589,0.61046511627907,0.214626539372889,flower; nature; plant; rose,Brown
+U+1F33A,🌺,hibiscus,2010,emoji,15047587,0.109869544064943,0.56,0.0615269446763679,flower; hibiscus; nature; plant,Red
+U+1F33B,🌻,sunflower,2010,emoji,11109048,0.0811124095016406,0.586538461538462,0.04757554788077,flower; nature; plant; sun; sunflower,Orange
+U+1F33C,🌼,blossom,2010,emoji,7197949,0.0525556273462788,0.810810810810811,0.0426126708213072,blossom; flower; nature; plant,Orange
+U+1F337,🌷,tulip,2010,emoji,9651611,0.0704709731907305,0.551724137931034,0.0388805369328168,flower; nature; plant; tulip,Gray
+U+1F331,🌱,seedling,2010,emoji,2283251,0.0166710945984778,0.64,0.0106695005430258,nature; plant; seedling; young,Green
+U+1F332,🌲,evergreen tree,2010,emoji,2159643,0.0157685741742543,0.434782608695652,0.00685590181489318,evergreen; nature; plant; tree,Green
+U+1F333,🌳,deciduous tree,2010,emoji,1601873,0.0116960318062917,0.53125,0.00621351689709248,deciduous; nature; plant; shedding; tree,Green
+U+1F334,🌴,palm tree,2010,emoji,14257689,0.10410212546701,0.533707865168539,0.0555601231425053,nature; palm; plant; tree,Green
+U+1F335,🌵,cactus,2010,emoji,8945675,0.0653166008346159,0.217391304347826,0.0141992610510035,cactus; nature; plant,Green
+U+1F33E,🌾,ear of rice,2010,emoji,3512627,0.0256473497684517,0.583333333333333,0.0149609540315968,ear; nature; plant; rice,Green
+U+1F33F,🌿,herb,2010,emoji,9967079,0.0727743541465661,0.389423076923077,0.0283400129128455,herb; leaf; nature; plant,Green
+U+1F340,🍀,four leaf clover,2010,emoji,15658355,0.114329049877367,0.287769784172662,0.0329004460078753,4; clover; four; leaf; nature; plant,Green
+U+1F341,🍁,maple leaf,2010,emoji,8209415,0.059940818623604,0.490683229813665,0.0294119544799051,falling; leaf; maple; nature; plant,Red
+U+1F342,🍂,fallen leaf,2010,emoji,5158735,0.0376663622148762,0.555555555555556,0.0209257567860423,falling; leaf; nature; plant,Orange
+U+1F343,🍃,leaf fluttering in wind,2010,emoji,17070189,0.124637517133637,0.381443298969072,0.0475421457107689,blow; flutter; leaf; nature; plant; wind,Green
+U+1F347,🍇,grapes,2010,emoji,3253477,0.023755173146085,0.304347826086957,0.00722983530533021,food; fruit; grape; nature; object; plant,Purple
+U+1F348,🍈,melon,2010,emoji,432785,0.00315996781597915,-0.444444444444444,0.0,food; fruit; melon; nature; object; plant,Orange
+U+1F349,🍉,watermelon,2010,emoji,5225171,0.0381514428480367,0.610294117647059,0.0232836011499048,food; fruit; nature; object; plant; watermelon,Red
+U+1F34A,🍊,tangerine,2010,emoji,2636729,0.0192520045275573,0.444444444444444,0.00855644645669213,food; fruit; nature; object; orange; plant; tangerine,Orange
+U+1F34B,🍋,lemon,2010,emoji,1605206,0.0117203676144428,0.263157894736842,0.00308430726695863,citrus; food; fruit; lemon; nature; object; plant,Yellow
+U+1F34C,🍌,banana,2010,emoji,5727119,0.0418164024129364,0.451219512195122,0.0188683766985201,banana; food; fruit; nature; object; plant,Orange
+U+1F34D,🍍,pineapple,2010,emoji,4201966,0.0306805395839473,0.5,0.0153402697919737,food; fruit; nature; object; pineapple; plant,Green
+U+1F34E,🍎,red apple,2010,emoji,2784404,0.0203302494926663,0.340425531914894,0.00692093599750344,apple; food; fruit; nature; object; plant; red,Brown
+U+1F34F,🍏,green apple,2010,emoji,1229130,0.00897445900771619,0.0740740740740741,0.00066477474131231,apple; food; fruit; green; nature; object; plant,Green
+U+1F350,🍐,pear,2010,emoji,665039,0.00485576403149591,0.1875,0.000910455755905483,food; fruit; nature; object; pear; plant,Yellow
+U+1F351,🍑,peach,2010,emoji,4479795,0.0327091004128708,0.26530612244898,0.00867792459933308,food; fruit; nature; object; peach; plant,Red
+U+1F352,🍒,cherries,2010,emoji,4409235,0.0321939085067385,0.333333333333333,0.0107313028355795,cherry; food; fruit; nature; object; plant,Brown
+U+1F353,🍓,strawberry,2010,emoji,5095706,0.0372061576988385,0.691489361702128,0.0257276622385586,berry; food; fruit; nature; object; plant; strawberry,Brown
+U+1F345,🍅,tomato,2010,emoji,914800,0.00667938712769094,0.378378378378378,0.00252733566993711,food; nature; object; plant; tomato; vegetable,Red
+U+1F346,🍆,aubergine,2010,emoji,5768921,0.0421216185702514,0.416666666666667,0.0175506744042714,aubergine; eggplant; food; nature; object; plant; vegetable,Gray
+U+1F33D,🌽,ear of maize,2010,emoji,1802834,0.0131633430399689,0.476190476190476,0.00626825859046139,corn; ear; maize; maze; nature; object; plant,Yellow
+U+1F344,🍄,mushroom,2010,emoji,1670117,0.0121943135018997,0.0,0.0,mushroom; nature; plant,Red
+U+1F330,🌰,chestnut,2010,emoji,691664,0.00505016573927331,0.7,0.00353511601749132,chestnut; nature; plant,Brown
+U+1F35E,🍞,bread,2010,emoji,1426096,0.010412600858386,0.0476190476190476,0.00049583813611362,bread; food; loaf; nature; object,Orange
+U+1F356,🍖,meat on bone,2010,emoji,1133559,0.00827664997057085,0.142857142857143,0.00118237856722441,bone; food; meat; nature; object,Orange
+U+1F357,🍗,poultry leg,2010,emoji,2633806,0.0192306623231692,0.0689655172413793,0.00132625257401167,bone; chicken; food; leg; nature; object; poultry,Gray
+U+1F354,🍔,hamburger,2010,emoji,4600510,0.033590497676884,0.285714285714286,0.00959728505053828,burger; food; hamburger; nature; object,Orange
+U+1F35F,🍟,french fries,2010,emoji,7240692,0.0528677141893034,0.313253012048193,0.0165609707099023,food; french; fries; nature; object,Orange
+U+1F355,🍕,slice of pizza,2010,emoji,20414425,0.149055364630752,0.420454545454545,0.0626710055833845,cheese; food; nature; object; pizza; slice,Orange
+U+1F372,🍲,pot of food,2010,emoji,1061369,0.0077495566641126,0.137931034482759,0.00106890436746381,food; nature; object; pot; stew,White
+U+1F371,🍱,bento box,2010,emoji,1750910,0.0127842213770719,-0.333333333333333,0.0,bento; box; food; nature; object,Gray
+U+1F358,🍘,rice cracker,2010,emoji,228622,0.00166927726706051,0.434782608695652,0.000725772724808919,cracker; food; nature; object; rice,Brown
+U+1F359,🍙,rice ball,2010,emoji,520162,0.00379794858670089,0.310344827586207,0.00117867369932097,ball; food; japanese; nature; object; rice,Gray
+U+1F35A,🍚,cooked rice,2010,emoji,1438685,0.010504519096854,0.5,0.005252259548427,cooked; food; nature; object; rice,White
+U+1F35B,🍛,curry and rice,2010,emoji,863070,0.00630168195047685,0.0434782608695652,0.000273986171759863,curry; food; nature; object; rice,Gray
+U+1F35C,🍜,steaming bowl,2010,emoji,1874837,0.0136890709710524,0.425,0.00581785516269726,bowl; food; nature; noodle; object; ramen; steaming,Gray
+U+1F35D,🍝,spaghetti,2010,emoji,2223828,0.016237219192609,0.12280701754386,0.00199404446225023,food; nature; object; pasta; spaghetti,Orange
+U+1F360,🍠,roasted sweet potato,2010,emoji,371268,0.00271080312650149,0.0,0.0,food; nature; object; potato; roasted; sweet,Gray
+U+1F362,🍢,oden,2010,emoji,446809,0.00326236366761747,-0.133333333333333,0.0,food; kebab; nature; object; oden; seafood; skewer; stick,Gray
+U+1F363,🍣,sushi,2010,emoji,1204297,0.00879314153882468,-0.245283018867925,0.0,food; nature; object; sushi,Brown
+U+1F364,🍤,fried shrimp,2010,emoji,1306274,0.00953772380939807,0.0571428571428571,0.000545012789108461,food; fried; nature; object; prawn; shrimp; tempura,Orange
+U+1F365,🍥,fish cake with swirl design,2010,emoji,2184871,0.0159527757248199,-0.655172413793103,0.0,cake; fish; food; nature; object; pastry; swirl,White
+U+1F361,🍡,dango,2010,emoji,750898,0.00548266116682212,-0.0555555555555556,0.0,dango; dessert; food; japanese; nature; object; skewer; stick; sweet,Gray
+U+1F366,🍦,soft ice cream,2010,emoji,4122823,0.0301026791385529,0.473684210526316,0.0142591638024724,cream; dessert; food; ice; icecream; nature; object; soft; sweet,Orange
+U+1F367,🍧,shaved ice,2010,emoji,2258417,0.0164897698281137,0.325,0.00535917519413695,dessert; food; ice; nature; object; shaved; sweet,Gray
+U+1F368,🍨,ice cream,2010,emoji,1270297,0.00927503872993487,0.233333333333333,0.00216417570365147,cream; dessert; food; ice; nature; object; sweet,White
+U+1F369,🍩,doughnut,2010,emoji,7591770,0.0554311005841608,0.392523364485981,0.0217580020984556,dessert; donut; doughnut; food; nature; object; sweet,Brown
+U+1F36A,🍪,cookie,2010,emoji,3793972,0.0277015825750108,0.333333333333333,0.00923386085833692,cookie; dessert; food; nature; object; sweet,Orange
+U+1F382,🎂,birthday cake,2010,emoji,10080951,0.0736057874336283,0.621890547263682,0.0457747434288733,birthday; cake; celebration; dessert; food; object; pastry; sweet,White
+U+1F370,🍰,shortcake,2010,emoji,4065304,0.0296827057365003,0.464285714285714,0.0137812562348037,cake; dessert; food; nature; object; pastry; shortcake; slice; sweet,White
+U+1F36B,🍫,chocolate bar,2010,emoji,4217086,0.0307909378495471,0.157894736842105,0.00486172702887586,bar; chocolate; dessert; food; nature; object; sweet,Brown
+U+1F36C,🍬,candy,2010,emoji,4454153,0.0325218760526519,0.390243902439024,0.0126914638254251,candy; dessert; food; nature; object; sweet,Gray
+U+1F36D,🍭,lollipop,2010,emoji,7037974,0.0513875742682811,0.315789473684211,0.0162276550320888,candy; dessert; food; lollipop; nature; object; sweet,Gray
+U+1F36E,🍮,custard,2010,emoji,874898,0.00638804376830187,-0.136363636363636,0.0,custard; dessert; food; nature; object; pudding; sweet,Orange
+U+1F36F,🍯,honey pot,2010,emoji,952062,0.00695145459943561,0.0526315789473684,0.000365866031549242,food; honey; honeypot; nature; object; pot; sweet,Orange
+U+1F37C,🍼,baby bottle,2010,emoji,1871190,0.0136624425005072,0.625,0.00853902656281702,baby; bottle; drink; milk; nature; object,White
+U+2615,☕️,hot beverage,2003,emoji,9603804,0.0701219116904971,0.246073298429319,0.0172551301018501,beverage; coffee; drink; hot; nature; object; steaming; tea,Gray
+U+1F375,🍵,teacup without handle,2010,emoji,1393914,0.0101776248674117,0.421052631578947,0.00428531573364702,beverage; cup; drink; nature; object; tea; teacup,Gray
+U+1F376,🍶,sake bottle and cup,2010,emoji,294541,0.00215058303889071,0.666666666666667,0.00143372202592714,bar; beverage; bottle; cup; drink; nature; object; sake,Orange
+U+1F377,🍷,wine glass,2010,emoji,4949915,0.0361416687080939,0.401459854014599,0.0145094290433954,bar; beverage; drink; glass; nature; object; wine,Brown
+U+1F378,🍸,cocktail glass,2010,emoji,4074370,0.0297489008870246,0.550724637681159,0.0163834526624194,bar; cocktail; drink; glass; nature; object,White
+U+1F379,🍹,tropical drink,2010,emoji,4670557,0.0341019439275763,0.67479674796748,0.0230118808616978,bar; drink; nature; object; tropical,Orange
+U+1F37A,🍺,beer mug,2010,emoji,4985731,0.0364031782504697,0.50381679389313,0.0183405325536718,bar; beer; drink; mug; nature; object,Orange
+U+1F37B,🍻,clinking beer mugs,2010,emoji,11082704,0.0809200595076617,0.521212121212121,0.0421765158645994,bar; beer; clink; drink; mug; nature; object,Orange
+U+1F374,🍴,fork and knife,2010,emoji,5579822,0.0407409174044673,0.554347826086957,0.0225846389959547,cooking; food; fork; knife; nature; object,Gray
+U+1F373,🍳,cooking,2010,emoji,1603091,0.0117049249999095,0.0303030303030303,0.000354694696966954,cooking; egg; food; frying; nature; object; pan,Gray
+U+1F30D,🌍,earth globe europe-africa,2010,emoji,12424261,0.0907154011745437,0.617647058823529,0.0560301007254535,africa; earth; europe; globe; nature; place; world,Green
+U+1F30E,🌎,earth globe americas,2010,emoji,11374724,0.0830522355341465,0.340909090909091,0.0283132621139136,americas; earth; globe; nature; place; world,Gray
+U+1F30F,🌏,earth globe asia-australia,2010,emoji,6983226,0.0509878332467826,0.36,0.0183556199688417,asia; australia; earth; globe; nature; place; world,Gray
+U+1F310,🌐,globe with meridians,2010,emoji,710226,0.00518569567353676,0.666666666666667,0.00345713044902451,earth; globe; meridians; nature; place; world,Gray
+U+1F30B,🌋,volcano,2010,emoji,1348096,0.0098430859961649,0.666666666666667,0.0065620573307766,eruption; mountain; nature; place; volcano; weather,Red
+U+1F5FB,🗻,mount fuji,2010,emoji,765798,0.00559145310845154,0.727272727272727,0.00406651135160112,fuji; mountain; nature; place,Gray
+U+1F3E0,🏠,house building,2010,emoji,2066056,0.0150852512587327,0.565217391304348,0.0085264463636315,building; home; house; place,Gray
+U+1F3E1,🏡,house with garden,2010,emoji,2682883,0.0195889966935952,0.472222222222222,0.00925035954975327,building; garden; home; house; place,Gray
+U+26EA,⛪️,church,2009,emoji,740836,0.00540919374959559,0.153846153846154,0.000832183653783937,building; christian; church; cross; place; religion,Gray
+U+1F3E2,🏢,office building,2010,emoji,785752,0.00573714669256385,0.2,0.00114742933851277,building; office; place,Gray
+U+1F3E3,🏣,japanese post office,2010,emoji,168535,0.00123055368339024,0.0,0.0,building; japanese; office; place; post,Gray
+U+1F3E4,🏤,european post office,2010,emoji,488164,0.00356431606668356,0.4,0.00142572642667342,building; european; office; place; post,Gray
+U+1F3E5,🏥,hospital,2010,emoji,878942,0.00641757092346626,0.333333333333333,0.00213919030782209,building; doctor; hospital; medicine; place,Gray
+U+1F3E6,🏦,green bank,2010,emoji,247353,0.0018060411501921,1.0,0.0018060411501921,bank; building; place,Gray
+U+1F3E8,🏨,hotel,2010,emoji,284887,0.00208009462248195,0.285714285714286,0.000594312749280557,building; hotel; place,Gray
+U+1F3E9,🏩,love hotel,2010,emoji,789664,0.00576571005334602,0.5,0.00288285502667301,building; hotel; love; place,Gray
+U+1F3EA,🏪,convenience store,2010,emoji,1332194,0.00972697797899771,0.0833333333333333,0.000810581498249809,building; convenience; place; store,Gray
+U+1F3EB,🏫,school,2010,emoji,776982,0.00567311277792694,-0.3,0.0,building; education; place; school,Orange
+U+1F3EC,🏬,department store,2010,emoji,400374,0.00292331978778108,0.0,0.0,building; department; place; store,Gray
+U+1F3ED,🏭,factory,2010,emoji,142209,0.00103833511591802,0.5,0.000519167557959008,building; factory; place,Gray
+U+1F3EF,🏯,japanese castle,2010,emoji,183723,0.00134144844912633,0.166666666666667,0.000223574741521054,building; castle; japanese; place,Gray
+U+1F3F0,🏰,european castle,2010,emoji,469572,0.00342856708824234,0.357142857142857,0.00122448824580083,building; castle; european; place,Gray
+U+1F492,💒,wedding,2010,emoji,1277326,0.0093263607807881,0.666666666666667,0.00621757385385874,activity; chapel; place; romance; wedding,Gray
+U+1F5FC,🗼,tokyo tower,2010,emoji,635597,0.00464079407542521,0.6,0.00278447644525512,place; tokyo; tower,White
+U+1F5FD,🗽,statue of liberty,2010,emoji,1001828,0.00731481968447788,0.368421052631579,0.00269493356796553,liberty; place; statue,Gray
+U+1F5FE,🗾,silhouette of japan,2010,emoji,162922,0.0011895705177281,0.4,0.000475828207091239,japan; map; place,Gray
+U+26F2,⛲️,fountain,2009,emoji,263784,0.00192601164636076,0.0666666666666667,0.000128400776424051,fountain; object; place,Gray
+U+26FA,⛺️,tent,2009,emoji,496317,0.00362384497273085,0.6,0.00217430698363851,camping; object; place; tent,Gray
+U+1F301,🌁,foggy,2010,emoji,504054,0.00368033646617963,0.214285714285714,0.000788643528467064,fog; nature; place; weather,White
+U+1F303,🌃,night with stars,2010,emoji,2224281,0.0162405267596934,0.410714285714286,0.00667021634773122,nature; night; place; star; weather,Gray
+U+1F304,🌄,sunrise over mountains,2010,emoji,1257467,0.00918136083657209,0.2,0.00183627216731442,morning; mountain; nature; place; sun; sunrise; time; weather,Gray
+U+1F305,🌅,sunrise,2010,emoji,2521518,0.0184107945686937,0.380952380952381,0.00701363602616903,morning; nature; place; sun; sunrise; time; weather,Orange
+U+1F306,🌆,cityscape at dusk,2010,emoji,737846,0.00538736234654378,0.166666666666667,0.000897893724423963,building; city; dusk; evening; landscape; nature; place; sun; sunset; time; weather,Brown
+U+1F307,🌇,sunset over buildings,2010,emoji,940549,0.00686739274547725,0.615384615384615,0.00422608784337061,building; dusk; nature; place; sun; sunset; time; weather,Orange
+U+1F309,🌉,bridge at night,2010,emoji,602066,0.00439596839792345,0.714285714285714,0.00313997742708818,bridge; nature; night; place; weather,Purple
+U+2668,♨️,hot springs,1995,text,8703837,0.0635508273057719,0.964285714285714,0.0612811549019943,hot; hotsprings; place; springs; steaming,Brown
+U+1F30C,🌌,milky way,2010,emoji,4795690,0.0350155990975035,0.553191489361702,0.0193703314156402,milky way; nature; place; space; weather,Gray
+U+1F3A0,🎠,carousel horse,2010,emoji,441092,0.0032206211488057,0.6,0.00193237268928342,activity; carousel; entertainment; horse; place,White
+U+1F3A1,🎡,ferris wheel,2010,emoji,640665,0.0046777979385244,0.333333333333333,0.00155926597950813,activity; amusement park; entertainment; ferris; place; wheel,Gray
+U+1F3A2,🎢,roller coaster,2010,emoji,680207,0.00496651276778014,0.571428571428572,0.00283800729587437,activity; amusement park; coaster; entertainment; place; roller,Gray
+U+1F488,💈,barber pole,2010,emoji,668897,0.00488393311275808,0.0,0.0,barber; haircut; place; pole,Gray
+U+1F3AA,🎪,circus tent,2010,emoji,425580,0.00310736070594962,0.333333333333333,0.00103578690198321,activity; circus; entertainment; place; tent,Gray
+U+1F3AD,🎭,performing arts,2010,emoji,1852692,0.0135273798604897,0.0,0.0,activity; art; entertainment; mask; object; performing; place; theater; theatre,Gray
+U+1F3A8,🎨,artist palette,2010,emoji,2101053,0.0153407808950551,0.2,0.00306815617901103,activity; art; entertainment; museum; object; painting; palette,Orange
+U+1F3B0,🎰,slot machine,2010,emoji,249808,0.00182396626540689,-1.0,0.0,activity; game; object; place; slot,Gray
+U+1F682,🚂,steam locomotive,2010,emoji,802941,0.00586265170495769,0.307692307692308,0.00180389283229467,engine; locomotive; place; railway; steam; train; travel; vehicle,Brown
+U+1F683,🚃,railway car,2010,emoji,333764,0.00243696869838942,0.75,0.00182772652379206,car; electric; place; railway; train; tram; travel; trolleybus; vehicle,Gray
+U+1F684,🚄,high-speed train,2010,emoji,276101,0.00201594388428356,0.714285714285714,0.0014399599173454,place; railway; shinkansen; speed; train; travel; vehicle,Gray
+U+1F685,🚅,high-speed train with bullet nose,2010,emoji,204601,0.00149388859391418,0.666666666666667,0.000995925729276122,bullet; place; railway; shinkansen; speed; train; travel; vehicle,Gray
+U+1F686,🚆,train,2010,emoji,135824,0.000991715213414401,0.5,0.000495857606707201,place; railway; train; travel; vehicle,Gray
+U+1F687,🚇,metro,2010,emoji,269311,0.00196636688537995,0.0,0.0,metro; place; subway; travel; vehicle,Gray
+U+1F688,🚈,light rail,2010,emoji,103527,0.000755899553091889,0.0,0.0,place; railway; travel; vehicle,Gray
+U+1F689,🚉,station,2010,emoji,242614,0.00177143947157587,0.75,0.00132857960368191,place; railway; station; train; travel; vehicle,Gray
+U+1F68A,🚊,tram,2010,emoji,215479,0.00157331401277625,0.25,0.000393328503194063,place; tram; travel; trolleybus; vehicle,Gray
+U+1F69D,🚝,monorail,2010,emoji,88353,0.000645107007972101,1.0,0.000645107007972101,monorail; place; travel; vehicle,Gray
+U+1F69E,🚞,mountain railway,2010,emoji,72759,0.000531247844363429,0.666666666666667,0.00035416522957562,car; mountain; place; railway; travel; vehicle,Gray
+U+1F68B,🚋,tram car,2010,emoji,126133,0.000920956642519722,0.0833333333333333,0.0,car; place; tram; travel; trolleybus; vehicle,Gray
+U+1F68C,🚌,bus,2010,emoji,852487,0.00622441046602959,0.222222222222222,0.00138320232578435,bus; place; travel; vehicle,Gray
+U+1F68D,🚍,oncoming bus,2010,emoji,483246,0.00352840742447326,0.0909090909090909,0.000320764311315751,bus; oncoming; place; travel; vehicle,Gray
+U+1F68E,🚎,trolleybus,2010,emoji,143039,0.00104439533816986,0.0,0.0,bus; place; tram; travel; trolley; trolleybus; vehicle,Gray
+U+1F68F,🚏,bus stop,2010,emoji,106628,0.000778541419601475,0.0,0.0,bus; busstop; place; stop; travel,Gray
+U+1F690,🚐,minibus,2010,emoji,197396,0.00144128148388465,0.833333333333333,0.00120106790323721,bus; minibus; place; travel; vehicle,Gray
+U+1F691,🚑,ambulance,2010,emoji,541543,0.00395406137220282,0.0909090909090909,0.000359460124745711,ambulance; place; travel; vehicle,Gray
+U+1F692,🚒,fire engine,2010,emoji,519958,0.00379645908629201,-0.333333333333333,0.0,engine; fire; place; travel; truck; vehicle,Brown
+U+1F693,🚓,police car,2010,emoji,594604,0.00434148480943763,0.375,0.00162805680353911,car; patrol; place; police; travel; vehicle,Gray
+U+1F694,🚔,oncoming police car,2010,emoji,852270,0.006222826046477,0.0,0.0,car; oncoming; place; police; travel; vehicle,Gray
+U+1F695,🚕,taxi,2010,emoji,483585,0.00353088262368214,0.0,0.0,place; taxi; travel; vehicle,Orange
+U+1F696,🚖,oncoming taxi,2010,emoji,605436,0.00442057436056044,-0.111111111111111,0.0,oncoming; place; taxi; travel; vehicle,Gray
+U+1F697,🚗,automobile icon,2010,emoji,4346805,0.0317380775727838,0.241935483870968,0.00767856715470576,automobile; car; place; travel; vehicle,Brown
+U+1F698,🚘,oncoming automobile,2010,emoji,2569848,0.018763674739093,0.0740740740740741,0.00138990183252541,automobile; car; oncoming; place; travel; vehicle,Gray
+U+1F699,🚙,recreational vehicle,2010,emoji,1502076,0.0109673667459702,0.04,0.000438694669838806,place; recreational; rv; travel; vehicle,Gray
+U+1F69A,🚚,delivery truck,2010,emoji,337718,0.00246583872102047,-0.1,0.0,delivery; place; travel; truck; vehicle,Orange
+U+1F69B,🚛,articulated lorry,2010,emoji,219707,0.00160418463889768,-0.25,0.0,lorry; place; semi; travel; truck; vehicle,Green
+U+1F69C,🚜,tractor,2010,emoji,266309,0.00194444786465703,1.0,0.00194444786465703,place; tractor; travel; vehicle,Gray
+U+1F6B2,🚲,bicycle,2010,emoji,1374260,0.0100341217250771,0.428571428571429,0.00430033788217591,bicycle; bike; place; sport; travel; vehicle,Gray
+U+26FD,⛽️,fuel pump,2009,emoji,1773673,0.0129504247976967,0.166666666666667,0.00215840413294946,fuel; fuelpump; gas; place; pump; station; travel,Brown
+U+1F6A8,🚨,police cars revolving light,2010,emoji,4449336,0.0324867048591735,0.672727272727273,0.0218546923598076,beacon; car; light; place; police; revolving; travel; vehicle,Red
+U+1F6A5,🚥,horizontal traffic light,2010,emoji,196545,0.00143506793070837,0.0,0.0,light; place; signal; traffic; travel,Gray
+U+1F6A6,🚦,vertical traffic light,2010,emoji,3674840,0.0268317435421117,0.111111111111111,0.00298130483801241,light; place; signal; traffic; travel,Gray
+U+1F6A7,🚧,construction sign,2010,emoji,389960,0.00284728225220197,0.0,0.0,barrier; construction; place; travel,Gray
+U+2693,⚓️,anchor sign,2005,emoji,11327195,0.0827052038432938,0.625,0.0516907524020586,anchor; place; ship; tool; travel,Gray
+U+26F5,⛵️,sailboat,2009,emoji,944400,0.00689551071643127,0.714285714285714,0.00492536479745091,boat; place; resort; sailboat; sea; travel; vehicle; yacht,Red
+U+1F6A3,🚣,rowboat,2010,emoji,804589,0.00587468453179026,0.727272727272727,0.004272497841302,boat; place; rowboat; travel; vehicle,Gray
+U+1F6A4,🚤,speedboat,2010,emoji,364659,0.00266254769413713,0.444444444444444,0.00118335453072762,boat; place; speedboat; travel; vehicle,Orange
+U+1F6A2,🚢,ship,2010,emoji,613411,0.00447880360448626,0.3,0.00134364108134588,place; ship; travel; vehicle,Gray
+U+2708,✈️,airplane,1995,text,16802976,0.122686468737757,0.419254658385093,0.0514368735391216,airplane; place; travel; vehicle,Gray
+U+1F4BA,💺,seat,2010,emoji,543363,0.00396735005232131,0.285714285714286,0.00113352858637752,chair; object; office; place; seat; travel,Gray
+U+1F681,🚁,helicopter,2010,emoji,470668,0.0034365695022038,0.2,0.000687313900440761,helicopter; place; travel; vehicle,Gray
+U+1F69F,🚟,suspension railway,2010,emoji,35715,0.000260772093643946,0.0,0.0,place; railway; suspension; travel; vehicle,Gray
+U+1F6A0,🚠,mountain cableway,2010,emoji,44700,0.000326375824888265,0.0,0.0,cable; gondola; mountain; place; travel; vehicle,Gray
+U+1F6A1,🚡,aerial tramway,2010,emoji,56727,0.000414190635759209,-0.5,0.0,aerial; cable; car; gondola; place; ropeway; tramway; travel; vehicle,Gray
+U+1F680,🚀,rocket,2010,emoji,7011734,0.0511959836274518,0.525,0.0268778914044122,place; rocket; space; travel; vehicle,Gray
+U+1F6AA,🚪,door,2010,emoji,840757,0.00613876419251864,0.75,0.00460407314438898,door; object; travel,Orange
+U+1F6BD,🚽,toilet,2010,emoji,738652,0.0053932473334534,1.0,0.0053932473334534,object; place; toilet; travel,Gray
+U+1F6BF,🚿,shower,2010,emoji,1985574,0.0144976141415367,0.705882352941176,0.0102336099822612,object; place; shower; travel; water,Cyan
+U+1F6C0,🛀,bath,2010,emoji,1214393,0.00886685720611935,0.142857142857143,0.00126669388658848,bath; bathtub; object; place; travel,Gray
+U+1F6C1,🛁,bathtub,2010,emoji,239236,0.00174677509715814,0.0,0.0,bath; bathtub; object; place; travel,Gray
+U+231B,⌛️,hourglass,1995,emoji,632075,0.00461507828895414,0.142857142857143,0.000659296898422021,hourglass; object; sand; time; timer,Gray
+U+23F3,⏳,hourglass with flowing sand,2010,emoji,844909,0.00616907990672303,0.0,0.0,hourglass; object; sand; time; timer,Gray
+U+231A,⌚️,watch,1995,emoji,1776786,0.0129731542818774,0.235294117647059,0.00305250688985351,clock; object; time; watch,Black
+U+23F0,⏰,alarm clock,2010,emoji,1658851,0.0121120551116717,0.538461538461538,0.00652187582936167,alarm; clock; object; time,Brown
+U+1F55B,🕛,clock face twelve oclock,2010,emoji,409054,0.00298669656988466,1.0,0.00298669656988466,00; 12; 12:00; clock; o’clock; symbol; time; twelve,White
+U+1F567,🕧,clock face twelve-thirty,2010,emoji,90219,0.000658731555829852,0.0,0.0,12; 12:30; 30; clock; symbol; thirty; time; twelve,White
+U+1F550,🕐,clock face one oclock,2010,emoji,336498,0.00245693092445753,-1.0,0.0,00; 1; 1:00; clock; o’clock; one; symbol; time,White
+U+1F55C,🕜,clock face one-thirty,2010,emoji,118212,0.000863121678113906,0.0,0.0,1; 1:30; 30; clock; one; symbol; thirty; time,White
+U+1F551,🕑,clock face two oclock,2010,emoji,320245,0.00233826009041035,0.5,0.00116913004520517,00; 2; 2:00; clock; o’clock; symbol; time; two,White
+U+1F55D,🕝,clock face two-thirty,2010,emoji,91582,0.000668683462973537,-0.333333333333333,0.0,2; 2:30; 30; clock; symbol; thirty; time; two,White
+U+1F552,🕒,clock face three oclock,2010,emoji,337749,0.00246606506667084,0.0,0.0,00; 3; 3:00; clock; o’clock; symbol; three; time,White
+U+1F55E,🕞,clock face three-thirty,2010,emoji,72034,0.00052595427673381,0.0,0.0,3; 3:30; 30; clock; symbol; thirty; three; time,White
+U+1F553,🕓,clock face four oclock,2010,emoji,237074,0.00173098931341299,0.0,0.0,00; 4; 4:00; clock; four; o’clock; symbol; time,White
+U+1F55F,🕟,clock face four-thirty,2010,emoji,77026,0.000562403227915963,0.0,0.0,30; 4; 4:30; clock; four; symbol; thirty; time,White
+U+1F554,🕔,clock face five oclock,2010,emoji,239107,0.0017458332071937,-1.0,0.0,00; 5; 5:00; clock; five; o’clock; symbol; time,White
+U+1F560,🕠,clock face five-thirty,2010,emoji,68132,0.000497463930677568,0.0,0.0,30; 5; 5:30; clock; five; symbol; thirty; time,White
+U+1F555,🕕,clock face six oclock,2010,emoji,353764,0.00258299815024099,-1.0,0.0,00; 6; 6:00; clock; o’clock; six; symbol; time,White
+U+1F561,🕡,clock face six-thirty,2010,emoji,51292,0.000374507132218544,0.0,0.0,30; 6; 6:30; clock; six; symbol; thirty; time,White
+U+1F556,🕖,clock face seven oclock,2010,emoji,160649,0.00117297427052517,0.0,0.0,00; 7; 7:00; clock; o’clock; seven; symbol; time,White
+U+1F562,🕢,clock face seven-thirty,2010,emoji,68544,0.00050047213738571,0.0,0.0,30; 7; 7:30; clock; seven; symbol; thirty; time,White
+U+1F557,🕗,clock face eight oclock,2010,emoji,187841,0.00137151591326256,0.0,0.0,00; 8; 8:00; clock; eight; o’clock; symbol; time,White
+U+1F563,🕣,clock face eight-thirty,2010,emoji,56136,0.000409875465456995,0.0,0.0,30; 8; 8:30; clock; eight; symbol; thirty; time,White
+U+1F558,🕘,clock face nine oclock,2010,emoji,201138,0.00146860359432608,0.0,0.0,00; 9; 9:00; clock; nine; o’clock; symbol; time,White
+U+1F564,🕤,clock face nine-thirty,2010,emoji,104585,0.000763624511094837,0.0,0.0,30; 9; 9:30; clock; nine; symbol; thirty; time,White
+U+1F559,🕙,clock face ten oclock,2010,emoji,204265,0.00149143529912308,0.0,0.0,00; 10; 10:00; clock; o’clock; symbol; ten; time,White
+U+1F565,🕥,clock face ten-thirty,2010,emoji,84470,0.000616755389895118,-1.0,0.0,10; 10:30; 30; clock; symbol; ten; thirty; time,White
+U+1F55A,🕚,clock face eleven oclock,2010,emoji,165952,0.00121169397968361,0.0,0.0,00; 11; 11:00; clock; eleven; o’clock; symbol; time,White
+U+1F566,🕦,clock face eleven-thirty,2010,emoji,668872,0.00488375057594326,0.0,0.0,11; 11:30; 30; clock; eleven; symbol; thirty; time,White
+U+1F311,🌑,new moon symbol,2010,emoji,2501007,0.0182610340643473,0.523809523809524,0.00956530355751527,dark; moon; nature; place; space; time; weather,Gray
+U+1F312,🌒,waxing crescent moon symbol,2010,emoji,1633950,0.0119302411426439,0.692307692307692,0.00825939771413806,crescent; moon; nature; place; space; time; waxing; weather,Gray
+U+1F313,🌓,first quarter moon symbol,2010,emoji,1606619,0.0117306845952161,0.684210526315789,0.00802625788093733,moon; nature; place; quarter; space; time; weather,Gray
+U+1F314,🌔,waxing gibbous moon symbol,2010,emoji,1546722,0.0112933482913384,0.6875,0.00776417695029516,gibbous; moon; nature; place; space; time; waxing; weather,Orange
+U+1F315,🌕,full moon symbol,2010,emoji,2398904,0.0175155318082273,0.606060606060606,0.010615473823168,full; moon; nature; place; space; time; weather,Yellow
+U+1F316,🌖,waning gibbous moon symbol,2010,emoji,1440534,0.0105180195196777,0.733333333333333,0.0077132143144303,gibbous; moon; nature; place; space; time; waning; weather,Yellow
+U+1F317,🌗,last quarter moon symbol,2010,emoji,1477257,0.0107861514976949,0.733333333333333,0.00790984443164296,moon; nature; place; quarter; space; time; weather,Gray
+U+1F318,🌘,waning crescent moon symbol,2010,emoji,1493674,0.0109060197732473,0.6875,0.00749788859410752,crescent; moon; nature; place; space; time; waning; weather,Gray
+U+1F319,🌙,crescent moon,2010,emoji,12473165,0.0910724723902112,0.620689655172414,0.0565277414835794,crescent; moon; nature; place; space; time; weather,Yellow
+U+1F31A,🌚,new moon with face,2010,emoji,41611848,0.303827767698548,0.472972972972973,0.143702322560124,face; moon; nature; place; space; time; weather,Gray
+U+1F31B,🌛,first quarter moon with face,2010,emoji,2493946,0.0182094783663711,0.647058823529412,0.0117826036488284,face; moon; nature; place; quarter; space; weather,Yellow
+U+1F31C,🌜,last quarter moon with face,2010,emoji,2370146,0.0173055560594099,0.588235294117647,0.0101797388584764,face; moon; nature; place; quarter; space; weather,Yellow
+U+2600,☀️,black sun with rays,1995,text,48607400,0.354905598896507,0.466921119592875,0.165712919586537,bright; nature; rays; space; sun; sunny; weather,Orange
+U+1F31D,🌝,full moon with face,2010,emoji,9268384,0.0676728517534944,0.205882352941176,0.0139326459492488,bright; face; full; moon; nature; place; space; weather,Yellow
+U+1F31E,🌞,sun with face,2010,emoji,17782733,0.129840137620644,0.567901234567901,0.0737363744512298,bright; face; nature; place; space; sun; weather,Orange
+U+2B50,⭐️,white medium star,2008,emoji,16436246,0.12000879969388,0.591194968553459,0.070948598561162,nature; place; star,Orange
+U+1F31F,🌟,glowing star,2010,emoji,28838574,0.210564057670051,0.331658291457286,0.0698353156091626,glittery; glow; object; place; shining; sparkle; star,Orange
+U+1F320,🌠,shooting star,2010,emoji,3170444,0.0231489099723054,0.642857142857143,0.0148814421250535,activity; falling; nature; place; shooting; space; star,Gray
+U+2601,☁️,cloud,1995,text,14768427,0.107831264975998,0.317307692307692,0.0342156898481533,cloud; nature; weather,White
+U+26C5,⛅️,sun behind cloud,2009,emoji,5456939,0.0398436905478735,0.486486486486487,0.0193834170232898,cloud; nature; sun; weather,White
+U+1F300,🌀,cyclone,2010,emoji,7629327,0.0557053219903202,0.106060606060606,0.00590814021109457,cyclone; dizzy; nature; twister; typhoon; weather,Blue
+U+1F308,🌈,rainbow,2010,emoji,13476217,0.0983962290771423,0.534090909090909,0.0525525314389283,nature; rain; rainbow; weather,Gray
+U+1F302,🌂,closed umbrella,2010,emoji,741241,0.00541215084599558,0.277777777777778,0.00150337523499877,clothing; nature; person; rain; umbrella; weather,Brown
+U+2614,☔️,umbrella with rain drops,2003,emoji,6833415,0.0498939923362158,0.297297297297297,0.014833349072929,clothing; drop; nature; rain; umbrella; weather,Blue
+U+26A1,⚡️,high voltage sign,2003,emoji,9974889,0.0728313786475142,0.178861788617886,0.0130267506524009,danger; electric; electricity; lightning; nature; symbol; voltage; zap,Orange
+U+2744,❄️,snowflake,1995,text,14157949,0.103373876590626,0.510028653295129,0.0527236390634139,cold; nature; snow; snowflake; weather,White
+U+26C4,⛄️,snowman without snow,2009,emoji,6476535,0.0472882427973763,0.528795811518325,0.0250058247253142,cold; nature; snow; snowman; weather,Gray
+U+1F525,🔥,fire,2010,emoji,51530826,0.376250913711939,0.139784946236559,0.0525942137446796,fire; flame; object; tool,Orange
+U+1F4A7,💧,droplet,2010,emoji,2958399,0.0216006692164121,-0.170731707317073,0.0,cold; comic; drop; emotion; nature; object; person; sweat; weather,Cyan
+U+1F30A,🌊,water wave,2010,emoji,6673596,0.0487270782879425,0.51578947368421,0.0251329140643072,nature; ocean; place; water; wave; weather,Gray
+U+1F383,🎃,jack-o-lantern,2010,emoji,4397508,0.0321082841376453,0.617283950617284,0.019819928480028,activity; celebration; entertainment; halloween; jack; lantern; object,Orange
+U+1F384,🎄,christmas tree,2010,emoji,10749888,0.07849001260529,0.538135593220339,0.0422382694952196,activity; celebration; christmas; entertainment; object; tree,Green
+U+1F386,🎆,fireworks,2010,emoji,3215731,0.0234795717616055,0.75,0.0176096788212041,activity; celebration; entertainment; fireworks; object,Gray
+U+1F387,🎇,firework sparkler,2010,emoji,1647151,0.0120266278823385,0.772727272727273,0.00929330336362521,activity; celebration; entertainment; fireworks; object; sparkle,Gray
+U+2728,✨,sparkles,2010,emoji,95350832,0.696201486527571,0.352594339622642,0.24547670338649,emotion; entertainment; object; sign; sparkle; star,Orange
+U+1F388,🎈,red balloon,2010,emoji,16495349,0.120440338628519,0.725631768953069,0.0873953359723192,activity; balloon; celebration; entertainment; object,Brown
+U+1F389,🎉,party popper,2010,emoji,50781035,0.370776335275277,0.739555555555556,0.27420969862136,activity; celebration; entertainment; object; party; popper; tada,Brown
+U+1F38A,🎊,confetti ball,2010,emoji,8045482,0.0587438663170848,0.727272727272727,0.0427228118669708,activity; ball; celebration; confetti; entertainment; object,Gray
+U+1F38B,🎋,tanabata tree,2010,emoji,773400,0.00564695890310032,0.666666666666667,0.00376463926873355,activity; banner; celebration; entertainment; japanese; object; tree,Gray
+U+1F38C,🎌,crossed flags,2010,emoji,895773,0.00654046200867195,1.0,0.00654046200867195,activity; celebration; cross; crossed; flag; japanese; object,White
+U+1F38D,🎍,pine decoration,2010,emoji,502259,0.00366723032287596,0.0,0.0,activity; bamboo; celebration; japanese; object; pine; plant,Gray
+U+1F38E,🎎,japanese dolls,2010,emoji,876591,0.0064004051614011,0.96078431372549,0.00614940888056185,activity; celebration; doll; entertainment; festival; japanese; object,Brown
+U+1F38F,🎏,carp streamer,2010,emoji,450057,0.00328607885059817,0.0,0.0,activity; carp; celebration; entertainment; flag; object; streamer,Gray
+U+1F390,🎐,wind chime,2010,emoji,2340777,0.0170911191108385,0.214285714285714,0.00366238266660824,activity; bell; celebration; chime; entertainment; object; wind,White
+U+1F391,🎑,moon viewing ceremony,2010,emoji,285533,0.00208481137377676,0.0,0.0,activity; celebration; ceremony; entertainment; moon; nature; object,Gray
+U+1F380,🎀,ribbon,2010,emoji,17238687,0.125867800662542,0.641025641025641,0.0806844876041934,celebration; emotion; object; person; ribbon,Purple
+U+1F381,🎁,wrapped present,2010,emoji,12508915,0.0913335000353959,0.767361111111111,0.0700857760688281,box; celebration; entertainment; gift; object; present; wrapped,Orange
+U+1F3AB,🎫,ticket,2010,emoji,421859,0.00308019192643263,0.0,0.0,activity; admission; entertainment; object; place; ticket,Gray
+U+26BD,⚽️,soccer ball,2009,emoji,12330698,0.0900322534943643,0.622073578595318,0.05600668612024,ball; object; place; soccer; sport,Gray
+U+26BE,⚾️,baseball,2009,emoji,3068631,0.0224055251432372,-0.0416666666666667,0.0,ball; baseball; object; place; sport,Gray
+U+1F3C0,🏀,basketball and hoop,2010,emoji,9415313,0.0687456498200494,0.265625,0.0182605632334506,ball; basketball; hoop; object; place; sport,Brown
+U+1F3C8,🏈,american football,2010,emoji,6712017,0.0490076081664219,0.543859649122807,0.0266532605817382,american; ball; football; object; place; sport,Brown
+U+1F3C9,🏉,rugby football,2010,emoji,647278,0.00472608257677912,0.636363636363636,0.00300750709431398,ball; football; object; place; rugby; sport,Orange
+U+1F3BE,🎾,tennis racquet and ball,2010,emoji,1699510,0.0124089256858133,0.619047619047619,0.00768171590074159,ball; object; place; racquet; sport; tennis,Yellow
+U+1F3B1,🎱,billiards,2010,emoji,905552,0.00661186310915477,0.333333333333333,0.00220395436971826,8; 8 ball; ball; billiard; eight; game; object; place; sport,Gray
+U+1F3B3,🎳,bowling,2010,emoji,675555,0.00493254631727946,-0.5,0.0,ball; bowling; game; object; place; sport,Gray
+U+26F3,⛳️,flag in hole,2009,emoji,1543172,0.0112674280636348,0.875,0.00985899955568042,flag; golf; hole; object; place; sport; travel,Green
+U+1F3A3,🎣,fishing pole and fish,2010,emoji,1413053,0.010317367751361,-0.666666666666667,0.0,entertainment; fish; object; place; pole; sport,Gray
+U+1F3BD,🎽,running shirt with sash,2010,emoji,324089,0.00236632695105622,0.555555555555556,0.00131462608392012,person; place; running; sash; shirt; sport,Cyan
+U+1F3BF,🎿,ski and ski boot,2010,emoji,459484,0.0033549098327284,0.461538461538462,0.00154841992279773,object; ski; snow; sport,Cyan
+U+1F3C2,🏂,snowboarder,2010,emoji,1053502,0.00769211597922678,0.5,0.00384605798961339,person; ski; snow; snowboard; sport,White
+U+1F3C4,🏄,surfer,2010,emoji,1559064,0.011383463066076,0.564102564102564,0.00642144070394032,person; sport; surfer; surfing,Gray
+U+1F3C7,🏇,horse racing,2010,emoji,539586,0.00393977239033914,-0.142857142857143,0.0,horse; jockey; person; racehorse; racing; sport; travel,Gray
+U+1F3CA,🏊,swimmer,2010,emoji,3105548,0.0226750736069374,0.597402597402597,0.0135461478690795,person; sport; swim; swimmer; travel,Cyan
+U+1F6B4,🚴,bicyclist,2010,emoji,686519,0.0050125996627845,0.71875,0.00360280600762636,bicycle; bicyclist; bike; cyclist; person; place; sport; travel,Gray
+U+1F6B5,🚵,mountain bicyclist,2010,emoji,182900,0.00133543933718263,0.428571428571429,0.000572331144506843,bicycle; bicyclist; bike; cyclist; mountain; person; place; sport; travel,Gray
+U+1F3C6,🏆,trophy,2010,emoji,7462369,0.0544862827292085,0.737113402061856,0.040162569228231,object; place; prize; sport; trophy,Gray
+U+1F3AF,🎯,direct hit,2010,emoji,2337252,0.0170653814199496,0.666666666666667,0.0113769209466331,activity; bull; bullseye; dart; entertainment; eye; game; hit; object; target,Gray
+U+1F3AE,🎮,video game,2010,emoji,4228296,0.0308727873573099,0.441860465116279,0.0136414641811369,controller; entertainment; game; object; video game,Black
+U+1F3B2,🎲,game die,2010,emoji,881879,0.00643901534847066,0.0,0.0,dice; die; entertainment; game; object,White
+U+2660,♠️,black spade suit,1995,text,6254595,0.0456677539701794,0.35,0.0159837138895628,card; game; spade; suit; symbol,Black
+U+2665,♥️,black heart suit,1995,text,589802759,4.30642867986577,0.657614781634938,2.83197115593636,card; emotion; game; heart; hearts; suit; symbol,Red
+U+2666,♦️,black diamond suit,1995,text,6523761,0.0476330621420334,0.475409836065574,0.0226452262642454,card; diamond; diamonds; game; suit; symbol,Red
+U+2663,♣️,black club suit,1995,text,12496132,0.0912401653112449,0.371428571428571,0.0338892042584624,card; club; clubs; game; suit; symbol,Black
+U+1F0CF,🃏,playing card black joker,2010,emoji,582178,0.00425075671100225,0.111111111111111,0.000472306301222472,card; entertainment; game; joker; object; playing,White
+U+1F004,🀄️,mahjong tile red dragon,2008,emoji,158319,0.00115596183938446,1.0,0.00115596183938446,game; mahjong; object; red,White
+U+1F3B4,🎴,flower playing cards,2010,emoji,183845,0.00134233922878262,0.0,0.0,activity; card; entertainment; flower; game; japanese; object; playing,Brown
+U+1F507,🔇,speaker with cancellation stroke,2010,emoji,322613,0.00235554997750957,1.0,0.00235554997750957,mute; object; quiet; silent; sound; speaker; volume,Gray
+U+1F508,🔈,speaker,2010,emoji,155748,0.00113718975334894,0.333333333333333,0.000379063251116313,object; sound; speaker; volume,Gray
+U+1F509,🔉,speaker with one sound wave,2010,emoji,154181,0.00112574834579637,0.666666666666667,0.000750498897197578,low; object; sound; speaker; volume; wave,Gray
+U+1F50A,🔊,speaker with three sound waves,2010,emoji,3364086,0.0245627817280775,0.428571428571429,0.0105269064548904,3; entertainment; high; loud; object; sound; speaker; three; volume,Gray
+U+1F4E2,📢,public address loudspeaker,2010,emoji,3030175,0.022124739713217,0.5,0.0110623698566085,communication; loud; loudspeaker; object; public address; sound,Orange
+U+1F4E3,📣,cheering megaphone,2010,emoji,1471166,0.0107416782281335,0.5,0.00537083911406677,cheering; communication; megaphone; object; sound,Orange
+U+1F4EF,📯,postal horn,2010,emoji,129946,0.000948797157515224,-0.2,0.0,communication; entertainment; horn; object; post; postal; sound,Orange
+U+1F514,🔔,bell,2010,emoji,728748,0.0053209335488965,1.0,0.0053209335488965,bell; object; sound,Orange
+U+1F515,🔕,bell with cancellation stroke,2010,emoji,352106,0.0025708923086825,-0.333333333333333,0.0,bell; forbidden; mute; no; not; object; prohibited; quiet; silent; sound,Red
+U+1F3BC,🎼,musical score,2010,emoji,5769721,0.0421274597483254,0.346938775510204,0.0146156493004394,activity; entertainment; music; object; score; sound,Black
+U+1F3B5,🎵,musical note,2010,emoji,24850662,0.181446427500436,0.506726457399103,0.0919437054150189,activity; entertainment; music; note; object; sound,Gray
+U+1F3B6,🎶,multiple musical notes,2010,emoji,116930423,0.853764278773127,0.53922967189729,0.460375031920459,activity; entertainment; music; note; notes; object; sound,Black
+U+1F3A4,🎤,microphone,2010,emoji,14170599,0.103466240218922,0.486111111111111,0.0502960889953094,activity; entertainment; karaoke; mic; microphone; object; sound,Black
+U+1F3A7,🎧,headphone,2010,emoji,30833325,0.22512867742557,0.422535211267606,0.0951247932784098,activity; earbud; entertainment; headphone; object; sound,Gray
+U+1F3B7,🎷,saxophone,2010,emoji,706346,0.00515736595987755,0.785714285714286,0.00405221611133236,activity; entertainment; instrument; music; object; sax; saxophone; sound,Orange
+U+1F3B8,🎸,guitar,2010,emoji,6564712,0.0479320647461721,0.528,0.0253081301859789,activity; entertainment; guitar; instrument; music; object; sound,Red
+U+1F3B9,🎹,musical keyboard,2010,emoji,951508,0.00694740958361932,0.392857142857143,0.00272933947927902,activity; entertainment; instrument; keyboard; music; object; piano; sound,Gray
+U+1F3BA,🎺,trumpet,2010,emoji,692884,0.00505907353583626,0.777777777777778,0.00393483497231709,activity; entertainment; instrument; music; object; sound; trumpet,Orange
+U+1F3BB,🎻,violin,2010,emoji,606717,0.00442992754695154,0.444444444444444,0.00196885668753402,activity; entertainment; instrument; music; object; sound; violin,Brown
+U+1F4FB,📻,radio,2010,emoji,1064169,0.00777000078737182,0.4,0.00310800031494873,entertainment; object; radio; video,Gray
+U+1F4F1,📱,mobile phone,2010,emoji,5265616,0.0384467509070436,0.326530612244898,0.012554041112504,cell; communication; mobile; object; phone; telephone,Gray
+U+1F4F2,📲,mobile phone with rightwards arrow at left,2010,emoji,5039101,0.0367928578427356,0.255813953488372,0.00941212642488586,arrow; call; cell; communication; mobile; object; phone; receive; telephone,Gray
+U+260E,☎️,black telephone,1995,text,8088965,0.0590613562498279,0.0,0.0,object; office; phone; sound; telephone,Brown
+U+1F4DE,📞,telephone receiver,2010,emoji,2663665,0.019448676993311,0.571428571428571,0.0111135297104634,communication; object; phone; receiver; sound; telephone,Gray
+U+1F4DF,📟,pager,2010,emoji,132768,0.000969401913171481,0.0,0.0,communication; object; office; pager,Gray
+U+1F4E0,📠,fax machine,2010,emoji,170236,0.00124297348827022,0.0,0.0,communication; fax; object; office,White
+U+1F50B,🔋,battery,2010,emoji,1874805,0.0136888373239294,-0.529411764705882,0.0,battery; object,Green
+U+1F50C,🔌,electric plug,2010,emoji,1392339,0.0101661250480784,-0.125,0.0,electric; electricity; object; plug,Black
+U+1F4BB,💻,personal computer,2010,emoji,2859036,0.0208751729951957,0.28,0.00584504843865479,computer; object; office; pc; personal,Gray
+U+1F4BD,💽,minidisc,2010,emoji,471954,0.00344595919595786,0.0,0.0,computer; disk; entertainment; minidisk; object; office; optical,Gray
+U+1F4BE,💾,floppy disk,2010,emoji,162244,0.00118462011931033,0.0,0.0,computer; disk; floppy; object; office,Gray
+U+1F4BF,💿,optical disc,2010,emoji,4480928,0.0327173729813182,0.666666666666667,0.0218115819875455,blu-ray; cd; computer; disk; dvd; object; office; optical,White
+U+1F4C0,📀,dvd,2010,emoji,920906,0.00672396991934123,0.125,0.000840496239917653,blu-ray; cd; computer; disk; dvd; entertainment; object; office; optical,White
+U+1F3A5,🎥,movie camera,2010,emoji,11420755,0.0833883296190555,0.303030303030303,0.0252691907936532,activity; camera; cinema; entertainment; movie; object,Black
+U+1F3AC,🎬,clapper board,2010,emoji,5212650,0.0380600211097051,0.3,0.0114180063329115,activity; clapper; entertainment; movie; object,Gray
+U+1F4FA,📺,television,2010,emoji,3879157,0.0283235585178096,0.405405405405405,0.0114825237234363,entertainment; object; television; tv; video,Gray
+U+1F4F7,📷,camera,2010,emoji,33598298,0.24531705200429,0.447368421052632,0.109747102212445,camera; entertainment; object; video,Gray
+U+1F4F9,📹,video camera,2010,emoji,3214062,0.0234673856038485,0.545454545454545,0.0128003921475537,camera; entertainment; object; video,Gray
+U+1F4FC,📼,videocassette,2010,emoji,343183,0.00250574126873892,1.0,0.00250574126873892,entertainment; object; tape; vhs; video; videocassette,Gray
+U+1F50D,🔍,left-pointing magnifying glass,2010,emoji,384430,0.00280690510876501,0.0,0.0,glass; magnifying; object; search; tool,Gray
+U+1F50E,🔎,right-pointing magnifying glass,2010,emoji,387707,0.00283083203445089,0.75,0.00212312402583817,glass; magnifying; object; search; tool,Gray
+U+1F52C,🔬,microscope,2010,emoji,185573,0.0013549561734226,1.0,0.0013549561734226,microscope; object; tool,Gray
+U+1F52D,🔭,telescope,2010,emoji,318386,0.00232468665286074,0.5,0.00116234332643037,object; telescope; tool,Gray
+U+1F4E1,📡,satellite antenna,2010,emoji,366748,0.00267780047038303,0.333333333333333,0.000892600156794344,antenna; communication; dish; object; office; satellite,Gray
+U+1F4A1,💡,electric light bulb,2010,emoji,2408117,0.0175828002752227,0.75,0.013187100206417,bulb; comic; electric; idea; light; object,White
+U+1F526,🔦,electric torch,2010,emoji,494265,0.00360886235097088,0.0,0.0,electric; flashlight; light; object; tool; torch,Gray
+U+1F3EE,🏮,izakaya lantern,2010,emoji,258289,0.00188589005446454,0.0,0.0,bar; japanese; lantern; light; place; red,Brown
+U+1F4D4,📔,notebook with decorative cover,2010,emoji,147964,0.00108035509068831,1.0,0.00108035509068831,book; cover; decorated; education; notebook; object; office,Orange
+U+1F4D5,📕,closed book,2010,emoji,5173312,0.0377727957808582,0.25,0.00944319894521455,book; closed; education; object; office,Brown
+U+1F4D6,📖,open book,2010,emoji,2754976,0.0201153817572119,0.176470588235294,0.00354977325127269,book; education; object; office; open,Gray
+U+1F4D7,📗,green book,2010,emoji,281004,0.00205174300440497,0.2,0.000410348600880994,book; education; green; object; office,Green
+U+1F4D8,📘,blue book,2010,emoji,330020,0.0024096319850028,0.25,0.000602407996250701,blue; book; education; object; office,Gray
+U+1F4D9,📙,orange book,2010,emoji,154926,0.00113118794287784,0.333333333333333,0.000377062647625946,book; education; object; office; orange,Orange
+U+1F4DA,📚,books,2010,emoji,3340441,0.024390138408626,0.34453781512605,0.00840332499792996,book; books; education; object; office,Gray
+U+1F4D3,📓,notebook,2010,emoji,469634,0.00342901977954308,0.25,0.000857254944885769,notebook; object; office,Gray
+U+1F4D2,📒,ledger,2010,emoji,406334,0.00296683656443285,0.0392156862745098,0.000116346531938543,ledger; notebook; object; office,Orange
+U+1F4C3,📃,page with curl,2010,emoji,178554,0.00130370713729529,0.571428571428571,0.000744975507025878,curl; document; object; office; page,White
+U+1F4DC,📜,scroll,2010,emoji,250142,0.00182640495725281,1.0,0.00182640495725281,object; office; paper; scroll,White
+U+1F4C4,📄,page facing up,2010,emoji,222158,0.00162208054822209,1.0,0.00162208054822209,document; object; office; page,White
+U+1F4F0,📰,newspaper,2010,emoji,431326,0.00314931496746658,0.4,0.00125972598698663,communication; news; newspaper; object; paper,White
+U+1F4D1,📑,bookmark tabs,2010,emoji,182694,0.00133393523382856,1.0,0.00133393523382856,bookmark; mark; marker; object; office; tabs,White
+U+1F516,🔖,bookmark,2010,emoji,180807,0.00132015735504637,1.0,0.00132015735504637,bookmark; mark; object,White
+U+1F4B0,💰,money bag,2010,emoji,10539271,0.0769521983522589,0.255952380952381,0.0196960983877805,bag; dollar; money; moneybag; object; office,Orange
+U+1F4B4,💴,banknote with yen sign,2010,emoji,356475,0.00260279244243947,-0.25,0.0,bank; banknote; bill; currency; money; note; object; office; yen,Gray
+U+1F4B5,💵,banknote with dollar sign,2010,emoji,2969490,0.0216816498489363,0.423076923076923,0.00917300570531922,bank; banknote; bill; currency; dollar; money; note; object; office,Gray
+U+1F4B6,💶,banknote with euro sign,2010,emoji,397411,0.00290168552448927,0.0,0.0,bank; banknote; bill; currency; euro; money; note; object; office,White
+U+1F4B7,💷,banknote with pound sign,2010,emoji,522318,0.00381369056161049,0.571428571428571,0.00217925174949171,bank; banknote; bill; currency; money; note; object; office; pound,Gray
+U+1F4B8,💸,money with wings,2010,emoji,8657015,0.0632089577560422,0.166666666666667,0.0105348262926737,bank; banknote; bill; dollar; fly; money; note; object; office; wings,White
+U+1F4B3,💳,credit card,2010,emoji,693936,0.00506675468500365,0.5,0.00253337734250183,bank; card; credit; money; object; office,White
+U+1F4B9,💹,chart with upwards trend and yen sign,2010,emoji,162762,0.00118840228211328,0.0,0.0,bank; chart; currency; graph; growth; market; money; object; office; rise; symbol; trend; upward; yen,Green
+U+2709,✉️,envelope,1995,text,2289519,0.0167168602286881,0.333333333333333,0.00557228674289602,e-mail; email; envelope; object; office,White
+U+1F4E7,📧,e-mail symbol,2010,emoji,255409,0.00186486181339792,0.0,0.0,communication; e-mail; email; letter; mail; object; office,White
+U+1F4E8,📨,incoming envelope,2010,emoji,135522,0.000989510168691443,0.0,0.0,communication; e-mail; email; envelope; incoming; letter; mail; object; office; receive,White
+U+1F4E9,📩,envelope with downwards arrow above,2010,emoji,683087,0.00498754100884677,0.0,0.0,arrow; communication; down; e-mail; email; envelope; letter; mail; object; office; outgoing; sent,White
+U+1F4E4,📤,outbox tray,2010,emoji,98121,0.000716427792256409,0.0,0.0,box; communication; letter; mail; object; office; outbox; sent; tray,White
+U+1F4E5,📥,inbox tray,2010,emoji,252508,0.00184368024140685,0.0,0.0,box; communication; inbox; letter; mail; object; office; receive; tray,White
+U+1F4E6,📦,package,2010,emoji,564896,0.0041245726616573,0.25,0.00103114316541433,box; communication; object; office; package; parcel,Gray
+U+1F4EB,📫,closed mailbox with raised flag,2010,emoji,108874,0.000794940527044407,1.0,0.000794940527044407,closed; communication; flag; mail; mailbox; object; office; postbox,Gray
+U+1F4EA,📪,closed mailbox with lowered flag,2010,emoji,79016,0.000576933158375194,0.0,0.0,closed; communication; flag; lowered; mail; mailbox; object; office; postbox,Gray
+U+1F4EC,📬,open mailbox with raised flag,2010,emoji,257889,0.00188296946542751,0.0,0.0,communication; flag; mail; mailbox; object; office; open; postbox,Gray
+U+1F4ED,📭,open mailbox with lowered flag,2010,emoji,59484,0.000434320795696948,0.0,0.0,communication; flag; lowered; mail; mailbox; object; office; open; postbox,Gray
+U+1F4EE,📮,postbox,2010,emoji,275126,0.00200882494850579,-1.0,0.0,communication; mail; mailbox; object; office; postbox,Brown
+U+270F,✏️,pencil,1995,text,2753454,0.020104268915926,0.371428571428571,0.00746729988305824,object; office; pencil,Orange
+U+2712,✒️,black nib,1995,text,1014402,0.00740662840085696,0.3,0.00222198852025709,nib; object; office; pen,Gray
+U+1F4DD,📝,memo,2010,emoji,3439520,0.0251135610116261,0.241935483870968,0.00607586153507083,communication; memo; object; office; pencil,White
+U+1F4BC,💼,briefcase,2010,emoji,503615,0.00367713111971149,0.642857142857143,0.00236387000552882,briefcase; object; office; person,Gray
+U+1F4C1,📁,file folder,2010,emoji,100077,0.000730709472647493,0.0,0.0,file; folder; object; office,White
+U+1F4C2,📂,open file folder,2010,emoji,102662,0.000749583779299309,0.0,0.0,file; folder; object; office; open,Gray
+U+1F4C5,📅,calendar,2010,emoji,553150,0.00403880956458488,0.222222222222222,0.000897513236574417,calendar; date; object; office,Gray
+U+1F4C6,📆,tear-off calendar,2010,emoji,482652,0.00352407034975327,1.0,0.00352407034975327,calendar; object; office,Gray
+U+1F4C7,📇,card index,2010,emoji,98379,0.000718311572185294,0.0,0.0,card; index; object; office; rolodex,Gray
+U+1F4C8,📈,chart with upwards trend,2010,emoji,363696,0.00265551637603048,0.5,0.00132775818801524,chart; graph; growth; object; office; trend; upward,White
+U+1F4C9,📉,chart with downwards trend,2010,emoji,236846,0.00172932457766188,0.5,0.00086466228883094,chart; down; graph; object; office; trend,White
+U+1F4CA,📊,bar chart,2010,emoji,184271,0.00134544965610706,0.0,0.0,bar; chart; graph; object; office,White
+U+1F4CB,📋,clipboard,2010,emoji,253406,0.00185023696379498,0.666666666666667,0.00123349130919666,clipboard; object; office,White
+U+1F4CC,📌,pushpin,2010,emoji,1092960,0.00798021748478475,-0.571428571428571,0.0,object; office; pin; pushpin,Brown
+U+1F4CD,📍,round pushpin,2010,emoji,1451186,0.0105957948057338,0.166666666666667,0.00176596580095564,object; office; pin; place; pushpin,Brown
+U+1F4CE,📎,paperclip,2010,emoji,283124,0.00206722212630124,1.0,0.00206722212630124,object; office; paperclip,Gray
+U+1F4CF,📏,straight ruler,2010,emoji,135646,0.000990415551292922,0.0,0.0,object; office; ruler; straight edge,Gray
+U+1F4D0,📐,triangular ruler,2010,emoji,147893,0.00107983668613423,0.0,0.0,object; office; ruler; set; triangle,Gray
+U+2702,✂️,black scissors,1995,text,3311456,0.0241785052255301,-0.482758620689655,0.0,object; office; scissors; tool,Gray
+U+1F512,🔒,lock,2010,emoji,1244543,0.0090869966047856,0.210526315789474,0.00191305191679697,closed; lock; object,Orange
+U+1F513,🔓,open lock,2010,emoji,962750,0.00702949273850509,0.111111111111111,0.000781054748722788,lock; object; open; unlock,Orange
+U+1F50F,🔏,lock with ink pen,2010,emoji,118289,0.000863683891503535,0.0,0.0,ink; lock; nib; object; pen; privacy,Gray
+U+1F510,🔐,closed lock with key,2010,emoji,2642237,0.0192922210385972,0.363636363636364,0.00701535310494444,closed; key; lock; object; secure,Orange
+U+1F511,🔑,key,2010,emoji,2438335,0.0178034361740252,0.25,0.00445085904350631,key; lock; object; password,Orange
+U+1F528,🔨,hammer,2010,emoji,1128070,0.00823657218751019,-0.125,0.0,hammer; object; tool,Gray
+U+1F527,🔧,wrench,2010,emoji,238953,0.00174470878041444,-0.6,0.0,object; tool; wrench,Gray
+U+1F529,🔩,nut and bolt,2010,emoji,295084,0.00215454773850848,0.2,0.000430909547701695,bolt; nut; object; tool,Gray
+U+1F517,🔗,link symbol,2010,emoji,1806551,0.0131904826135955,0.0,0.0,link; object; symbol,Gray
+U+1F489,💉,syringe,2010,emoji,4261939,0.031118430799742,0.375,0.0116694115499033,doctor; medicine; needle; object; shot; sick; syringe; tool,Brown
+U+1F48A,💊,pill,2010,emoji,4163759,0.0304015722206027,0.454545454545455,0.0138188964639103,doctor; medicine; object; pill; sick,Orange
+U+1F52A,🔪,hocho,2010,emoji,7593377,0.055442834050617,0.0710382513661202,0.00393856198173782,cooking; hocho; knife; object; tool; weapon,Gray
+U+1F52B,🔫,pistol,2010,emoji,29615177,0.216234403189865,-0.195364238410596,0.0,gun; object; pistol; revolver; tool; weapon,Gray
+U+1F3C1,🏁,chequered flag,2010,emoji,1538504,0.0112333447895726,0.571428571428571,0.00641905416547006,checkered; chequered; flag; object; place; racing; sport,Gray
+U+1F6A9,🚩,triangular flag on post,2010,emoji,1245270,0.00909230477536041,-0.285714285714286,0.0,flag; object; place; post; travel,Red
+U+1F6AC,🚬,smoking symbol,2010,emoji,5069323,0.0370135229474285,0.542857142857143,0.0200930553143183,activity; object; smoking,Gray
+U+1F5FF,🗿,moyai,2010,emoji,1774796,0.0129586243514182,0.46551724137931,0.00603246306014296,face; moyai; place; statue; travel,Gray
+U+1F52E,🔮,crystal ball,2010,emoji,5296143,0.0386696429608772,0.271356783919598,0.0104932699491828,ball; crystal; fairy tale; fantasy; fortune; object; tool,Gray
+U+1F3E7,🏧,automated teller machine,2010,emoji,320115,0.00233731089897331,1.0,0.00233731089897331,atm; automated; bank; place; sign; symbol; teller,Gray
+U+1F6AE,🚮,put litter in its place symbol,2010,emoji,3492938,0.0255035910745765,0.0,0.0,litter; litterbox; place; symbol; travel,Gray
+U+1F6B0,🚰,potable water symbol,2010,emoji,103846,0.000758228722848922,0.0,0.0,drink; potable; sign; symbol; travel; water,Gray
+U+267F,♿️,wheelchair symbol,2005,emoji,305074,0.00222748944970834,1.0,0.00222748944970834,access; sign; symbol; travel; wheelchair,Gray
+U+1F6B9,🚹,mens symbol,2010,emoji,498734,0.00364149263198712,0.769230769230769,0.00280114817845163,lavatory; man; restroom; sign; symbol; travel; wc,Gray
+U+1F6BA,🚺,womens symbol,2010,emoji,943570,0.00688945049417943,0.2,0.00137789009883589,lavatory; restroom; sign; symbol; travel; wc; woman,Gray
+U+1F6BB,🚻,restroom,2010,emoji,148446,0.00108387440047793,0.0,0.0,lavatory; restroom; sign; symbol; travel; wc,Gray
+U+1F6BC,🚼,orange baby symbol,2010,emoji,2014221,0.0147067794268963,0.666666666666667,0.0098045196179309,baby; changing; sign; symbol; travel,Orange
+U+1F6BE,🚾,water closet,2010,emoji,298824,0.00218185524600472,0.333333333333333,0.000727285082001573,closet; lavatory; place; restroom; sign; symbol; travel; water; wc,Gray
+U+1F6C2,🛂,passport control,2010,emoji,40602,0.000296454390203878,0.0,0.0,control; passport; place; sign; symbol; travel,Gray
+U+1F6C3,🛃,customs,2010,emoji,266157,0.00194333804082295,0.0,0.0,customs; place; sign; symbol; travel,Gray
+U+1F6C4,🛄,baggage claim,2010,emoji,31445,0.000229594805673635,0.0,0.0,baggage; claim; place; sign; symbol; travel,Gray
+U+1F6C5,🛅,left luggage,2010,emoji,3458979,0.0252556403668051,0.0,0.0,baggage; left luggage; locker; luggage; place; sign; symbol; travel,Gray
+U+26A0,⚠️,warning sign,2003,text,4831495,0.0352770283236807,-0.0681818181818182,0.0,place; symbol; travel; warning,Orange
+U+1F6B8,🚸,children crossing,2010,emoji,136375,0.000995738324812912,0.0,0.0,child; crossing; pedestrian; place; sign; symbol; traffic; travel,Orange
+U+26D4,⛔️,no entry,2009,emoji,893156,0.00652135405489717,0.507692307692308,0.00331084128940933,entry; forbidden; no; not; prohibited; symbol; traffic; travel,Red
+U+1F6AB,🚫,no entry sign,2010,emoji,3864600,0.0282172709812794,-0.454545454545454,0.0,entry; forbidden; no; not; prohibited; symbol; travel,Red
+U+1F6B3,🚳,no bicycles,2010,emoji,33337,0.000243409191818794,1.0,0.000243409191818794,bicycle; bike; forbidden; no; not; place; prohibited; sign; sport; symbol; travel; vehicle,Brown
+U+1F6AD,🚭,no smoking symbol,2010,emoji,263417,0.00192333200591929,1.0,0.00192333200591929,forbidden; no; not; prohibited; sign; smoking; symbol; travel,Gray
+U+1F6AF,🚯,do not litter symbol,2010,emoji,64573,0.000471477989720581,0.0,0.0,forbidden; litter; no; not; prohibited; sign; symbol; travel,Brown
+U+1F6B1,🚱,non-potable water symbol,2010,emoji,37175,0.000271432243629111,0.0,0.0,drink; forbidden; no; not; potable; prohibited; sign; symbol; travel; water,Brown
+U+1F6B7,🚷,no pedestrians,2010,emoji,208213,0.00152026151291858,0.0,0.0,forbidden; no; not; pedestrian; place; prohibited; sign; symbol; travel,Brown
+U+2B06,⬆️,upwards black arrow,2003,text,1862491,0.0135989269904244,0.307692307692308,0.00418428522782289,arrow; cardinal; direction; north; symbol,Gray
+U+2197,↗️,north east arrow,1995,text,2245273,0.0163937992723568,0.0,0.0,arrow; direction; intercardinal; northeast; symbol,Gray
+U+27A1,➡️,black rightwards arrow,1995,text,25611797,0.187003833842188,0.148648648648649,0.0277978671927577,arrow; cardinal; direction; east; symbol,Gray
+U+2198,↘️,south east arrow,1995,text,2269916,0.0165737294614557,0.0,0.0,arrow; direction; intercardinal; southeast; symbol,Gray
+U+2B07,⬇️,downwards black arrow,2003,text,3529208,0.0257684154855093,0.466666666666667,0.0120252605599043,arrow; cardinal; direction; down; south; symbol,Gray
+U+2199,↙️,south west arrow,1995,text,2025673,0.0147903958910266,1.0,0.0147903958910266,arrow; direction; intercardinal; southwest; symbol,Gray
+U+2B05,⬅️,leftwards black arrow,2003,text,46776665,0.341538537469733,0.583333333333333,0.199230813524011,arrow; cardinal; direction; symbol; west,Gray
+U+2196,↖️,north west arrow,1995,text,1797997,0.0131280258170386,0.0,0.0,arrow; direction; intercardinal; northwest; symbol,Gray
+U+2195,↕️,up down arrow,1995,text,1483890,0.0108345821654015,0.0,0.0,arrow; symbol,Gray
+U+2194,↔️,left right arrow,1995,text,1779054,0.0129897140217174,0.0,0.0,arrow; symbol,Gray
+U+21A9,↩️,leftwards arrow with hook,1995,text,1067869,0.00779701623596436,1.0,0.00779701623596436,arrow; symbol,Gray
+U+21AA,↪️,rightwards arrow with hook,1995,text,1394200,0.0101797130885731,0.125,0.00127246413607164,arrow; symbol,Gray
+U+2934,⤴️,arrow pointing rightwards then curving upwards,2002,text,892166,0.00651412559703052,0.0,0.0,arrow; symbol,Gray
+U+2935,⤵️,arrow pointing rightwards then curving downwards,2002,text,1138164,0.00831027325185968,0.0,0.0,arrow; down; symbol,Gray
+U+1F503,🔃,clockwise downwards and upwards open circle arrows,2010,emoji,1324622,0.00967169122852671,0.0,0.0,arrow; clockwise; reload; symbol,Black
+U+1F504,🔄,anticlockwise downwards and upwards open circle arrows,2010,emoji,1225259,0.00894619500731031,0.0,0.0,anticlockwise; arrow; counterclockwise; symbol; withershins,Gray
+U+1F519,🔙,back with leftwards arrow above,2010,emoji,2826444,0.0206372034004583,0.217391304347826,0.00448634856531703,arrow; back; symbol,Black
+U+1F51A,🔚,end with leftwards arrow above,2010,emoji,490697,0.00358281069676056,0.444444444444444,0.00159236030967136,arrow; end; symbol,Black
+U+1F51B,🔛,on with exclamation mark with left right arrow above,2010,emoji,613174,0.00447707315548182,0.571428571428571,0.00255832751741818,arrow; mark; on; symbol,Black
+U+1F51C,🔜,soon with rightwards arrow above,2010,emoji,1447754,0.0105707361517961,0.3,0.00317122084553883,arrow; soon; symbol,Black
+U+1F51D,🔝,top with upwards arrow above,2010,emoji,5057527,0.0369273947767265,0.478547854785479,0.0176715255532189,arrow; symbol; top; up,Black
+U+1F52F,🔯,six pointed star with middle dot,2010,emoji,495219,0.0036158279558242,1.0,0.0036158279558242,fortune; object; star; symbol,Gray
+U+267B,♻️,black universal recycling symbol,2002,text,104430468,0.762496199932161,0.5625,0.428904112461841,recycle; sign; symbol,Green
+U+1F4DB,📛,name badge,2010,emoji,985233,0.00719365174680403,0.0,0.0,badge; name; object; office,Red
+U+1F530,🔰,japanese symbol for beginner,2010,emoji,672501,0.00491024761998173,0.0,0.0,beginner; chevron; green; japanese; leaf; object; tool; yellow,Green
+U+1F531,🔱,trident emblem,2010,emoji,1482488,0.0108243455008267,0.0833333333333333,0.00090202879173556,anchor; emblem; object; ship; symbol; tool; trident,Yellow
+U+2B55,⭕️,heavy large circle,2009,emoji,5363309,0.0391600536690304,0.5,0.0195800268345152,circle; o; symbol; travel,Red
+U+2705,✅,white heavy check mark,2010,emoji,29564948,0.215867657523013,0.431372549019608,0.0931193816765937,check; mark; sign; symbol,Green
+U+2611,☑️,ballot box with check,1995,text,17434055,0.127294274760009,0.103703703703704,0.0132008877528898,ballot; box; check; sign; symbol,Gray
+U+2714,✔️,heavy check mark,1995,text,42930652,0.313456978959531,0.273092369477912,0.0856027091134463,check; mark; sign; symbol,Black
+U+2716,✖️,heavy multiplication x,1995,text,11972940,0.0874200932625885,0.316062176165803,0.0276301849171912,cancel; multiplication; multiply; sign; symbol; x,Black
+U+274C,❌,cross mark,2010,emoji,14556380,0.10628300961716,0.285714285714286,0.0303665741763314,cancel; mark; multiplication; multiply; sign; symbol; x,Red
+U+274E,❎,negative squared cross mark,2010,emoji,709296,0.00517890530402566,-1.0,0.0,mark; sign; square; symbol,Green
+U+2795,➕,heavy plus sign,2010,emoji,1070072,0.00781310138008581,0.580645161290323,0.00453663951101757,math; plus; sign; symbol,Black
+U+2796,➖,heavy minus sign,2010,emoji,847984,0.00619153193494521,-1.0,0.0,math; minus; sign; symbol,Black
+U+2797,➗,heavy division sign,2010,emoji,59312,0.000433064942411024,-0.5,0.0,division; math; sign; symbol,Black
+U+27B0,➰,curly loop,2010,emoji,1205944,0.00880516706418466,-0.125,0.0,curl; loop; sign; symbol,Black
+U+27BF,➿,double curly loop,2010,emoji,573465,0.00418713898030311,0.0,0.0,curl; double; loop; sign; symbol,Gray
+U+303D,〽️,part alternation mark,2002,text,764777,0.00558399830493452,0.0,0.0,mark; part; sign; symbol,Orange
+U+2733,✳️,eight spoked asterisk,1995,text,2025028,0.0147856864412043,0.0,0.0,asterisk; sign; symbol,Green
+U+2734,✴️,eight pointed black star,1995,text,1187942,0.00867372595457306,0.666666666666667,0.00578248396971537,sign; star; symbol,Orange
+U+2747,❇️,sparkle,1995,text,896621,0.00654665365743046,0.666666666666667,0.0043644357716203,sign; sparkle; symbol,Green
+U+1F4B1,💱,currency exchange,2010,emoji,167136,0.00122033892323322,0.0,0.0,bank; currency; exchange; money; object; office; symbol,Black
+U+1F4B2,💲,heavy dollar sign,2010,emoji,1008546,0.00736387097735482,0.266666666666667,0.00196369892729462,currency; dollar; money; object; office; symbol,Black
+U+203C,‼️,double exclamation mark,1995,text,13016814,0.095041910663694,0.0,0.0,bangbang; exclamation; mark; punctuation; symbol; word,Red
+U+2049,⁉️,exclamation question mark,2000,text,1372701,0.0100227387293053,0.0,0.0,exclamation; interrobang; mark; punctuation; question; symbol; word,Red
+U+2753,❓,black question mark ornament,2010,emoji,2799443,0.0204400563389861,0.0731707317073171,0.0014956138784624,mark; punctuation; question; symbol; word,Red
+U+2754,❔,white question mark ornament,2010,emoji,651876,0.00475965474775979,0.0,0.0,mark; outlined; punctuation; question; symbol; word,White
+U+2755,❕,white exclamation mark ornament,2010,emoji,1611558,0.0117667465683509,0.285714285714286,0.00336192759095739,exclamation; mark; outlined; punctuation; symbol; word,White
+U+2757,❗️,heavy exclamation mark symbol,2009,emoji,13271563,0.0969019535051808,0.101010101010101,0.00978807611163442,exclamation; mark; punctuation; symbol; word,Red
+U+3030,〰️,wavy dash,1995,text,0,0.0,0.0,0.0,dash; punctuation; sound; symbol; wavy,Black
+U+00A9,©️,copyright sign,1995,text,0,0.0,0.0,0.0,copyright; symbol; word,Black
+U+00AE,®️,registered sign,1995,text,0,0.0,0.0,0.0,registered; symbol; word,Black
+U+2122,™️,trade mark sign,1995,text,0,0.0,0.0,0.0,mark; symbol; tm; trademark; word,Black
+U+2648,♈️,aries,1995,emoji,862365,0.00629653441229908,-1.0,0.0,aries; ram; symbol; time; zodiac,Purple
+U+2649,♉️,taurus,1995,emoji,717859,0.00524142781383591,0.0,0.0,bull; ox; symbol; taurus; time; zodiac,Purple
+U+264A,♊️,gemini,1995,emoji,736369,0.00537657807152454,0.0,0.0,gemini; symbol; time; twins; zodiac,Gray
+U+264B,♋️,cancer,1995,emoji,1129388,0.00824619552838721,0.333333333333333,0.00274873184279574,cancer; crab; symbol; time; zodiac,Purple
+U+264C,♌️,leo,1995,emoji,725694,0.00529863485159876,0.833333333333333,0.00441552904299897,leo; lion; symbol; time; zodiac,Gray
+U+264D,♍️,virgo,1995,emoji,625698,0.00456851679823127,0.666666666666667,0.00304567786548751,maiden; symbol; time; virgin; virgo; zodiac,Gray
+U+264E,♎️,libra,1995,emoji,630389,0.00460276800616306,-0.142857142857143,0.0,balance; justice; libra; scales; symbol; time; zodiac,Gray
+U+264F,♏️,scorpius,1995,emoji,859383,0.00627476142102801,0.0,0.0,scorpio; scorpion; scorpius; symbol; time; zodiac,Purple
+U+2650,♐️,sagittarius,1995,emoji,778133,0.005681516772881,0.0,0.0,archer; sagittarius; symbol; time; zodiac,Purple
+U+2651,♑️,capricorn,1995,emoji,711259,0.00519323809472489,0.0,0.0,capricorn; goat; symbol; time; zodiac,Gray
+U+2652,♒️,aquarius,1995,emoji,896268,0.00654407623760528,0.0,0.0,aquarius; bearer; symbol; time; water; zodiac,Gray
+U+2653,♓️,pisces,1995,emoji,707923,0.00516888038215605,0.5,0.00258444019107802,fish; pisces; symbol; time; zodiac,Purple
+U+26CE,⛎,ophiuchus,2010,emoji,143112,0.00104492834566911,0.0,0.0,bearer; ophiuchus; serpent; snake; symbol; zodiac,Gray
+U+1F500,🔀,twisted rightwards arrows,2010,emoji,101074,0.000737989040822294,0.0,0.0,arrow; crossed; symbol,Gray
+U+1F501,🔁,clockwise rightwards and leftwards open circle arrows,2010,emoji,1323760,0.0096653973591519,0.0,0.0,arrow; clockwise; repeat; symbol,Gray
+U+1F502,🔂,clockwise rightwards and leftwards open circle arrows with circled one overlay,2010,emoji,248444,0.00181400705679061,0.0,0.0,arrow; clockwise; once; symbol,Gray
+U+25B6,▶️,black right-pointing triangle,1995,text,31173223,0.227610433356842,0.213740458015267,0.0486495582747449,arrow; play; right; sound; symbol; triangle,Gray
+U+23E9,⏩,black right-pointing double triangle,2010,emoji,3102687,0.02265418409385,0.166666666666667,0.00377569734897501,arrow; double; fast; forward; sound; symbol,Gray
+U+25C0,◀️,black left-pointing triangle,1995,text,15315619,0.111826572366877,0.304347826086957,0.0340341741986147,arrow; left; reverse; sound; symbol; triangle,Gray
+U+23EA,⏪,black left-pointing double triangle,2010,emoji,1072755,0.0078326912310517,0.5,0.00391634561552585,arrow; double; rewind; sound; symbol,Gray
+U+1F53C,🔼,up-pointing small red triangle,2010,emoji,530827,0.00387581879190074,0.0,0.0,arrow; button; red; symbol,Gray
+U+23EB,⏫,black up-pointing double triangle,2010,emoji,366507,0.00267604081548822,0.0,0.0,arrow; double; sound; symbol,Gray
+U+1F53D,🔽,down-pointing small red triangle,2010,emoji,294856,0.00215288300275737,0.0,0.0,arrow; button; down; red; symbol,Gray
+U+23EC,⏬,black down-pointing double triangle,2010,emoji,309393,0.00225902450983568,1.0,0.00225902450983568,arrow; double; down; sound; symbol,Gray
+U+1F3A6,🎦,cinema,2010,emoji,310007,0.00226350761400753,0.0,0.0,activity; camera; cinema; entertainment; film; movie; object; symbol,Gray
+U+1F505,🔅,low brightness symbol,2010,emoji,384824,0.00280978188896648,1.0,0.00280978188896648,brightness; dim; low; sign; symbol,Orange
+U+1F506,🔆,high brightness symbol,2010,emoji,1231438,0.00899131080645986,0.647058823529412,0.0058179069924152,bright; brightness; sign; symbol,Orange
+U+1F4F6,📶,antenna with bars,2010,emoji,424298,0.00309800021808593,0.4,0.00123920008723437,antenna; bar; cell; communication; mobile; object; phone; signal; symbol; telephone,Gray
+U+1F4F5,📵,no mobile phones,2010,emoji,247862,0.00180975759974173,0.166666666666667,0.000301626266623621,cell; communication; forbidden; mobile; no; not; object; phone; prohibited; symbol; telephone,Brown
+U+1F4F3,📳,vibration mode,2010,emoji,214859,0.00156878709976885,0.0,0.0,cell; communication; mobile; mode; object; phone; symbol; telephone; vibration,Orange
+U+1F4F4,📴,mobile phone off,2010,emoji,653448,0.00477113266267533,0.8,0.00381690613014026,cell; communication; mobile; object; off; phone; symbol; telephone,Orange
+U+0023 U+20E3,#️⃣,keycap number sign,2000,text,458005,0.00334411095476398,0.0,0.0,hash; keycap; pound; symbol; word,Gray
+U+0030 U+20E3,0️⃣,keycap digit zero,2000,text,1389489,0.0101453158511895,0.0,0.0,0; keycap; symbol; word; zero,Gray
+U+0031 U+20E3,1️⃣,keycap digit one,2000,text,5784902,0.0422383034037534,0.0,0.0,1; keycap; one; symbol; word,Gray
+U+0032 U+20E3,2️⃣,keycap digit two,2000,text,5086262,0.0371372025916742,0.0,0.0,2; keycap; symbol; two; word,Gray
+U+0033 U+20E3,3️⃣,keycap digit three,2000,text,3673292,0.0268204408625384,0.0,0.0,3; keycap; symbol; three; word,Gray
+U+0034 U+20E3,4️⃣,keycap digit four,2000,text,2519654,0.0183971846237811,0.0,0.0,4; four; keycap; symbol; word,Gray
+U+0035 U+20E3,5️⃣,keycap digit five,2000,text,2306542,0.0168411531966315,0.0,0.0,5; five; keycap; symbol; word,Gray
+U+0036 U+20E3,6️⃣,keycap digit six,2000,text,1127749,0.00823422841480797,0.0,0.0,6; keycap; six; symbol; word,Gray
+U+0037 U+20E3,7️⃣,keycap digit seven,2000,text,981849,0.00716894356355075,0.0,0.0,7; keycap; seven; symbol; word,Gray
+U+0038 U+20E3,8️⃣,keycap digit eight,2000,text,593893,0.00433629346242431,0.0,0.0,8; eight; keycap; symbol; word,Gray
+U+0039 U+20E3,9️⃣,keycap digit nine,2000,text,583474,0.00426021941948223,0.0,0.0,9; keycap; nine; symbol; word,Gray
+U+1F51F,🔟,keycap ten,2010,emoji,467570,0.003413949540112,1.0,0.003413949540112,10; keycap; symbol; ten; word,Gray
+U+1F4AF,💯,hundred points symbol,2010,emoji,90789200,0.662894855502141,0.120879120879121,0.0801301473683907,100; full; hundred; office; score; symbol,Brown
+U+1F51E,🔞,no one under eighteen symbol,2010,emoji,15585169,0.113794684304206,-0.0434782608695652,0.0,18; age restriction; eighteen; forbidden; no; not; prohibited; symbol; underage; word,Brown
+U+1F520,🔠,input symbol for latin capital letters,2010,emoji,71789,0.000524165415948628,0.0,0.0,input; latin; letters; symbol; uppercase; word,Gray
+U+1F521,🔡,input symbol for latin small letters,2010,emoji,55374,0.00040431174334145,0.0,0.0,abcd; input; latin; letters; lowercase; symbol; word,Gray
+U+1F522,🔢,input symbol for numbers,2010,emoji,151153,0.00110363948678604,0.0,0.0,1234; input; numbers; symbol; word,Gray
+U+1F523,🔣,input symbol for symbols,2010,emoji,62406,0.000455655698612463,0.333333333333333,0.000151885232870821,input; symbol; word,Gray
+U+1F524,🔤,input symbol for latin letters,2010,emoji,86557,0.000631993563195829,0.0,0.0,abc; alphabet; input; latin; letters; symbol; word,Gray
+U+1F170,🅰️,negative squared latin capital letter a,2010,text,0,0.0,0.333333333333333,0.0,a; blood; symbol; word,Red
+U+1F18E,🆎,negative squared ab,2010,emoji,196947,0.00143800312269059,0.0,0.0,ab; blood; symbol; word,Red
+U+1F171,🅱️,negative squared latin capital letter b,2010,text,0,0.0,0.0,0.0,b; blood; symbol; word,Red
+U+1F191,🆑,squared cl,2010,emoji,169220,0.00123555519211616,0.0,0.0,cl; symbol; word,Red
+U+1F192,🆒,squared cool,2010,emoji,3150544,0.0230036106677131,0.421052631578947,0.00968573080745814,cool; symbol; word,Gray
+U+1F193,🆓,squared free,2010,emoji,1488725,0.0108698847853866,0.25,0.00271747119634666,free; symbol; word,Gray
+U+2139,ℹ️,information source,2000,text,532240,0.00388613577267406,0.0,0.0,i; information; symbol; word,Gray
+U+1F194,🆔,squared id,2010,emoji,713723,0.00521122892319301,0.923076923076923,0.00481036515987047,id; identity; symbol; word,Gray
+U+24C2,Ⓜ️,circled latin capital letter m,1995,text,1036693,0.00756938552641813,0.4,0.00302775421056725,circle; m; place; symbol; word,Cyan
+U+1F195,🆕,squared new,2010,emoji,1763533,0.012876387865608,0.0,0.0,new; symbol; word,Gray
+U+1F196,🆖,squared ng,2010,emoji,302028,0.00220524916419134,0.25,0.000551312291047836,ng; symbol; word,Gray
+U+1F17E,🅾️,negative squared latin capital letter o,2010,text,0,0.0,-0.2,0.0,blood; o; symbol; word,Red
+U+1F197,🆗,squared ok,2010,emoji,7476047,0.0545861522713298,0.578947368421053,0.0316025092097172,ok; symbol; word,Gray
+U+1F17F,🅿️,negative squared latin capital letter p,2009,text,413489,0.00301907860083275,0.0,0.0,parking; place; sign; symbol; word,Gray
+U+1F198,🆘,squared sos,2010,emoji,3149666,0.0229971999747768,0.0909090909090909,0.00209065454316153,help; sos; symbol; word,Red
+U+1F199,🆙,squared up with exclamation mark,2010,emoji,1739926,0.012704022002115,0.5,0.00635201100105749,mark; symbol; up; word,Gray
+U+1F19A,🆚,squared vs,2010,emoji,447918,0.00327046100072264,0.0,0.0,symbol; versus; vs; word,Orange
+U+1F201,🈁,squared katakana koko,2010,emoji,45505,0.000332253510325291,0.0,0.0,japanese; symbol; word,Gray
+U+1F202,🈂️,squared katakana sa,2010,text,0,0.0,-1.0,0.0,japanese; symbol; word,Gray
+U+1F237,🈷️,squared cjk unified ideograph-6708,2010,text,0,0.0,0.0,0.0,japanese; symbol; word,Orange
+U+1F236,🈶,squared cjk unified ideograph-6709,2010,emoji,164295,0.00119959543959771,0.0,0.0,japanese; symbol; word,Orange
+U+1F22F,🈯️,squared cjk unified ideograph-6307,2009,emoji,251604,0.00183707971018316,0.0,0.0,japanese; symbol; word,Green
+U+1F250,🉐,circled ideograph advantage,2010,emoji,302555,0.00220909704024763,1.0,0.00220909704024763,japanese; symbol; word,Red
+U+1F239,🈹,squared cjk unified ideograph-5272,2010,emoji,1662397,0.012137946133485,0.333333333333333,0.00404598204449499,japanese; symbol; word,Gray
+U+1F21A,🈚️,squared cjk unified ideograph-7121,2009,emoji,162009,0.00118290427325107,0.0,0.0,japanese; symbol; word,Orange
+U+1F232,🈲,squared cjk unified ideograph-7981,2010,emoji,154022,0.00112458741165415,0.0,0.0,japanese; symbol; word,Red
+U+1F251,🉑,circled ideograph accept,2010,emoji,124803,0.000911245683971592,0.0,0.0,chinese; symbol; word,Orange
+U+1F238,🈸,squared cjk unified ideograph-7533,2010,emoji,163547,0.00119413393809846,0.0,0.0,chinese; symbol; word,Orange
+U+1F234,🈴,squared cjk unified ideograph-5408,2010,emoji,133313,0.000973381215734437,0.0,0.0,chinese; symbol; word,Red
+U+1F233,🈳,squared cjk unified ideograph-7a7a,2010,emoji,223110,0.00162903155013022,0.0,0.0,chinese; symbol; word,Blue
+U+3297,㊗️,circled ideograph congratulation,1995,text,631372,0.00460994535372156,0.0,0.0,chinese; congratulation; congratulations; ideograph; symbol; word,Red
+U+3299,㊙️,circled ideograph secret,1995,text,673718,0.0049191335121269,0.0,0.0,chinese; ideograph; secret; symbol; word,Red
+U+1F23A,🈺,squared cjk unified ideograph-55b6,2010,emoji,168172,0.00122790324883914,0.0,0.0,chinese; symbol; word,Orange
+U+1F235,🈵,squared cjk unified ideograph-6e80,2010,emoji,151055,0.00110292394247197,0.0,0.0,chinese; symbol; word,Red
+U+25AA,▪️,black small square,1995,text,4583536,0.0334665624810975,0.20125786163522,0.00673540880122718,geometric; sign; square; symbol,Black
+U+25AB,▫️,white small square,1995,text,442341,0.00322974068807383,1.0,0.00322974068807383,geometric; sign; square; symbol,White
+U+25FB,◻️,white medium square,2002,text,319244,0.00233095131634518,0.0,0.0,geometric; sign; square; symbol,White
+U+25FC,◼️,black medium square,2002,text,434489,0.0031724095252769,0.0,0.0,geometric; sign; square; symbol,Black
+U+25FD,◽️,white medium small square,2002,emoji,172643,0.00126054813280055,0.0,0.0,geometric; sign; square; symbol,White
+U+25FE,◾️,black medium small square,2002,emoji,531174,0.00387835240289037,0.0,0.0,geometric; sign; square; symbol,Black
+U+2B1B,⬛️,black large square,2008,emoji,254360,0.0018572025686483,-0.333333333333333,0.0,geometric; sign; square; symbol,Black
+U+2B1C,⬜️,white large square,2008,emoji,345132,0.00251997183882185,0.0,0.0,geometric; sign; square; symbol,White
+U+1F536,🔶,large orange diamond,2010,emoji,801172,0.00584973539994142,0.4,0.00233989415997657,diamond; geometric; orange; sign; symbol,Orange
+U+1F537,🔷,large blue diamond,2010,emoji,841613,0.00614501425305789,0.222222222222222,0.00136555872290175,blue; diamond; geometric; sign; symbol,Gray
+U+1F538,🔸,small orange diamond,2010,emoji,5758598,0.0420462454686782,0.285714285714286,0.0120132129910509,diamond; geometric; orange; sign; symbol,Orange
+U+1F539,🔹,small blue diamond,2010,emoji,1920157,0.014019973708948,0.166666666666667,0.00233666228482467,blue; diamond; geometric; sign; symbol,Gray
+U+1F53A,🔺,up-pointing red triangle,2010,emoji,1001224,0.00731040959503196,0.333333333333333,0.00243680319834399,geometric; red; sign; symbol,Brown
+U+1F53B,🔻,down-pointing red triangle,2010,emoji,1153062,0.00841905059054391,1.0,0.00841905059054391,down; geometric; red; sign; symbol,Brown
+U+1F4A0,💠,diamond shape with a dot inside,2010,emoji,1006339,0.007347756627343,0.0,0.0,comic; diamond; geometric; inside; sign; symbol,Cyan
+U+1F518,🔘,radio button,2010,emoji,1396576,0.0101970613874531,0.25,0.00254926534686328,button; geometric; radio; sign; symbol,Gray
+U+1F532,🔲,black square button,2010,emoji,699477,0.00510721214463913,0.75,0.00383040910847935,button; geometric; sign; square; symbol,Gray
+U+1F533,🔳,white square button,2010,emoji,355046,0.00259235863810468,0.5,0.00129617931905234,button; geometric; outlined; sign; square; symbol,Gray
+U+26AA,⚪️,medium white circle,2005,emoji,2245925,0.0163985598324872,0.486486486486487,0.00797767775634512,circle; geometric; sign; symbol,White
+U+26AB,⚫️,medium black circle,2005,emoji,2269567,0.0165711812475209,0.285714285714286,0.00473462321357741,circle; geometric; sign; symbol,Gray
+U+1F534,🔴,large red circle,2010,emoji,21162204,0.154515252504558,0.422222222222222,0.0652397732797023,circle; geometric; red; sign; symbol,Red
+U+1F535,🔵,large blue circle,2010,emoji,2427452,0.0177239742478002,0.333333333333333,0.0059079914159334,blue; circle; geometric; sign; symbol,Gray
+U+1F1E8 U+1F1F3,🇨🇳,flag for China,2010,emoji,194085,0.00141710630813063,0.0,0.0,china; flag; other,Brown
+U+1F1E9 U+1F1EA,🇩🇪,flag for Germany,2010,emoji,1096453,0.00800572152855063,0.0,0.0,flag; germany; other,Brown
+U+1F1EA U+1F1F8,🇪🇸,flag for Spain,2010,emoji,1230016,0.00898092811243321,0.0,0.0,flag; other; spain,Red
+U+1F1EB U+1F1F7,🇫🇷,flag for France,2010,emoji,3074483,0.022448253360849,0.0,0.0,flag; france; other,Gray
+U+1F1EC U+1F1E7,🇬🇧,flag for United Kingdom,2010,emoji,2225603,0.0162501793064608,0.0,0.0,britain; british; cornwall; england; flag; great britain; ireland; northern ireland; other; scotland; uk; union jack; united; united kingdom; wales,Gray
+U+1F1EE U+1F1F9,🇮🇹,flag for Italy,2010,emoji,2425215,0.0177076408536106,0.0,0.0,flag; italy; other,Gray
+U+1F1EF U+1F1F5,🇯🇵,flag for Japan,2010,emoji,730948,0.00533699678860017,0.0,0.0,flag; japan; other,White
+U+1F1F0 U+1F1F7,🇰🇷,flag for South Korea,2010,emoji,313880,0.00229178621735858,0.0,0.0,flag; korea; other; south; south korea,Gray
+U+1F1F7 U+1F1FA,🇷🇺,flag for Russia,2010,emoji,593459,0.00433312462331913,0.0,0.0,flag; other; russia,Gray
+U+1F1FA U+1F1F8,🇺🇸,flag for United States,2010,emoji,7069622,0.051618651272891,0.0,0.0,america; flag; other; stars and stripes; united; united states,Gray

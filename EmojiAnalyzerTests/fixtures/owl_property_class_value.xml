@@ -1,0 +1,7 @@
+    <SubClassOf>
+        <Class IRI="#Some1"/>
+        <DataHasValue>
+            <DataProperty IRI="#nature"/>
+            <Literal datatypeIRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#PlainLiteral">text</Literal>
+        </DataHasValue>
+    </SubClassOf>

@@ -1,0 +1,6 @@
+framework module Swiftline {
+  umbrella header "Swiftline-umbrella.h"
+
+  export *
+  module * { export * }
+}
