@@ -19,7 +19,7 @@
         <a class="header-link" href="index.html">
           EmojiAnalyzer Docs
         </a>
-         (71% documented)
+         (70% documented)
       </p>
     
     
@@ -172,10 +172,78 @@
         <section class="section">
           <div class="section-content">
             
-            <a href='#emojianalyzer' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h1 id='emojianalyzer'>EmojiAnalyzer</h1>
-<a href='#authors' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='authors'>Authors</h3>
+            <a href='#emoji_ontology' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h1 id='emoji_ontology'>Emoji Ontology</h1>
 
-<p>Omar Abdelhafith</p>
+<p align="center">
+<img src="http://cdn.makeuseof.com/wp-content/uploads/2015/06/2_emoji.png?2047b0" width="450" align="middle"/>
+<br/>
+</p>
+
+<p><br/></p>
+
+<p>Emoji ontology is a mac application that analyses emojis.</p>
+
+<p>EmojiOntology adds the following meta-ata to emojis:</p>
+
+<ul>
+<li>Color analysis</li>
+<li>Usage number analysis</li>
+<li>Sentiment analysis</li>
+<li>Additional emoji annotation categories</li>
+</ul>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/oarrabi/EmojiOntology/master/res/color.png?token=ABZLPA_xMzrws-DikiFONlzMM2SiD214ks5XIqa1wA%3D%3D" width="550" align="middle"/>
+<br/>
+</p>
+
+<p>It then converts the analysis to the following:</p>
+
+<ul>
+<li>CSV format</li>
+<li>OWL/XML ontology format</li>
+</ul>
+<a href='#analyzing_emojis' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='analyzing_emojis'>Analyzing emojis</h2>
+<a href='#color_analysis' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='color_analysis'>Color analysis</h3>
+
+<p>The color analysis aims to get the dominant color for each emoji. It does that by using <code>dither</code> command in <code>imageMagick</code> utility.</p>
+<a href='#usage_analysis' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='usage_analysis'>Usage analysis</h3>
+
+<p>The usage analysis calculates the usage of each emoji in twitter. The numbers are read and parsed from <a href="http://emojitracker.com/">emojitracker.com</a>.</p>
+<a href='#sentiment_analysis' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='sentiment_analysis'>Sentiment analysis</h3>
+
+<p>The sentiment analysis aim to provide the sentiment for each emoji. The sentiment is calculated by analyzing the number of occurrence an emoji has been used in a negative, positive and neutral contexts.</p>
+<a href='#emoji_annotations_additional_categories' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='emoji_annotations_additional_categories'>Emoji annotations additional categories</h3>
+
+<p>When exporting to OWL, EmojiOntology applies an additional level of categories on the emoji annotations.</p>
+<a href='#exporting_analysis' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='exporting_analysis'>Exporting analysis</h2>
+<a href='#exporting_to_csv' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='exporting_to_csv'>Exporting to CSV</h3>
+
+<p>Exports the emoji meta-data to CSV file.</p>
+<a href='#exporting_to_owl_xml' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='exporting_to_owl_xml'>Exporting to OWL/XML</h3>
+
+<p>Exports the emoji ontology to OWL/XML format.</p>
+<a href='#resources' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='resources'>Resources</h2>
+
+<p>This is a list of files and what they represent</p>
+
+<p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/Annotation%20Categories.csv">Annotation Categories.csv</a>: 
+This file contains the annotation additional categories, these categories help giving the emoji another depth in the ontology structure.</p>
+
+<p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/AnnotationCategories.xml">AnnotationCategories.xml</a>: 
+File containing a template OWL/XML file for all the additional category subclassing information.</p>
+
+<p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/Emoji.owl">Emoji.owl</a>: 
+Emoji OWL main file template. This file contains placeholder string markers that EmojiOntology app fills when generating the final emoji.</p>
+
+<p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/EmojiColor.plist">EmojiColor.plist</a>: Mac property list (mac dictionary) file that contains a hash map dictionary, with emoji as key and emoji dominant color as value.</p>
+
+<p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/EmojiFull.csv">EmojiFull.csv</a>: CSV file containing a list of emoji and all the meta-data available for each emoji.</p>
+
+<p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/EmojiUses.plist">EmojiUses.plist</a>: Mac property list (mac dictionary) file that contains a hash map dictionary, with emoji as key and emoji twitter usage numbers as value.</p>
+
+<p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/Sentiment.csv">Sentiment.csv</a>: CSV file containing the emoji base unicode information.</p>
+<a href='#notable_files' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='notable_files'>Notable files</h2>
 
           </div>
         </section>
@@ -184,7 +252,7 @@
       </article>
     </div>
     <section class="footer">
-      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-21)</p>
+      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-22)</p>
       <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.6.0</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
     </section>
   </body>
