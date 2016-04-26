@@ -19,7 +19,7 @@
         <a class="header-link" href="index.html">
           EmojiAnalyzer Docs
         </a>
-         (70% documented)
+         (84% documented)
       </p>
     
     
@@ -93,9 +93,6 @@
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Global Variables.html#/s:v13EmojiAnalyzer9SentimentCS_17SentimentAnalyzer">Sentiment</a>
               </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Global Variables.html#/s:v13EmojiAnalyzer13_cachedColorsGSqGVs10DictionarySSGS0_SSSS___">_cachedColors</a>
-              </li>
             </ul>
           </li>
           <li class="nav-group-name">
@@ -130,13 +127,13 @@
                 <a class="nav-group-task-link" href="Functions.html#/s:F13EmojiAnalyzer6onMainFFT_T_T_">onMain(_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Functions.html#/s:ZF13EmojiAnalyzeroi2ogu0_rFTGSqx_FxGSqq___GSqq__">|&gt;(_:_:)</a>
+                <a class="nav-group-task-link" href="Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Functions.html#/s:ZF13EmojiAnalyzeroi2ogu0_rFTxFxq__q_">|&gt;(_:_:)</a>
+                <a class="nav-group-task-link" href="Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Functions/|&gt;&gt;(_:_:).html">|&gt;&gt;(_:_:)</a>
@@ -195,6 +192,8 @@
                       <div class="pointer"></div>
                       <div class="abstract">
                         <p>Read a file as a stream (buffered reading).</p>
+
+<p>This class is responsible to read a file a line at a time.</p>
 
                         <a href="Classes/StreamReader.html" class="slightly-smaller">See more</a>
                       </div>
@@ -290,7 +289,11 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Class responsible to draw an emoji to an image</p>
+                        <p>Class responsible to draw an emoji to an image.</p>
+
+<p>This class draws an emoji to an NSImage. The NSImage is then saved to disk and used to perform color detection using ImageMagick.</p>
+
+<p>The RGB calculated is then converted to a known color (out of 11 possibilities).</p>
 
                         <a href="Classes/EmojiDrawer.html" class="slightly-smaller">See more</a>
                       </div>
@@ -322,7 +325,9 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Class responsible to sanitize a string to be usable as an OWL entity name</p>
+                        <p>Class responsible to sanitize a string to be usable as an OWL entity name.</p>
+
+<p>It genereates correct names that can be used as OWL/XML entity names.</p>
 
                         <a href="Classes/OWLNamer.html" class="slightly-smaller">See more</a>
                       </div>
@@ -354,7 +359,9 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Sentiment item containing all info about an emoji sentiment</p>
+                        <p>Sentiment item containing all info about an emoji sentiment.</p>
+
+<p>This class holds all the infromation stored in Sentiment.csv file.</p>
 
                         <a href="Classes/SentimentItem.html" class="slightly-smaller">See more</a>
                       </div>
@@ -387,6 +394,18 @@
                       <div class="pointer"></div>
                       <div class="abstract">
                         <p>Class responsible to analyze the colors of an emoji</p>
+
+<p>To calculate the color of an emoji we do the following:</p>
+
+<ul>
+<li>Because emoji is a character, we draw the character on a context</li>
+<li>We store the context to an image of 40 x 40</li>
+<li>We save the image to disk</li>
+<li>We invoke<code>imagemagick</code> utility with the file saved.</li>
+<li>To get the color of an image we convert it to a 1x1 pixel image and we read the color of this pixel, this is how image magick  processes the color of an image.</li>
+<li>After getting the color pixel info, we get the name of this color by comparing the pixel info to a stored colors (Red, Blue, Yellow, Green, Purple, Orange, Black, Brown, White, Gray, Cyan).</li>
+<li>Because getting the color of an emoji is computationally expensive, after creating the CSV of all colours once. I stored this Plist in the app, When creating the OWL file, I read the color info for the emojis from this list</li>
+</ul>
 
                         <a href="Classes/EmojiColorAnalyser.html" class="slightly-smaller">See more</a>
                       </div>
@@ -451,7 +470,8 @@ values from the loaded webpage dom.</p>
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Class responsible to read a CSV file and return a CSV object</p>
+                        <p>Class responsible to read a CSV file and return a CSV object.
+This CSV object will have convenience method to read the rows and columns.</p>
 
                         <a href="Classes/CSVReader.html" class="slightly-smaller">See more</a>
                       </div>
@@ -483,7 +503,10 @@ values from the loaded webpage dom.</p>
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Generates an OWL file with the Emoji info</p>
+                        <p>Generates an OWL file with the Emoji info.</p>
+
+<p>This class convets a list of emoji proparties, annotations and emojis to an OWL/XML ontology.
+It uses an Emoji Ontology template file and fills it with the parametrs passed to it.</p>
 
                         <a href="Classes/OWLGenerator.html" class="slightly-smaller">See more</a>
                       </div>
@@ -515,7 +538,9 @@ values from the loaded webpage dom.</p>
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Emoji class representing an emoji</p>
+                        <p>Emoji class representing an emoji.</p>
+
+<p>This object contains instance variables for each of the emoji properties.</p>
 
                         <a href="Classes/Emoji.html" class="slightly-smaller">See more</a>
                       </div>
@@ -547,7 +572,7 @@ values from the loaded webpage dom.</p>
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Class responsible for reading the emoji Unicode CSV and parse it to annotations and emojis</p>
+                        <p>Class responsible for reading the emoji Unicode CSV and parse it to a list of annotations and emojis.</p>
 
                         <a href="Classes/EmojiReader.html" class="slightly-smaller">See more</a>
                       </div>
@@ -579,7 +604,12 @@ values from the loaded webpage dom.</p>
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Class responsible to get the sentiment information of an emoji</p>
+                        <p>Class responsible to get the sentiment information of an emoji.</p>
+
+<p>The sentiment information is read from bundled Sentiment.csv.
+This sentiment file contains the positive, negative and neutral occurance for each emoji.</p>
+
+<p>The sentiment information is calculalted by comparing the positive occurance number to the negative occurance number.</p>
 
                         <a href="Classes/SentimentAnalyzer.html" class="slightly-smaller">See more</a>
                       </div>
@@ -611,7 +641,17 @@ values from the loaded webpage dom.</p>
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Class responsible to generate a CSV string</p>
+                        <p>Class responsible to generate a CSV string.</p>
+
+<p>This class takes</p>
+
+<ul>
+<li>a list of Emoji Properties (Color, Sentiment, etc..)</li>
+<li>a list of Emoji annotations</li>
+<li>and a list of emojis</li>
+</ul>
+
+<p>It uses the parameters above to create a csv file that contains all that info.</p>
 
                         <a href="Classes/CSVGenerator.html" class="slightly-smaller">See more</a>
                       </div>
@@ -634,7 +674,7 @@ values from the loaded webpage dom.</p>
       </article>
     </div>
     <section class="footer">
-      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-22)</p>
+      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-26)</p>
       <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.6.0</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
     </section>
   </body>

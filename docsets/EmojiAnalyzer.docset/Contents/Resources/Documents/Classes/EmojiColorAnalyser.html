@@ -20,7 +20,7 @@
         <a class="header-link" href="../index.html">
           EmojiAnalyzer Docs
         </a>
-         (70% documented)
+         (84% documented)
       </p>
     
     
@@ -94,9 +94,6 @@
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Global Variables.html#/s:v13EmojiAnalyzer9SentimentCS_17SentimentAnalyzer">Sentiment</a>
               </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Global Variables.html#/s:v13EmojiAnalyzer13_cachedColorsGSqGVs10DictionarySSGS0_SSSS___">_cachedColors</a>
-              </li>
             </ul>
           </li>
           <li class="nav-group-name">
@@ -131,13 +128,13 @@
                 <a class="nav-group-task-link" href="../Functions.html#/s:F13EmojiAnalyzer6onMainFFT_T_T_">onMain(_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Functions.html#/s:ZF13EmojiAnalyzeroi2ogu0_rFTGSqx_FxGSqq___GSqq__">|&gt;(_:_:)</a>
+                <a class="nav-group-task-link" href="../Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Functions.html#/s:ZF13EmojiAnalyzeroi2ogu0_rFTxFxq__q_">|&gt;(_:_:)</a>
+                <a class="nav-group-task-link" href="../Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Functions/|&gt;&gt;(_:_:).html">|&gt;&gt;(_:_:)</a>
@@ -181,6 +178,18 @@
               </div>
             <p>Class responsible to analyze the colors of an emoji</p>
 
+<p>To calculate the color of an emoji we do the following:</p>
+
+<ul>
+<li>Because emoji is a character, we draw the character on a context</li>
+<li>We store the context to an image of 40 x 40</li>
+<li>We save the image to disk</li>
+<li>We invoke<code>imagemagick</code> utility with the file saved.</li>
+<li>To get the color of an image we convert it to a 1x1 pixel image and we read the color of this pixel, this is how image magick  processes the color of an image.</li>
+<li>After getting the color pixel info, we get the name of this color by comparing the pixel info to a stored colors (Red, Blue, Yellow, Green, Purple, Orange, Black, Brown, White, Gray, Cyan).</li>
+<li>Because getting the color of an emoji is computationally expensive, after creating the CSV of all colours once. I stored this Plist in the app, When creating the OWL file, I read the color info for the emojis from this list</li>
+</ul>
+
           </div>
         </section>
 
@@ -201,41 +210,14 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Undocumented</p>
+                        <p>Callback called with the progress of emoji analysis</p>
 
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">EmojiColorAnalyser</span></code></pre>
-
-                        </div>
-                      </div>
-                    </section>
-                  </div>
-                </li>
-                <li class="item">
-                  <div>
-                    <code>
-                    <a name="/s:C13EmojiAnalyzer18EmojiColorAnalyser24EmojiColorAnalysisResult"></a>
-                    <a name="//apple_ref/swift/Alias/EmojiColorAnalysisResult" class="dashAnchor"></a>
-                    <a class="token" href="#/s:C13EmojiAnalyzer18EmojiColorAnalyser24EmojiColorAnalysisResult">EmojiColorAnalysisResult</a>
-                    </code>
-                  </div>
-                  <div class="height-container">
-                    <div class="pointer-container"></div>
-                    <section class="section">
-                      <div class="pointer"></div>
-                      <div class="abstract">
-                        <p>Emoji analysis result type</p>
-
-                      </div>
-                      <div class="declaration">
-                        <h4>Declaration</h4>
-                        <div class="language">
-                          <p class="aside-title">Swift</p>
-                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">EmojiColorAnalysisResult</span> <span class="o">=</span> <span class="p">(</span><span class="kt">Emoji</span><span class="p">,</span> <span class="kt">String</span><span class="p">)</span></code></pre>
+                          <pre class="highlight"><code><span class="k">let</span> <span class="nv">progressCallback</span><span class="p">:</span> <span class="kt">ProgressCallback</span></code></pre>
 
                         </div>
                       </div>
@@ -263,6 +245,33 @@
                         <div class="language">
                           <p class="aside-title">Swift</p>
                           <pre class="highlight"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">FinishedCallback</span> <span class="o">=</span> <span class="p">([</span><span class="kt">EmojiColorAnalysisResult</span><span class="p">])</span> <span class="o">-&gt;</span> <span class="p">()</span></code></pre>
+
+                        </div>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:C13EmojiAnalyzer18EmojiColorAnalyser24EmojiColorAnalysisResult"></a>
+                    <a name="//apple_ref/swift/Alias/EmojiColorAnalysisResult" class="dashAnchor"></a>
+                    <a class="token" href="#/s:C13EmojiAnalyzer18EmojiColorAnalyser24EmojiColorAnalysisResult">EmojiColorAnalysisResult</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>Emoji analysis result type</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">typealias</span> <span class="kt">EmojiColorAnalysisResult</span> <span class="o">=</span> <span class="p">(</span><span class="kt">Emoji</span><span class="p">,</span> <span class="kt">String</span><span class="p">)</span></code></pre>
 
                         </div>
                       </div>
@@ -309,14 +318,14 @@
                     <section class="section">
                       <div class="pointer"></div>
                       <div class="abstract">
-                        <p>Undocumented</p>
+                        <p>Callback called when analysis ends</p>
 
                       </div>
                       <div class="declaration">
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">class</span> <span class="kt">EmojiColorAnalyser</span></code></pre>
+                          <pre class="highlight"><code><span class="k">let</span> <span class="nv">finishedCallback</span><span class="p">:</span> <span class="kt">FinishedCallback</span></code></pre>
 
                         </div>
                       </div>
@@ -629,7 +638,7 @@ After calculating the color for an emoji. The color is cached for future reuse.<
       </article>
     </div>
     <section class="footer">
-      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-22)</p>
+      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-26)</p>
       <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.6.0</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
     </section>
   </body>

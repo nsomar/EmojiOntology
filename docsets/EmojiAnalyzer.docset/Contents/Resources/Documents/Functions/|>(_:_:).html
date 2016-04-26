@@ -20,7 +20,7 @@
         <a class="header-link" href="../index.html">
           EmojiAnalyzer Docs
         </a>
-         (70% documented)
+         (84% documented)
       </p>
     
     
@@ -94,9 +94,6 @@
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Global Variables.html#/s:v13EmojiAnalyzer9SentimentCS_17SentimentAnalyzer">Sentiment</a>
               </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Global Variables.html#/s:v13EmojiAnalyzer13_cachedColorsGSqGVs10DictionarySSGS0_SSSS___">_cachedColors</a>
-              </li>
             </ul>
           </li>
           <li class="nav-group-name">
@@ -131,13 +128,13 @@
                 <a class="nav-group-task-link" href="../Functions.html#/s:F13EmojiAnalyzer6onMainFFT_T_T_">onMain(_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Functions.html#/s:ZF13EmojiAnalyzeroi2ogu0_rFTGSqx_FxGSqq___GSqq__">|&gt;(_:_:)</a>
+                <a class="nav-group-task-link" href="../Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="../Functions.html#/s:ZF13EmojiAnalyzeroi2ogu0_rFTxFxq__q_">|&gt;(_:_:)</a>
+                <a class="nav-group-task-link" href="../Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="../Functions/|&gt;&gt;(_:_:).html">|&gt;&gt;(_:_:)</a>
@@ -175,13 +172,13 @@
             <h1>|&gt;(_:_:)</h1>
               <div class="declaration">
                 <div class="language">
-                  <pre class="highlight"><code><span class="kd">public</span> <span class="kd">func</span> <span class="o">|&gt;</span> <span class="o">&lt;</span><span class="kt">T</span><span class="o">&gt;</span> <span class="p">(</span><span class="nv">left</span><span class="p">:</span> <span class="kt">T</span><span class="p">?,</span> <span class="nv">right</span><span class="p">:</span> <span class="kt">T</span> <span class="o">-&gt;</span> <span class="p">())</span></code></pre>
+                  <pre class="highlight"><code><span class="kd">public</span> <span class="kd">func</span> <span class="o">|&gt;</span> <span class="o">&lt;</span><span class="kt">T</span><span class="p">,</span> <span class="kt">W</span><span class="o">&gt;</span> <span class="p">(</span><span class="nv">left</span><span class="p">:</span> <span class="kt">T</span><span class="p">,</span> <span class="nv">right</span><span class="p">:</span> <span class="kt">T</span> <span class="o">-&gt;</span> <span class="kt">W</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">W</span></code></pre>
 
                 </div>
               </div>
             <p>Pipe operator (Apply)</p>
 
-<p>used as fa: A -&gt; B. fb B -&gt; C. 
+<p>used as fa: A -&gt; B. fb B -&gt; C.
 fa |&gt; fb.
 A -&gt; B -&gt; C. A -&gt; C</p>
 
@@ -195,9 +192,9 @@ A -&gt; B -&gt; C. A -&gt; C</p>
                 <li class="item">
                   <div>
                     <code>
-                    <a name="/s:tZF13EmojiAnalyzeroi2ogurFTGSqx_FxT__T_L_1TMx"></a>
+                    <a name="/s:tZF13EmojiAnalyzeroi2ogu0_rFTxFxq__q_L_1TMx"></a>
                     <a name="//apple_ref/swift/Parameter/T" class="dashAnchor"></a>
-                    <a class="token" href="#/s:tZF13EmojiAnalyzeroi2ogurFTGSqx_FxT__T_L_1TMx">T</a>
+                    <a class="token" href="#/s:tZF13EmojiAnalyzeroi2ogu0_rFTxFxq__q_L_1TMx">T</a>
                     </code>
                   </div>
                   <div class="height-container">
@@ -212,7 +209,7 @@ A -&gt; B -&gt; C. A -&gt; C</p>
                         <h4>Declaration</h4>
                         <div class="language">
                           <p class="aside-title">Swift</p>
-                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">func</span> <span class="o">|&gt;</span> <span class="o">&lt;</span><span class="kt">T</span><span class="o">&gt;</span> <span class="p">(</span><span class="nv">left</span><span class="p">:</span> <span class="kt">T</span><span class="p">?,</span> <span class="nv">right</span><span class="p">:</span> <span class="kt">T</span> <span class="o">-&gt;</span> <span class="p">())</span></code></pre>
+                          <pre class="highlight"><code><span class="kd">public</span> <span class="kd">func</span> <span class="o">|&gt;</span> <span class="o">&lt;</span><span class="kt">T</span><span class="p">,</span> <span class="kt">W</span><span class="o">&gt;</span> <span class="p">(</span><span class="nv">left</span><span class="p">:</span> <span class="kt">T</span><span class="p">,</span> <span class="nv">right</span><span class="p">:</span> <span class="kt">T</span> <span class="o">-&gt;</span> <span class="kt">W</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="kt">W</span></code></pre>
 
                         </div>
                       </div>
@@ -227,7 +224,7 @@ A -&gt; B -&gt; C. A -&gt; C</p>
       </article>
     </div>
     <section class="footer">
-      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-22)</p>
+      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-26)</p>
       <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.6.0</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
     </section>
   </body>

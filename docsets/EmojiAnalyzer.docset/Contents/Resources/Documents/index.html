@@ -19,7 +19,7 @@
         <a class="header-link" href="index.html">
           EmojiAnalyzer Docs
         </a>
-         (70% documented)
+         (84% documented)
       </p>
     
     
@@ -93,9 +93,6 @@
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Global Variables.html#/s:v13EmojiAnalyzer9SentimentCS_17SentimentAnalyzer">Sentiment</a>
               </li>
-              <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Global Variables.html#/s:v13EmojiAnalyzer13_cachedColorsGSqGVs10DictionarySSGS0_SSSS___">_cachedColors</a>
-              </li>
             </ul>
           </li>
           <li class="nav-group-name">
@@ -130,13 +127,13 @@
                 <a class="nav-group-task-link" href="Functions.html#/s:F13EmojiAnalyzer6onMainFFT_T_T_">onMain(_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Functions.html#/s:ZF13EmojiAnalyzeroi2ogu0_rFTGSqx_FxGSqq___GSqq__">|&gt;(_:_:)</a>
+                <a class="nav-group-task-link" href="Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
-                <a class="nav-group-task-link" href="Functions.html#/s:ZF13EmojiAnalyzeroi2ogu0_rFTxFxq__q_">|&gt;(_:_:)</a>
+                <a class="nav-group-task-link" href="Functions/|&gt;(_:_:).html">|&gt;(_:_:)</a>
               </li>
               <li class="nav-group-task">
                 <a class="nav-group-task-link" href="Functions/|&gt;&gt;(_:_:).html">|&gt;&gt;(_:_:)</a>
@@ -203,6 +200,11 @@
 <li>CSV format</li>
 <li>OWL/XML ontology format</li>
 </ul>
+<a href='#documentation' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='documentation'>Documentation</h2>
+
+<p>Code documentation can be found here on <a href="http://oarrabi.github.io/EmojiOntology/">github pages</a>.</p>
+
+<hr>
 <a href='#analyzing_emojis' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='analyzing_emojis'>Analyzing emojis</h2>
 <a href='#color_analysis' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='color_analysis'>Color analysis</h3>
 
@@ -216,6 +218,8 @@
 <a href='#emoji_annotations_additional_categories' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='emoji_annotations_additional_categories'>Emoji annotations additional categories</h3>
 
 <p>When exporting to OWL, EmojiOntology applies an additional level of categories on the emoji annotations.</p>
+
+<hr>
 <a href='#exporting_analysis' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='exporting_analysis'>Exporting analysis</h2>
 <a href='#exporting_to_csv' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='exporting_to_csv'>Exporting to CSV</h3>
 
@@ -223,6 +227,8 @@
 <a href='#exporting_to_owl_xml' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='exporting_to_owl_xml'>Exporting to OWL/XML</h3>
 
 <p>Exports the emoji ontology to OWL/XML format.</p>
+
+<hr>
 <a href='#resources' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='resources'>Resources</h2>
 
 <p>This is a list of files and what they represent</p>
@@ -243,7 +249,86 @@ Emoji OWL main file template. This file contains placeholder string markers that
 <p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/EmojiUses.plist">EmojiUses.plist</a>: Mac property list (mac dictionary) file that contains a hash map dictionary, with emoji as key and emoji twitter usage numbers as value.</p>
 
 <p><a href="https://github.com/oarrabi/EmojiOntology/blob/master/res/Sentiment.csv">Sentiment.csv</a>: CSV file containing the emoji base unicode information.</p>
-<a href='#notable_files' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='notable_files'>Notable files</h2>
+
+<hr>
+<a href='#notable_classes' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h2 id='notable_classes'>Notable Classes</h2>
+
+<p>The following is a rundown of the classes used in the application.</p>
+
+<p>Note: The complete code documentation can be found here on <a href="http://oarrabi.github.io/EmojiOntology/">github pages</a>.</p>
+<a href='#additionalcategories' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='additionalcategories'>AdditionalCategories</h3>
+
+<p><code>AdditionalCategories.swift</code>: Class responsible to parse and enrich the emoji annotations with additional structural levels.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Analysis/AdditionalCategories/AdditionalCategories.swift">Github link</a> 
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/AdditionalCategories.html">Documentation link</a></p>
+<a href='#colors' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='colors'>Colors</h3>
+
+<p><code>EmojiColorAnalyser.swift</code>: Class responsible to analyze the colors of an emoji.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Analysis/Color/EmojiColorAnalyser.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/EmojiColorAnalyser.html">Documentation</a></p>
+
+<p><code>EmojiDrawer.swift</code>: Class responsible to draw an emoji to an image.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Analysis/Color/EmojiDrawer.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/EmojiDrawer.html">Documentation</a></p>
+<a href='#sentiment' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='sentiment'>Sentiment</h3>
+
+<p><code>SentimentAnalyzer.swift</code>: Singleton to access the <code>SentimentAnalyzer</code>.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Analysis/Sentiment/SentimentAnalyzer.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/SentimentAnalyzer.html">Documentation</a></p>
+
+<p><code>SentimentItem.swift</code>: Sentiment item containing all info about an emoji sentiment.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Analysis/Sentiment/SentimentItem.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/SentimentItem.html">Documentation</a></p>
+
+<p><code>StreamReader.swift</code>: Read a file as a stream (buffered reading).
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Analysis/Sentiment/StreamReader.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/StreamReader.html">Documentation</a></p>
+<a href='#usage_numbers' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='usage_numbers'>Usage Numbers</h3>
+
+<p><code>EmojiUsageAnalyser.swift</code>: Class responsible for analysing the emoji usage.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Analysis/Usage/EmojiUsageAnalyser.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Structs/EmojiUsageAnalyser.html">Documentation</a></p>
+
+<p><code>WebViewLoader.swift</code>: This class starts a web kit view in the background and uses mac javascript bridge to read 
+ values from the loaded webpage dom.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Analysis/Usage/WebViewLoader.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/WebViewLoader.html">Documentation</a></p>
+<a href='#emoji_reader' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='emoji_reader'>Emoji Reader</h3>
+
+<p><code>EmojiReader.swift</code>: Class responsible for reading the emoji Unicode CSV and parse it to annotations and emojis
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/EmojiReader/EmojiReader.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/EmojiReader.html">Documentation</a></p>
+<a href='#csv_generation' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='csv_generation'>CSV Generation</h3>
+
+<p><code>CSVConvertible.swift</code>: Protocol to convert objects to CSV.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Generators/CSV/CSVConvertible.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Protocols/CSVConvertible.html">Documentation</a></p>
+
+<p><code>CSVGenerator.swift</code>: Class responsible to generate a CSV string.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Generators/CSV/CSVGenerator.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/EmojiReader.html">Documentation</a></p>
+<a href='#owl_generation' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='owl_generation'>OWL Generation</h3>
+
+<p><code>OWLConvertible.swift</code>: Protocol defining the requirements for an object to be convertible to OWL.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Generators/OWL/OWLConvertible.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Protocols/OWLConvertible.html">Documentation</a></p>
+
+<p><code>OWLGenerator.swift</code>: Generates an OWL file with the Emoji info.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Generators/OWL/OWLGenerator.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/OWLGenerator.html">Documentation</a></p>
+
+<p><code>OWLNamer.swift</code>: Class responsible to sanitize a string to be usable as an OWL entity name.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Generators/OWL/OWLNamer.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/OWLNamer.html">Documentation</a></p>
+<a href='#models' class='anchor' aria-hidden=true><span class="header-anchor"></span></a><h3 id='models'>Models</h3>
+
+<p><code>Annotation.swift</code>: Annotation class representing an emoji annotation (face, eyes, mouth, etc..).
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Models/Annotation.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/Annotation.html">Documentation</a></p>
+
+<p><code>Emoji.swift</code>: Emoji class representing an emoji.
+- <a href="https://github.com/oarrabi/EmojiOntology/blob/master/EmojiAnalyzer/Models/Emoji.swift">Github link</a>
+- <a href="http://oarrabi.github.io/EmojiOntology/Classes/Emoji.html">Documentation</a></p>
 
           </div>
         </section>
@@ -252,7 +337,7 @@ Emoji OWL main file template. This file contains placeholder string markers that
       </article>
     </div>
     <section class="footer">
-      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-22)</p>
+      <p>&copy; 2016 <a class="link" href="http://nsomar.com" target="_blank" rel="external">Omar Abdelhafith</a>. All rights reserved. (Last updated: 2016-04-26)</p>
       <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.6.0</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
     </section>
   </body>
