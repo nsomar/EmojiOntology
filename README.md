@@ -59,7 +59,7 @@ Exports the emoji ontology to OWL/XML format.
 
 This is a list of files and what they represent
 
-[Annotation Categories.csv](https://github.com/oarrabi/EmojiOntology/blob/master/res/Annotation%20Categories.csv): 
+[Annotation Categories.csv](https://github.com/oarrabi/EmojiOntology/blob/master/deliverables/Annotation%20Categories.csv): 
 This file contains the annotation additional categories, these categories help giving the emoji another depth in the ontology structure.
 
 [AnnotationCategories.xml](https://github.com/oarrabi/EmojiOntology/blob/master/res/AnnotationCategories.xml): 
@@ -68,13 +68,13 @@ File containing a template OWL/XML file for all the additional category subclass
 [Emoji.owl](https://github.com/oarrabi/EmojiOntology/blob/master/res/Emoji.owl): 
 Emoji OWL main file template. This file contains placeholder string markers that EmojiOntology app fills when generating the final emoji.
 
-[EmojiColor.plist](https://github.com/oarrabi/EmojiOntology/blob/master/res/EmojiColor.plist): Mac property list (mac dictionary) file that contains a hash map dictionary, with emoji as key and emoji dominant color as value.
+[EmojiColor.plist](https://github.com/oarrabi/EmojiOntology/blob/master/deliverables/EmojiColor.plist): Mac property list (mac dictionary) file that contains a hash map dictionary, with emoji as key and emoji dominant color as value.
 
-[EmojiFull.csv](https://github.com/oarrabi/EmojiOntology/blob/master/res/EmojiFull.csv): CSV file containing a list of emoji and all the meta-data available for each emoji.
+[EmojiFull.csv](https://github.com/oarrabi/EmojiOntology/blob/master/deliverables/EmojiFull.csv): CSV file containing a list of emoji and all the meta-data available for each emoji.
 
-[EmojiUses.plist](https://github.com/oarrabi/EmojiOntology/blob/master/res/EmojiUses.plist): Mac property list (mac dictionary) file that contains a hash map dictionary, with emoji as key and emoji twitter usage numbers as value.
+[EmojiUses.plist](https://github.com/oarrabi/EmojiOntology/blob/master/deliverables/EmojiUses.plist): Mac property list (mac dictionary) file that contains a hash map dictionary, with emoji as key and emoji twitter usage numbers as value.
 
-[Sentiment.csv](https://github.com/oarrabi/EmojiOntology/blob/master/res/Sentiment.csv): CSV file containing the emoji base unicode information.
+[Sentiment.csv](https://github.com/oarrabi/EmojiOntology/blob/master/deliverables/Sentiment.csv): CSV file containing the emoji base unicode information.
 
 -----
 
