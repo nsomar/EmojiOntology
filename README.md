@@ -65,6 +65,8 @@ This file contains the annotation additional categories, these categories help g
 [AnnotationCategories.xml](https://github.com/oarrabi/EmojiOntology/blob/master/res/AnnotationCategories.xml): 
 File containing a template OWL/XML file for all the additional category subclassing information.
 
+[FinalEmoji.owl](https://github.com/oarrabi/EmojiOntology/blob/master/deliverables/FinalEmoji.owl): Final emoji ontology in OWL/XML format.
+
 [Emoji.owl](https://github.com/oarrabi/EmojiOntology/blob/master/res/Emoji.owl): 
 Emoji OWL main file template. This file contains placeholder string markers that EmojiOntology app fills when generating the final emoji.
 
